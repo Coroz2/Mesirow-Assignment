@@ -1,501 +1,501 @@
-account_name,contact_email,created_date,lead_source,opportunity_amount,is_active,sfdc_id,annual_revenue,Last Activity,Custom Field,Region,Unnamed: 0,Unnamed: 21,Random Notes,Deal Score,Engagement Level,Num Calls,Time on Page (sec),City,State,Country
-Acme Corp,contact@acme.com,2020-01-01,Trade Show,1000.0,False,001B000002,1000000.0,,"{""type"": ""A"", ""value"": 100}",United States,0,,,50.0,,,141,Chicago,N.Y.,
-Globex,help@globex.com,2022-12-01,Social Media,,False,,1000000.0,42,,United States,1,,,,0.0636085280362646,31.0,278,,CA,
-Globex,help@globex.com,,Email Campaign,50000.0,True,001A000001,5000000.0,2024-05-05,"{""type"": null}",North America,2,,,,0.2173328901051947,38.0,271,Chicago,,United States
-Acme Corp,contact@acme.com,,Social Media,50000.0,False,,1000000.0,2024-09-13 19:37:11.167657,"{""type"": ""A"", ""value"": 100}",US,3,,,100.0,,32.0,318,,,United States
-Umbrella,,2024-03-26,Web,50000.0,False,001B000002,1000000.0,2024-05-05,,North America,4,,,100.0,0.5375777697761069,,399,San Francisco,N.Y.,United States
-Globex,help@globex.com,2024-04-03,,50000.0,True,001A000001,999999.0,42,"{""type"": ""A"", ""value"": 100}",United States,5,,,,0.7660733285745563,23.0,383,Chicago,Illinois,us
-Soylent,,2025-07-17,Referral,10000.0,False,001A000001,,2025-01-28 19:37:11.167664,"{""type"": ""B"", ""value"": 200}",US,6,,,100.0,,3.0,155,,Illinois,us
-Soylent,,2023-12-17,Phone Inquiry,1000.0,True,,,Called client,"{""type"": ""A"", ""value"": 100}",N.A.,7,,See notes,10.0,0.9034173098115204,37.0,248,New York,Illinois,USA
-Acme Corp,contact@acme.com,2022-12-01,Trade Show,1000.0,False,001B000002,2500000.0,2025-01-23 19:37:11.167671,,,8,,,50.0,0.5413931977192316,,419,New York,IL,United States
-Acme Corp,contact@acme.com,,Email Campaign,50000.0,False,001C000003,5000000.0,,,North America,9,,See notes,,,10.0,108,New York,NY,us
-Umbrella,,2024-06-03,Trade Show,25000.0,True,001A000001,2500000.0,,"{""type"": null}",,10,,See notes,75.0,0.0309001072711559,49.0,182,San Francisco,Illinois,United States
-Wonka,,2025-07-08,Trade Show,50000.0,True,,5000000.0,2024-05-05,"{""type"": null}",,11,,See notes,100.0,0.1543360464952931,13.0,194,chicago,California,us
-Globex,help@globex.com,2022-12-01,,1000.0,True,,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",,12,,,75.0,,,279,,Illinois,U.S.
-Soylent,,2020-01-01,Trade Show,50000.0,True,001B000002,1000000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",US,13,,Valid,100.0,0.7853081147314578,26.0,37,,NY,
-Soylent,,2020-01-01,Partner,50000.0,False,,1000000.0,,"{""type"": ""B"", ""value"": 200}",North America,14,,See notes,100.0,0.274271385331132,17.0,350,nyc,NY,
-Globex,help@globex.com,2023-01-26,Social Media,50000.0,True,,100000.0,42,,,15,,,10.0,,21.0,105,Chicago,California,us
-Acme Corp,contact@acme.com,2022-12-01,Referral,50000.0,True,001C000003,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",,16,,See notes,,0.8991410997621325,,331,chicago,CA,
-Globex,help@globex.com,,Web,25000.0,True,,1000000.0,,,N.A.,17,,See notes,100.0,0.0606354866542068,9.0,296,nyc,CA,us
-Soylent,,2020-01-01,Social Media,10000.0,,001A000001,5000000.0,2024-08-22 19:37:11.167705,"{""type"": null}",N.A.,18,,Valid,,,41.0,169,,California,U.S.
-Globex,help@globex.com,,Email Campaign,,False,001A000001,5000000.0,42,,N.A.,19,,,100.0,0.2804927020812819,44.0,353,nyc,CA,U.S.
-Umbrella,,2020-01-01,Social Media,1000.0,False,,1000000.0,42,"{""type"": ""B"", ""value"": 200}",N.A.,20,,,100.0,0.095621622484592,,360,New York,,U.S.
-Umbrella,,2024-08-12,Referral,10000.0,True,,1000000.0,42,"{""type"": ""A"", ""value"": 100}",N.A.,21,,See notes,75.0,,41.0,472,,,USA
-Wonka,,2022-12-01,Trade Show,50000.0,False,001B000002,2500000.0,42,,United States,22,,See notes,75.0,0.780823237111309,37.0,73,San Francisco,N.Y.,United States
-Globex,help@globex.com,2022-12-01,Email Campaign,50000.0,True,001B000002,1000000.0,42,"{""type"": null}",N.A.,23,,See notes,75.0,0.2903633147599022,1.0,113,New York,NY,us
-Soylent,,2020-01-01,Email Campaign,,True,,,2024-12-18 19:37:11.167726,"{""type"": null}",United States,24,,,10.0,,,21,nyc,IL,us
-Globex,help@globex.com,2024-12-27,Social Media,0.0,,,1000000.0,42,,US,25,,See notes,50.0,0.8940609049208631,8.0,50,,IL,us
-Acme Corp,contact@acme.com,2022-12-01,Social Media,10000.0,True,,1000000.0,Called client,,US,26,,Valid,,0.0530025975252362,43.0,205,,,USA
-Soylent,,2023-05-04,Email Campaign,,True,,999999.0,Called client,,,27,,,,,28.0,107,New York,California,U.S.
-Initech,,,Web,50000.0,False,001C000003,2500000.0,42,"{""type"": ""A"", ""value"": 100}",N.A.,28,,Valid,100.0,0.9407276138973484,,203,chicago,N.Y.,us
-Soylent,,,Email Campaign,1000.0,True,001A000001,5000000.0,,,,29,,,100.0,0.9582527093275404,19.0,134,chicago,N.Y.,U.S.
-Globex,help@globex.com,2022-12-01,Web,0.0,True,001A000001,2500000.0,42,"{""type"": ""A"", ""value"": 100}",United States,30,,Valid,75.0,,3.0,442,chicago,IL,
-Globex,help@globex.com,,Trade Show,,False,,1000000.0,42,,United States,31,,,100.0,0.0635508382674759,10.0,472,Chicago,,USA
-Soylent,,2024-02-20,Social Media,,False,001B000002,1000000.0,Called client,"{""type"": null}",N.A.,32,,,10.0,0.3863532626759115,,59,,IL,
-Globex,help@globex.com,2022-12-01,Trade Show,0.0,False,,999999.0,,"{""type"": ""B"", ""value"": 200}",North America,33,,See notes,100.0,,37.0,417,San Francisco,California,United States
-Soylent,,2022-12-01,Email Campaign,10000.0,False,,5000000.0,,"{""type"": ""A"", ""value"": 100}",,34,,See notes,50.0,0.9556450791936716,41.0,496,,N.Y.,
-Globex,help@globex.com,2025-06-13,Referral,10000.0,True,001A000001,1000000.0,2025-03-08 19:37:11.167756,,,35,,See notes,100.0,0.4717432607899557,32.0,189,San Francisco,California,us
-Acme Corp,contact@acme.com,2020-01-01,Social Media,10000.0,True,,5000000.0,,,,36,,Valid,,,,206,nyc,Illinois,USA
-Umbrella,,2024-08-15,Referral,10000.0,False,,1000000.0,2024-08-08 19:37:11.167760,,US,37,,,10.0,0.6700288593287657,23.0,492,New York,,USA
-Acme Corp,contact@acme.com,2022-12-01,Email Campaign,50000.0,True,001A000001,2500000.0,Called client,,North America,38,,,,0.2340663823886296,24.0,377,Chicago,California,us
-Globex,help@globex.com,,,50000.0,True,,1000000.0,42,"{""type"": ""B"", ""value"": 200}",United States,39,,See notes,75.0,,16.0,93,San Francisco,IL,United States
-Soylent,,2022-12-01,Referral,25000.0,True,,2500000.0,2024-05-05,"{""type"": null}",United States,40,,,10.0,0.7763934874579811,,429,,,United States
-Acme Corp,contact@acme.com,2025-07-08,Email Campaign,25000.0,True,001A000001,1000000.0,2025-06-30 19:37:11.167770,"{""type"": ""B"", ""value"": 200}",,41,,,75.0,0.6687049635174467,1.0,339,,California,us
-Soylent,,2020-01-01,Social Media,1000.0,True,,1000000.0,,,United States,42,,Valid,75.0,,48.0,94,New York,CA,us
-Soylent,,2020-01-01,Trade Show,10000.0,True,001A000001,,2024-09-08 19:37:11.167774,,N.A.,43,,,10.0,0.4628525173381721,45.0,398,nyc,,us
-Acme Corp,contact@acme.com,2023-06-06,Email Campaign,10000.0,True,,1000000.0,42,,North America,44,,,100.0,0.4949605282666564,,450,,California,
-Globex,help@globex.com,,Social Media,50000.0,True,001A000001,999999.0,Called client,,,45,,,10.0,,5.0,278,San Francisco,N.Y.,USA
-Globex,help@globex.com,,,10000.0,False,,2500000.0,Called client,"{""type"": ""A"", ""value"": 100}",US,46,,,75.0,0.6484756106425171,20.0,222,,NY,us
-Globex,help@globex.com,,Web,1000.0,True,,100000.0,Called client,"{""type"": ""A"", ""value"": 100}",,47,,See notes,50.0,0.2813745885736209,19.0,452,chicago,Illinois,us
-Globex,help@globex.com,2020-01-01,Social Media,10000.0,False,001A000001,5000000.0,2024-05-05,"{""type"": null}",US,48,,,25.0,,,376,chicago,CA,United States
-Soylent,,2022-12-01,Trade Show,,True,,999999.0,Called client,,,49,,,50.0,0.6822469688621764,50.0,332,nyc,Illinois,USA
-Acme Corp,contact@acme.com,2023-08-08,Email Campaign,50000.0,True,001A000001,100000.0,,"{""type"": ""A"", ""value"": 100}",,50,,,75.0,0.6373603910717661,1.0,465,New York,,us
-Globex,help@globex.com,2020-01-01,,1000.0,True,,1000000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",N.A.,51,,Valid,50.0,,13.0,110,,California,U.S.
-Globex,help@globex.com,2022-12-01,Referral,0.0,False,,1000000.0,2025-06-06 19:37:11.167794,,United States,52,,Valid,50.0,0.9779479099618632,,74,chicago,California,us
-Acme Corp,contact@acme.com,,Trade Show,50000.0,True,001C000003,1000000.0,2025-05-08 19:37:11.167797,"{""type"": ""A"", ""value"": 100}",,53,,Valid,50.0,0.2280773663571758,13.0,218,Chicago,N.Y.,United States
-Globex,help@globex.com,2020-01-01,Social Media,25000.0,True,,2500000.0,42,"{""type"": null}",United States,54,,,100.0,,38.0,263,nyc,NY,U.S.
-Umbrella,,2023-01-07,Referral,10000.0,False,,5000000.0,42,"{""type"": null}",N.A.,55,,Valid,75.0,0.0581814895869864,24.0,158,,CA,U.S.
-Globex,help@globex.com,2023-07-25,,50000.0,True,,,42,,N.A.,56,,,10.0,0.2425164915580693,,457,New York,N.Y.,U.S.
-Acme Corp,contact@acme.com,2020-01-01,Phone Inquiry,0.0,False,,5000000.0,42,,N.A.,57,,See notes,50.0,,15.0,177,,IL,United States
-Wonka,,2020-01-01,Social Media,10000.0,True,001B000002,1000000.0,2024-05-05,,,58,,,,0.952599194728411,23.0,350,,IL,
-Soylent,,2022-12-01,Email Campaign,50000.0,True,001A000001,1000000.0,,,United States,59,,See notes,25.0,0.386085739561833,6.0,396,chicago,N.Y.,us
-Umbrella,,2020-01-01,Partner,50000.0,False,001C000003,1000000.0,Called client,,,60,,,25.0,,,491,San Francisco,,United States
-Soylent,,,Email Campaign,50000.0,False,001C000003,1000000.0,2024-09-28 19:37:11.167814,"{""type"": null}",United States,61,,,75.0,0.6321827972863433,41.0,18,nyc,IL,
-Soylent,,2024-04-29,Web,50000.0,False,001A000001,1000000.0,42,"{""type"": ""A"", ""value"": 100}",North America,62,,See notes,10.0,0.0254772827746345,45.0,477,,IL,United States
-Soylent,,2022-12-01,Web,,True,001C000003,1000000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,63,,See notes,10.0,,29.0,416,San Francisco,Illinois,U.S.
-Umbrella,,,Referral,1000.0,True,,1000000.0,,"{""type"": ""B"", ""value"": 200}",,64,,See notes,100.0,0.1563102858949157,,357,nyc,N.Y.,us
-Umbrella,,,Email Campaign,50000.0,True,001A000001,5000000.0,42,"{""type"": ""B"", ""value"": 200}",United States,65,,See notes,100.0,0.8420958705773769,39.0,361,San Francisco,California,USA
-,,2022-12-01,Referral,10000.0,False,,1000000.0,Called client,,N.A.,66,,Valid,50.0,,16.0,150,San Francisco,IL,United States
-Globex,help@globex.com,2024-09-21,Trade Show,10000.0,True,,1000000.0,42,"{""type"": null}",,67,,Valid,10.0,0.4456232194336468,21.0,112,San Francisco,Illinois,us
-Globex,help@globex.com,,Referral,1000.0,False,001C000003,1000000.0,Called client,"{""type"": null}",United States,68,,,25.0,0.4584850706768534,,201,New York,California,us
-Soylent,,2025-03-04,Trade Show,50000.0,True,001C000003,2500000.0,2024-08-26 19:37:11.167832,"{""type"": ""B"", ""value"": 200}",North America,69,,,25.0,,18.0,155,nyc,California,U.S.
-Umbrella,,2022-12-01,,1000.0,False,001B000002,2500000.0,Called client,,US,70,,,75.0,0.7348385582247391,40.0,62,,,U.S.
-Globex,help@globex.com,2020-01-01,Trade Show,10000.0,True,,1000000.0,2025-05-25 19:37:11.167837,"{""type"": null}",N.A.,71,,Valid,,0.4881674030535727,6.0,331,,NY,
-Globex,help@globex.com,2020-01-01,Partner,50000.0,False,,1000000.0,2025-03-16 19:37:11.167839,"{""type"": null}",US,72,,Valid,,,,490,,IL,us
-Umbrella,,2022-12-01,Trade Show,1000.0,False,001B000002,2500000.0,2024-10-21 19:37:11.167841,"{""type"": null}",US,73,,,50.0,0.4178113686510603,14.0,352,Chicago,Illinois,United States
-Umbrella,,2022-12-01,Partner,,False,001B000002,1000000.0,2024-11-30 19:37:11.167843,"{""type"": ""B"", ""value"": 200}",N.A.,74,,,10.0,0.1077471016981241,0.0,66,nyc,N.Y.,USA
-Globex,help@globex.com,,Social Media,10000.0,True,001B000002,1000000.0,2025-03-02 19:37:11.167845,"{""type"": ""A"", ""value"": 100}",United States,75,,,,,40.0,71,,CA,U.S.
-Soylent,,2024-10-07,Social Media,50000.0,True,001B000002,1000000.0,2024-05-05,,US,76,,Valid,25.0,0.1581067546016386,,113,New York,NY,
-Globex,help@globex.com,2022-12-01,Social Media,,False,001B000002,2500000.0,2024-05-05,"{""type"": null}",,77,,,75.0,0.9994752009623408,0.0,394,Chicago,California,U.S.
-Soylent,,2024-09-27,Social Media,10000.0,False,,999999.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",N.A.,78,,,50.0,,2.0,378,New York,California,
-Acme Corp,contact@acme.com,,Email Campaign,50000.0,False,,1000000.0,,"{""type"": ""B"", ""value"": 200}",,79,,See notes,75.0,0.1138027711581948,46.0,145,nyc,Illinois,United States
-Globex,help@globex.com,2022-12-01,Email Campaign,50000.0,True,,5000000.0,,"{""type"": ""A"", ""value"": 100}",,80,,Valid,10.0,0.2915007644552758,,10,,N.Y.,U.S.
-Acme Corp,contact@acme.com,2024-07-10,Trade Show,50000.0,False,,999999.0,42,"{""type"": ""B"", ""value"": 200}",US,81,,,100.0,,41.0,223,,California,us
-Wonka,,2020-01-01,Email Campaign,1000.0,False,,1000000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",,82,,,25.0,0.0396665047865796,19.0,18,New York,CA,U.S.
-Globex,help@globex.com,2020-01-01,Social Media,50000.0,True,001A000001,5000000.0,2024-05-05,,,83,,See notes,,0.7382787974625982,25.0,252,nyc,CA,
-Acme Corp,contact@acme.com,2020-01-01,Social Media,1000.0,True,001A000001,1000000.0,Called client,"{""type"": ""A"", ""value"": 100}",North America,84,,Valid,,,,147,New York,California,us
-Acme Corp,contact@acme.com,2022-12-01,Trade Show,1000.0,True,001B000002,1000000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,85,,,25.0,0.5442747828776291,40.0,228,Chicago,CA,us
-Acme Corp,contact@acme.com,2022-12-01,Email Campaign,10000.0,True,001B000002,,Called client,"{""type"": ""B"", ""value"": 200}",United States,86,,,,0.6748143522105087,39.0,15,nyc,NY,us
-Umbrella,,2020-01-01,,25000.0,True,,,,"{""type"": ""A"", ""value"": 100}",United States,87,,,25.0,,1.0,315,chicago,CA,USA
-Globex,help@globex.com,2022-12-01,,50000.0,True,001A000001,1000000.0,Called client,"{""type"": ""A"", ""value"": 100}",N.A.,88,,,100.0,0.4823488155411135,,482,Chicago,California,United States
-Umbrella,,2025-06-07,Email Campaign,1000.0,True,,1000000.0,42,,US,89,,,100.0,0.4253270562977473,25.0,204,San Francisco,N.Y.,USA
-Umbrella,,2022-12-01,Email Campaign,1000.0,False,001A000001,5000000.0,42,"{""type"": ""A"", ""value"": 100}",N.A.,90,,,100.0,,24.0,353,Chicago,NY,United States
-Globex,help@globex.com,2025-03-03,Referral,50000.0,False,,1000000.0,2025-07-18 19:37:11.167881,"{""type"": ""A"", ""value"": 100}",N.A.,91,,,75.0,0.224010725409763,9.0,244,chicago,N.Y.,USA
-Globex,help@globex.com,,Referral,,False,,2500000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",,92,,,100.0,0.8284863300239481,,171,,NY,U.S.
-Soylent,,2020-01-01,Trade Show,10000.0,True,,1000000.0,42,,,93,,See notes,,,23.0,441,nyc,NY,us
-Umbrella,,,,10000.0,True,001A000001,1000000.0,Called client,,North America,94,,See notes,100.0,0.913536702783527,5.0,216,San Francisco,N.Y.,USA
-Globex,help@globex.com,2020-01-01,Trade Show,1000.0,True,,5000000.0,,"{""type"": ""B"", ""value"": 200}",United States,95,,,10.0,0.3783793554943464,28.0,56,,NY,us
-Globex,help@globex.com,2022-12-01,Trade Show,1000.0,True,001B000002,1000000.0,2025-05-27 19:37:11.167892,"{""type"": null}",,96,,Valid,25.0,,,264,New York,California,USA
-Soylent,,,Social Media,10000.0,False,001B000002,1000000.0,,"{""type"": ""A"", ""value"": 100}",US,97,,,100.0,0.1203475114293672,11.0,162,New York,California,us
-Globex,help@globex.com,2022-12-01,Social Media,50000.0,True,001B000002,5000000.0,42,"{""type"": ""A"", ""value"": 100}",,98,,See notes,25.0,0.6337940517363004,34.0,242,,Illinois,USA
-Acme Corp,contact@acme.com,2020-01-01,Email Campaign,1000.0,False,,5000000.0,2024-05-05,,,99,,,50.0,,50.0,58,Chicago,CA,
-Acme Corp,contact@acme.com,2020-01-01,Email Campaign,,False,001A000001,1000000.0,42,,North America,100,,Valid,,0.9778945751021084,,123,,NY,
-Acme Corp,contact@acme.com,2022-12-01,,1000.0,False,,1000000.0,2025-03-01 19:37:11.167902,"{""type"": ""B"", ""value"": 200}",,101,,,25.0,0.5289187563131367,26.0,225,,,
-Soylent,,2024-09-15,Trade Show,25000.0,False,,5000000.0,2024-09-28 19:37:11.167905,"{""type"": null}",North America,102,,See notes,,,31.0,117,New York,IL,
-Soylent,,2022-12-01,Referral,0.0,False,001B000002,1000000.0,,"{""type"": ""A"", ""value"": 100}",US,103,,Valid,100.0,0.1597855827863217,38.0,55,,Illinois,United States
-Soylent,,2020-01-01,Referral,1000.0,True,,999999.0,42,,United States,104,,,100.0,0.3659220600724313,,59,,CA,United States
-Acme Corp,contact@acme.com,2022-12-01,Social Media,10000.0,False,,1000000.0,2025-01-19 19:37:11.167911,"{""type"": ""A"", ""value"": 100}",US,105,,See notes,50.0,,30.0,54,nyc,IL,United States
-Umbrella,,,Trade Show,10000.0,True,,1000000.0,42,,North America,106,,,10.0,0.1490745290617204,44.0,232,nyc,Illinois,United States
-Globex,help@globex.com,2020-01-01,Email Campaign,10000.0,True,,5000000.0,2024-05-05,"{""type"": null}",United States,107,,,,0.1348027366432364,9.0,217,New York,NY,USA
-Initech,,2024-01-15,Partner,50000.0,True,001A000001,,,"{""type"": ""A"", ""value"": 100}",N.A.,108,,,10.0,,,213,San Francisco,,U.S.
-Globex,help@globex.com,2024-01-01,Trade Show,10000.0,False,,5000000.0,,,North America,109,,,75.0,0.1299003909922177,9.0,108,New York,NY,
-Soylent,,2022-12-01,Phone Inquiry,10000.0,False,,1000000.0,42,,North America,110,,,75.0,0.7647313502620555,32.0,444,Chicago,California,
-Umbrella,,2025-05-07,Email Campaign,50000.0,False,,1000000.0,42,,N.A.,111,,,75.0,,20.0,491,Chicago,CA,United States
-Umbrella,,2025-05-05,Social Media,50000.0,True,001B000002,5000000.0,,,US,112,,,10.0,0.5984720691439855,,496,New York,CA,us
-Globex,help@globex.com,2022-12-01,Social Media,50000.0,True,001A000001,1000000.0,,"{""type"": ""A"", ""value"": 100}",North America,113,,Valid,50.0,0.2717862530297795,43.0,403,New York,N.Y.,us
-Umbrella,,2024-12-23,Social Media,10000.0,False,,2500000.0,,"{""type"": null}",US,114,,See notes,10.0,,27.0,478,New York,California,us
-Initech,,2022-12-01,Social Media,10000.0,True,,5000000.0,2024-10-21 19:37:11.167934,"{""type"": ""B"", ""value"": 200}",N.A.,115,,,100.0,0.935917496744912,4.0,301,chicago,,U.S.
-Umbrella,,2025-05-07,Phone Inquiry,1000.0,False,001A000001,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",N.A.,116,,Valid,75.0,0.6643439411804918,,167,,California,United States
-Globex,help@globex.com,2024-09-12,Email Campaign,1000.0,True,001A000001,999999.0,,"{""type"": null}",,117,,,10.0,,27.0,155,nyc,California,United States
-Acme Corp,contact@acme.com,2025-07-08,Email Campaign,50000.0,False,001B000002,1000000.0,,"{""type"": null}",United States,118,,,,0.3624417861739877,14.0,47,nyc,Illinois,
-Acme Corp,contact@acme.com,2020-01-01,Trade Show,1000.0,False,,1000000.0,,"{""type"": ""A"", ""value"": 100}",,119,,See notes,,0.9550213018359888,39.0,189,,California,U.S.
-Acme Corp,contact@acme.com,2024-11-20,Social Media,0.0,False,001C000003,1000000.0,2025-03-28 19:37:11.167964,"{""type"": ""B"", ""value"": 200}",United States,120,,,,,,359,chicago,CA,United States
-Globex,help@globex.com,2022-12-01,Social Media,,True,001C000003,1000000.0,2024-05-05,"{""type"": null}",N.A.,121,,Valid,50.0,0.8877918267182953,38.0,292,Chicago,California,
-Soylent,,2022-12-01,Social Media,0.0,False,,,42,"{""type"": ""B"", ""value"": 200}",United States,122,,Valid,10.0,0.3610107263452747,20.0,352,nyc,,
-Umbrella,,2022-12-01,,,False,,1000000.0,42,"{""type"": null}",,123,,See notes,10.0,,35.0,37,,Illinois,U.S.
-Umbrella,,,Trade Show,50000.0,False,001C000003,1000000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",,124,,,,0.136425888600467,,402,,IL,
-Soylent,,2022-12-01,Email Campaign,25000.0,True,001B000002,2500000.0,42,"{""type"": ""A"", ""value"": 100}",United States,125,,,25.0,0.2082039862300396,5.0,117,chicago,CA,U.S.
-Globex,help@globex.com,2022-12-01,Trade Show,0.0,False,001A000001,999999.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",N.A.,126,,See notes,,,49.0,422,,,us
-Acme Corp,contact@acme.com,2025-06-24,Social Media,50000.0,False,,1000000.0,,"{""type"": ""A"", ""value"": 100}",,127,,,25.0,0.5447141561149177,19.0,70,nyc,N.Y.,us
-Umbrella,,2024-12-26,Trade Show,10000.0,False,,1000000.0,2025-04-26 19:37:11.167992,"{""type"": ""B"", ""value"": 200}",North America,128,,See notes,10.0,0.8753360755935369,,149,,,USA
-Globex,help@globex.com,2024-08-31,Referral,1000.0,True,001A000001,1000000.0,,,North America,129,,,,,48.0,355,Chicago,Illinois,U.S.
-Globex,help@globex.com,2022-12-01,Email Campaign,50000.0,False,001B000002,1000000.0,42,"{""type"": ""B"", ""value"": 200}",North America,130,,,75.0,0.0386116664275898,18.0,162,chicago,IL,us
-Globex,help@globex.com,2024-03-24,,,False,001A000001,1000000.0,42,"{""type"": null}",N.A.,131,,,75.0,0.6716768525935598,38.0,212,nyc,CA,United States
-Acme Corp,contact@acme.com,2024-09-01,Email Campaign,50000.0,True,,5000000.0,2025-02-28 19:37:11.168002,,,132,,,25.0,,,207,,,USA
-Globex,help@globex.com,2022-12-01,,50000.0,True,,1000000.0,42,"{""type"": null}",United States,133,,,10.0,0.2699923847792224,44.0,417,San Francisco,NY,U.S.
-Soylent,,2025-05-07,Email Campaign,10000.0,True,,1000000.0,42,,US,134,,,,0.8054666922536998,6.0,239,nyc,N.Y.,us
-Umbrella,,2024-06-06,Trade Show,,False,001B000002,1000000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",US,135,,,50.0,,11.0,347,,N.Y.,U.S.
-Acme Corp,contact@acme.com,2025-06-09,,,True,001B000002,1000000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",,136,,,25.0,0.1807296578561938,,54,San Francisco,N.Y.,us
-Umbrella,,,Web,,False,001C000003,1000000.0,2024-05-05,"{""type"": null}",,137,,,10.0,0.3100294270634995,31.0,31,nyc,CA,United States
-Globex,help@globex.com,2022-12-01,Phone Inquiry,10000.0,False,,2500000.0,42,,North America,138,,,25.0,,16.0,270,nyc,,United States
-Acme Corp,contact@acme.com,2024-06-05,Trade Show,1000.0,True,001C000003,1000000.0,42,,United States,139,,Valid,10.0,0.0271040530157794,32.0,107,Chicago,IL,
-Soylent,,,Social Media,10000.0,True,001C000003,5000000.0,,"{""type"": ""A"", ""value"": 100}",US,140,,,50.0,0.4090421983753707,,218,,,United States
-Globex,help@globex.com,2025-03-29,Social Media,50000.0,False,,1000000.0,2025-01-26 19:37:11.168031,"{""type"": null}",,141,,,,,5.0,70,New York,California,USA
-Soylent,,2025-06-30,Email Campaign,10000.0,True,,1000000.0,2025-05-30 19:37:11.168033,"{""type"": null}",,142,,,100.0,0.3949017912392356,26.0,305,Chicago,California,
-Acme Corp,contact@acme.com,2025-07-22,Email Campaign,50000.0,True,001B000002,100000.0,,"{""type"": ""A"", ""value"": 100}",US,143,,Valid,10.0,0.2455950397342564,10.0,238,San Francisco,CA,
-Globex,help@globex.com,2020-01-01,Social Media,1000.0,True,,1000000.0,2024-08-08 19:37:11.168037,,United States,144,,,100.0,,,259,San Francisco,,U.S.
-Wonka,,2020-01-01,Referral,50000.0,False,001C000003,5000000.0,Called client,"{""type"": ""B"", ""value"": 200}",United States,145,,Valid,75.0,0.671948048214384,34.0,69,,N.Y.,
-Soylent,,,Email Campaign,50000.0,False,001C000003,1000000.0,42,"{""type"": ""A"", ""value"": 100}",N.A.,146,,Valid,25.0,0.2436689385684571,48.0,149,,N.Y.,U.S.
-Acme Corp,contact@acme.com,2022-12-01,,50000.0,True,001A000001,1000000.0,2024-05-05,,United States,147,,,25.0,,49.0,265,New York,California,United States
-Acme Corp,contact@acme.com,2024-05-12,Email Campaign,10000.0,True,,2500000.0,2024-12-01 19:37:11.168046,"{""type"": ""A"", ""value"": 100}",US,148,,Valid,25.0,0.1393444666374196,,155,nyc,CA,us
-Initech,,2024-11-17,Web,50000.0,True,,100000.0,Called client,"{""type"": ""B"", ""value"": 200}",N.A.,149,,,75.0,0.8969368287969408,34.0,97,New York,California,U.S.
-Acme Corp,contact@acme.com,2024-12-30,Email Campaign,,True,001A000001,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",United States,150,,,,,2.0,352,,,us
-Umbrella,,2022-12-01,Trade Show,,False,001C000003,1000000.0,,,North America,151,,,25.0,0.3208350549719074,18.0,218,,,United States
-Globex,help@globex.com,2023-03-05,Trade Show,0.0,False,001C000003,2500000.0,2024-05-05,"{""type"": null}",,152,,,50.0,0.0539946660502469,,470,nyc,IL,United States
-Initech,,,Referral,50000.0,False,,1000000.0,Called client,,North America,153,,,10.0,,27.0,83,,Illinois,USA
-Soylent,,2022-12-01,Email Campaign,50000.0,False,001B000002,1000000.0,42,,N.A.,154,,,100.0,0.8007537953436189,13.0,21,chicago,Illinois,U.S.
-Acme Corp,contact@acme.com,2025-01-09,Trade Show,10000.0,True,,1000000.0,2025-06-22 19:37:11.168061,"{""type"": null}",N.A.,155,,Valid,,0.1161675097516578,25.0,76,,Illinois,United States
-Umbrella,,2022-12-01,Email Campaign,10000.0,True,,2500000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",,156,,Valid,,,,185,Chicago,IL,USA
-Acme Corp,contact@acme.com,2025-02-01,Social Media,10000.0,True,001C000003,1000000.0,42,"{""type"": ""A"", ""value"": 100}",North America,157,,Valid,50.0,0.2600538202318952,18.0,299,,NY,us
-,,,Referral,50000.0,False,,999999.0,42,"{""type"": ""B"", ""value"": 200}",US,158,,See notes,75.0,0.293660436794273,32.0,221,San Francisco,California,us
-Acme Corp,contact@acme.com,2022-12-01,Email Campaign,,True,001B000002,1000000.0,Called client,"{""type"": ""A"", ""value"": 100}",N.A.,159,,See notes,25.0,,29.0,138,chicago,NY,us
-Globex,help@globex.com,2022-12-01,Email Campaign,0.0,True,001A000001,1000000.0,2025-04-23 19:37:11.168073,"{""type"": ""A"", ""value"": 100}",,160,,Valid,75.0,0.9623834838283872,,122,chicago,CA,
-Soylent,,2022-12-01,Social Media,,True,,1000000.0,,,,161,,,50.0,0.1344025290781128,43.0,293,nyc,IL,USA
-Umbrella,,2024-11-26,Trade Show,1000.0,False,,1000000.0,2024-05-05,"{""type"": null}",US,162,,Valid,100.0,,41.0,401,,Illinois,
-Globex,help@globex.com,2025-04-07,Social Media,50000.0,False,001B000002,1000000.0,2024-05-05,"{""type"": null}",US,163,,,100.0,0.2684199791922581,46.0,32,San Francisco,Illinois,United States
-Acme Corp,contact@acme.com,2022-12-01,Trade Show,1000.0,True,,5000000.0,2024-05-05,,North America,164,,,25.0,0.3836097764720628,,12,,NY,U.S.
-Umbrella,,2022-12-01,Trade Show,1000.0,False,001A000001,1000000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",United States,165,,,,,3.0,61,nyc,,us
-Soylent,,2024-07-31,Email Campaign,,False,001C000003,100000.0,,"{""type"": ""B"", ""value"": 200}",,166,,,100.0,0.481482646854857,50.0,461,San Francisco,CA,USA
-Umbrella,,,Referral,10000.0,False,,5000000.0,42,"{""type"": ""B"", ""value"": 200}",North America,167,,See notes,100.0,0.1448991656155943,6.0,491,Chicago,N.Y.,United States
-Umbrella,,2023-09-17,,,False,001A000001,1000000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",,168,,See notes,,,,27,nyc,IL,us
-Acme Corp,contact@acme.com,2020-01-01,Trade Show,0.0,False,,2500000.0,42,,,169,,,50.0,0.5656728401095495,49.0,214,nyc,NY,United States
-Soylent,,2024-03-07,Email Campaign,,True,001C000003,,2025-01-22 19:37:11.168105,,US,170,,See notes,25.0,0.7038170573085205,0.0,394,chicago,NY,
-Globex,help@globex.com,,Social Media,50000.0,False,,1000000.0,2025-01-17 19:37:11.168107,"{""type"": ""A"", ""value"": 100}",North America,171,,,100.0,,32.0,481,Chicago,CA,U.S.
-Umbrella,,2022-12-01,Email Campaign,50000.0,False,001C000003,1000000.0,,,United States,172,,,10.0,0.5236030997193386,,472,New York,IL,us
-Umbrella,,,Trade Show,1000.0,False,001B000002,1000000.0,,,North America,173,,,100.0,0.4146955919253452,25.0,127,San Francisco,N.Y.,
-Acme Corp,contact@acme.com,2022-12-01,Referral,10000.0,True,,1000000.0,,"{""type"": ""A"", ""value"": 100}",,174,,,50.0,,14.0,94,Chicago,CA,U.S.
-Acme Corp,contact@acme.com,2020-01-01,Trade Show,50000.0,True,,1000000.0,42,,,175,,,25.0,0.711120475960693,19.0,365,,IL,United States
-Globex,help@globex.com,2023-12-22,Referral,1000.0,True,,1000000.0,2025-06-29 19:37:11.168119,"{""type"": ""B"", ""value"": 200}",North America,176,,,10.0,0.3609116098376759,,370,,,us
-Globex,help@globex.com,,Referral,50000.0,True,,5000000.0,,,N.A.,177,,See notes,10.0,,11.0,124,nyc,CA,us
-Wonka,,2023-11-02,Partner,10000.0,False,001A000001,1000000.0,2025-03-14 19:37:11.168123,"{""type"": ""B"", ""value"": 200}",US,178,,,25.0,0.3705511955564302,37.0,5,San Francisco,Illinois,United States
-Globex,help@globex.com,2022-12-24,Email Campaign,10000.0,False,,100000.0,Called client,"{""type"": ""A"", ""value"": 100}",North America,179,,See notes,75.0,0.9471583692710384,40.0,418,chicago,N.Y.,United States
-Globex,help@globex.com,2022-12-01,Email Campaign,,True,,1000000.0,2024-05-05,,,180,,,10.0,,,182,San Francisco,California,
-Globex,help@globex.com,2024-09-19,Email Campaign,1000.0,False,001A000001,1000000.0,Called client,,United States,181,,Valid,100.0,0.2618884708990374,9.0,413,nyc,,United States
-Umbrella,,2020-01-01,Social Media,50000.0,False,001B000002,2500000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",United States,182,,,75.0,0.8896783564112076,32.0,207,,CA,USA
-Acme Corp,contact@acme.com,2020-01-01,Trade Show,25000.0,False,001A000001,1000000.0,2024-05-05,"{""type"": null}",,183,,,10.0,,19.0,329,chicago,IL,us
-Umbrella,,2020-01-01,Partner,50000.0,True,,1000000.0,2025-06-10 19:37:11.168136,"{""type"": ""A"", ""value"": 100}",US,184,,,10.0,0.6426966763706001,,363,nyc,NY,
-Umbrella,,2022-12-01,Trade Show,,False,001C000003,1000000.0,,"{""type"": null}",US,185,,Valid,75.0,0.4944796977226062,50.0,315,New York,NY,U.S.
-Globex,help@globex.com,2023-04-26,Web,10000.0,False,,1000000.0,,"{""type"": null}",N.A.,186,,,25.0,,3.0,374,,Illinois,United States
-Globex,help@globex.com,,Web,50000.0,True,,100000.0,,"{""type"": ""A"", ""value"": 100}",United States,187,,,100.0,0.3345382898913341,47.0,237,Chicago,IL,United States
-Umbrella,,2022-12-01,Social Media,,True,,1000000.0,2025-04-15 19:37:11.168145,"{""type"": ""A"", ""value"": 100}",,188,,,50.0,0.2894401779915585,,459,Chicago,NY,United States
-Soylent,,2025-04-22,Social Media,10000.0,False,,1000000.0,42,"{""type"": ""B"", ""value"": 200}",North America,189,,,25.0,,22.0,313,Chicago,IL,us
-Umbrella,,,Email Campaign,10000.0,True,001B000002,100000.0,2025-07-21 19:37:11.168149,"{""type"": ""A"", ""value"": 100}",US,190,,,,0.3783463297826404,28.0,232,chicago,,us
-Soylent,,2024-12-04,,50000.0,False,001B000002,1000000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",US,191,,See notes,50.0,0.1490566936544939,32.0,419,,,
-Acme Corp,contact@acme.com,2022-12-01,Phone Inquiry,50000.0,True,,100000.0,2025-04-06 19:37:11.168153,"{""type"": ""A"", ""value"": 100}",N.A.,192,,,10.0,,,48,New York,CA,United States
-Soylent,,2020-01-01,Trade Show,50000.0,False,001A000001,999999.0,2024-05-05,"{""type"": null}",N.A.,193,,Valid,100.0,0.6323280510002007,6.0,177,Chicago,CA,United States
-Acme Corp,contact@acme.com,,Referral,,False,,5000000.0,2024-05-05,,North America,194,,,100.0,0.6240488526277087,19.0,265,nyc,IL,
-Umbrella,,2022-12-01,Web,50000.0,False,001B000002,1000000.0,Called client,,United States,195,,,25.0,,5.0,230,,CA,U.S.
-,,2025-04-20,,1000.0,True,,1000000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",US,196,,Valid,75.0,0.938078558176182,,9,Chicago,,United States
-Acme Corp,contact@acme.com,2025-07-29,Email Campaign,25000.0,False,001B000002,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",,197,,See notes,25.0,0.3586348719227986,11.0,125,Chicago,NY,us
-Umbrella,,2022-12-01,Referral,0.0,True,001C000003,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",North America,198,,,10.0,,12.0,180,,N.Y.,USA
-Soylent,,,Email Campaign,50000.0,True,,1000000.0,Called client,,,199,,,50.0,0.2181746296850383,19.0,92,,Illinois,United States
-Acme Corp,contact@acme.com,2020-01-01,Social Media,1000.0,False,,100000.0,Called client,,N.A.,200,,,75.0,0.6383064139870478,,377,chicago,,U.S.
-Globex,help@globex.com,,Email Campaign,1000.0,,001B000002,100000.0,2025-01-16 19:37:11.168176,"{""type"": ""B"", ""value"": 200}",N.A.,201,,See notes,,,35.0,228,nyc,California,U.S.
-Globex,help@globex.com,2024-04-30,Email Campaign,10000.0,False,001B000002,999999.0,2024-10-20 19:37:11.168178,"{""type"": null}",US,202,,,75.0,0.5501717106987244,4.0,217,nyc,CA,us
-Globex,help@globex.com,2022-12-01,,50000.0,False,,1000000.0,2024-11-19 19:37:11.168180,,,203,,See notes,10.0,0.6256933493614578,20.0,341,New York,Illinois,us
-Initech,,2025-07-30,Partner,1000.0,True,,1000000.0,42,,US,204,,,100.0,,,497,,,United States
-Globex,help@globex.com,,Email Campaign,,True,,1000000.0,42,"{""type"": ""A"", ""value"": 100}",United States,205,,See notes,50.0,0.1610403758382849,42.0,462,nyc,N.Y.,
-Umbrella,,2020-01-01,Email Campaign,10000.0,True,001B000002,1000000.0,2024-10-17 19:37:11.168187,,N.A.,206,,Valid,25.0,0.7778885879093365,43.0,287,,N.Y.,United States
-Initech,,,Referral,50000.0,True,001C000003,1000000.0,2025-02-08 19:37:11.168189,,,207,,,10.0,,37.0,79,New York,Illinois,
-Umbrella,,,Referral,1000.0,False,,1000000.0,42,"{""type"": null}",,208,,,,0.7520136104509236,,155,New York,Illinois,U.S.
-Soylent,,,Email Campaign,25000.0,False,001A000001,1000000.0,42,,,209,,,50.0,0.8663504107186673,36.0,22,Chicago,NY,United States
-Globex,help@globex.com,2022-12-01,Social Media,,False,,1000000.0,2024-05-05,"{""type"": null}",US,210,,See notes,100.0,,10.0,138,Chicago,CA,United States
-Umbrella,,2020-01-01,Web,25000.0,True,001C000003,1000000.0,,"{""type"": null}",North America,211,,See notes,25.0,0.4897795237006516,26.0,257,San Francisco,N.Y.,United States
-Wonka,,2022-12-01,Social Media,25000.0,True,,2500000.0,2024-05-05,,,212,,See notes,,0.0119737258363598,,217,,N.Y.,U.S.
-Globex,help@globex.com,2020-01-01,Web,1000.0,True,001B000002,5000000.0,2024-12-22 19:37:11.168212,,N.A.,213,,,25.0,,25.0,201,San Francisco,CA,
-Umbrella,,2023-03-19,Social Media,,False,,1000000.0,Called client,,N.A.,214,,,10.0,0.960118544943806,23.0,58,San Francisco,IL,USA
-Umbrella,,2022-11-07,Referral,50000.0,True,001C000003,2500000.0,,,,215,,See notes,,0.521089615449753,38.0,344,,Illinois,U.S.
-Globex,help@globex.com,,Referral,0.0,False,,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",North America,216,,,75.0,,,277,,California,
-Globex,help@globex.com,2025-03-31,Referral,50000.0,False,,100000.0,Called client,,,217,,,75.0,0.7134777627051648,32.0,87,chicago,N.Y.,us
-Umbrella,,,Trade Show,50000.0,True,001C000003,2500000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",N.A.,218,,See notes,100.0,0.0349400782504596,36.0,465,,IL,U.S.
-Umbrella,,,Email Campaign,1000.0,True,001C000003,1000000.0,42,"{""type"": ""A"", ""value"": 100}",US,219,,,50.0,,31.0,410,chicago,IL,USA
-Umbrella,,,Social Media,1000.0,True,001A000001,2500000.0,Called client,,,220,,,100.0,0.3308756349161907,,15,,NY,us
-Globex,help@globex.com,2024-06-24,Phone Inquiry,50000.0,False,001A000001,100000.0,42,"{""type"": ""A"", ""value"": 100}",US,221,,See notes,10.0,0.6783674071246868,15.0,284,,California,United States
-Globex,help@globex.com,2022-12-01,Trade Show,50000.0,False,001C000003,1000000.0,2025-02-28 19:37:11.168242,,,222,,Valid,50.0,,50.0,276,chicago,,USA
-Globex,help@globex.com,2025-06-29,Social Media,,False,001C000003,100000.0,,,US,223,,,,0.9258862431767682,16.0,419,San Francisco,NY,USA
-Wonka,,2022-12-01,Web,10000.0,False,001B000002,100000.0,Called client,"{""type"": ""B"", ""value"": 200}",US,224,,See notes,25.0,0.2001399184618575,,236,,N.Y.,
-Umbrella,,,Trade Show,10000.0,False,,1000000.0,2025-03-22 19:37:11.168249,,N.A.,225,,Valid,10.0,,2.0,164,nyc,N.Y.,U.S.
-Soylent,,2025-02-17,Referral,50000.0,True,,100000.0,,,,226,,,100.0,0.5074413977919922,31.0,175,New York,Illinois,us
-Globex,help@globex.com,2024-06-12,Phone Inquiry,50000.0,True,001A000001,1000000.0,2025-05-30 19:37:11.168253,,North America,227,,Valid,10.0,0.8188966436916774,40.0,440,,California,U.S.
-Acme Corp,contact@acme.com,2024-08-30,,10000.0,True,001A000001,2500000.0,,"{""type"": ""A"", ""value"": 100}",North America,228,,,,,,397,San Francisco,CA,
-Soylent,,2024-09-10,Email Campaign,,False,001B000002,5000000.0,,"{""type"": null}",North America,229,,,,0.8831338019726781,24.0,318,Chicago,California,us
-Soylent,,2025-05-18,Social Media,,False,001B000002,1000000.0,,"{""type"": ""A"", ""value"": 100}",United States,230,,,100.0,0.3914565325769404,23.0,357,,Illinois,us
-Acme Corp,contact@acme.com,,Partner,,True,001C000003,1000000.0,,,US,231,,,50.0,,30.0,81,Chicago,IL,United States
-Umbrella,,2022-12-01,Referral,1000.0,True,,,,,,232,,,50.0,0.2574101539214357,,281,,NY,
-Acme Corp,contact@acme.com,,Referral,10000.0,False,001A000001,1000000.0,,"{""type"": null}",US,233,,,10.0,0.454903086325729,35.0,479,San Francisco,CA,U.S.
-Soylent,,2025-06-07,Referral,10000.0,True,001A000001,1000000.0,2024-08-20 19:37:11.168293,,,234,,Valid,100.0,,20.0,60,San Francisco,CA,United States
-Soylent,,,Social Media,10000.0,True,001B000002,100000.0,Called client,,,235,,,25.0,0.9347371659542276,12.0,241,nyc,Illinois,us
-Soylent,,2025-06-22,Trade Show,,True,,5000000.0,2024-11-25 19:37:11.168298,,N.A.,236,,Valid,50.0,0.8419106236307783,,34,nyc,California,U.S.
-Soylent,,2022-12-01,Phone Inquiry,25000.0,False,001A000001,,2024-05-05,"{""type"": ""A"", ""value"": 100}",US,237,,,10.0,,7.0,96,Chicago,Illinois,U.S.
-Soylent,,2023-03-20,Referral,0.0,False,,1000000.0,,"{""type"": ""A"", ""value"": 100}",US,238,,See notes,,0.9085341824609852,35.0,192,,Illinois,USA
-Soylent,,2023-07-12,Email Campaign,50000.0,True,,1000000.0,42,"{""type"": ""B"", ""value"": 200}",North America,239,,Valid,25.0,0.6318252231198995,8.0,326,,IL,United States
-Initech,,2022-12-01,Trade Show,25000.0,True,001C000003,1000000.0,,"{""type"": ""B"", ""value"": 200}",US,240,,,50.0,,,28,New York,Illinois,USA
-Globex,help@globex.com,2023-10-22,Email Campaign,10000.0,False,,1000000.0,Called client,"{""type"": ""A"", ""value"": 100}",,241,,Valid,50.0,0.7517777576453794,7.0,90,New York,CA,USA
-Soylent,,,Social Media,50000.0,False,001A000001,999999.0,2024-10-21 19:37:11.168311,"{""type"": ""B"", ""value"": 200}",,242,,,25.0,0.051311694434729,15.0,473,,California,U.S.
-Umbrella,,,Email Campaign,10000.0,False,001A000001,1000000.0,Called client,,,243,,,75.0,,15.0,206,,IL,United States
-Umbrella,,2023-09-16,Social Media,1000.0,False,,1000000.0,,"{""type"": ""B"", ""value"": 200}",United States,244,,,75.0,0.2573295736925753,,346,San Francisco,IL,
-Soylent,,2025-05-16,Referral,1000.0,True,001C000003,5000000.0,,,,245,,,10.0,0.4692117541281052,5.0,213,nyc,CA,United States
-Umbrella,,2022-12-01,Trade Show,10000.0,False,001C000003,1000000.0,2024-05-05,,North America,246,,,50.0,,9.0,218,nyc,IL,United States
-Umbrella,,2023-02-17,Social Media,10000.0,False,,2500000.0,42,"{""type"": ""B"", ""value"": 200}",,247,,,10.0,0.8378311829946699,28.0,171,Chicago,IL,United States
-Acme Corp,contact@acme.com,2024-12-04,Trade Show,25000.0,False,001A000001,1000000.0,42,,United States,248,,,,0.3722445278873078,,146,New York,NY,U.S.
-Globex,help@globex.com,,,0.0,True,,1000000.0,,"{""type"": ""A"", ""value"": 100}",N.A.,249,,See notes,10.0,,40.0,109,San Francisco,NY,United States
-Umbrella,,2025-01-04,Trade Show,,True,001A000001,2500000.0,2025-01-03 19:37:11.168348,"{""type"": null}",United States,250,,Valid,100.0,0.6521522847936827,15.0,408,Chicago,California,United States
-Umbrella,,2024-08-24,Phone Inquiry,0.0,True,,100000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",N.A.,251,,See notes,,0.8324643420232115,35.0,323,chicago,CA,
-Soylent,,,Social Media,1000.0,False,,1000000.0,Called client,"{""type"": ""A"", ""value"": 100}",United States,252,,,75.0,,,457,San Francisco,California,
-Umbrella,,2025-04-11,Referral,50000.0,True,,999999.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",United States,253,,,,0.7277419768731782,6.0,75,nyc,IL,USA
-Umbrella,,2025-05-19,,50000.0,True,001B000002,2500000.0,Called client,,United States,254,,,75.0,0.9973630257900696,42.0,157,New York,,U.S.
-Umbrella,,2023-02-04,Social Media,25000.0,False,,2500000.0,2025-03-06 19:37:11.168359,"{""type"": ""A"", ""value"": 100}",North America,255,,,75.0,,29.0,471,,CA,
-Globex,help@globex.com,2025-06-20,Referral,1000.0,True,001C000003,2500000.0,Called client,"{""type"": null}",North America,256,,,10.0,0.5254958368035283,,328,,,
-Acme Corp,contact@acme.com,2025-04-22,Email Campaign,25000.0,True,001A000001,5000000.0,2024-05-05,,North America,257,,See notes,10.0,0.2951069681265871,14.0,7,Chicago,CA,USA
-Wonka,,2024-04-04,Email Campaign,1000.0,True,001C000003,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",,258,,,10.0,,15.0,290,chicago,California,U.S.
-Umbrella,,2024-07-05,Partner,0.0,False,001B000002,1000000.0,,,,259,,See notes,,0.8491175973136836,28.0,195,Chicago,NY,us
-Initech,,,Social Media,10000.0,True,,5000000.0,42,,US,260,,Valid,75.0,0.4831914951932951,,63,chicago,Illinois,USA
-Globex,help@globex.com,2023-01-13,Social Media,10000.0,True,001A000001,1000000.0,42,"{""type"": null}",,261,,See notes,,,0.0,270,,Illinois,United States
-Globex,help@globex.com,2020-01-01,Social Media,1000.0,False,001C000003,2500000.0,42,"{""type"": ""B"", ""value"": 200}",N.A.,262,,Valid,100.0,0.9011074387314588,39.0,175,nyc,California,
-Globex,help@globex.com,,,10000.0,True,,2500000.0,2024-11-01 19:37:11.168376,"{""type"": null}",,263,,,,0.2659732674054129,4.0,14,chicago,CA,
-Umbrella,,2025-03-19,Trade Show,50000.0,True,001A000001,1000000.0,2024-08-25 19:37:11.168378,,US,264,,,75.0,,,5,,N.Y.,U.S.
-Soylent,,2024-04-30,Referral,50000.0,True,001A000001,1000000.0,2024-11-01 19:37:11.168381,"{""type"": ""B"", ""value"": 200}",US,265,,,,0.0222882883938895,7.0,80,Chicago,Illinois,United States
-Acme Corp,contact@acme.com,2022-12-01,Social Media,25000.0,False,001A000001,2500000.0,,,,266,,,25.0,0.4203529151936321,13.0,159,chicago,N.Y.,United States
-Globex,help@globex.com,2020-01-01,Web,1000.0,True,001A000001,1000000.0,2024-05-05,,N.A.,267,,,100.0,,32.0,128,Chicago,California,United States
-Globex,help@globex.com,2020-01-01,Web,0.0,False,001A000001,100000.0,2025-04-03 19:37:11.168387,,,268,,See notes,10.0,0.5629654028889096,,240,chicago,,USA
-Soylent,,2023-12-04,Referral,1000.0,False,,1000000.0,2024-11-08 19:37:11.168389,,North America,269,,,100.0,0.3308730295411678,45.0,207,Chicago,,United States
-Umbrella,,2024-08-08,Email Campaign,1000.0,True,001B000002,2500000.0,42,,United States,270,,Valid,,,2.0,205,,California,us
-Umbrella,,2023-11-28,Social Media,50000.0,True,,,2025-05-28 19:37:11.168394,"{""type"": ""B"", ""value"": 200}",,271,,,75.0,0.1651203784481721,44.0,83,New York,Illinois,USA
-Globex,help@globex.com,2025-03-07,Referral,1000.0,True,,5000000.0,Called client,,North America,272,,,25.0,0.3340120142388115,,497,New York,IL,U.S.
-Soylent,,,Referral,,False,001C000003,1000000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",N.A.,273,,Valid,10.0,,2.0,72,nyc,IL,us
-Soylent,,2022-12-01,Email Campaign,10000.0,True,,100000.0,2025-06-22 19:37:11.168400,"{""type"": null}",United States,274,,,75.0,0.5890435410463439,28.0,203,,Illinois,U.S.
-Umbrella,,2024-08-08,Web,1000.0,False,001C000003,1000000.0,2024-09-30 19:37:11.168403,,United States,275,,,50.0,0.4417847826526453,2.0,444,chicago,Illinois,us
-Acme Corp,contact@acme.com,,Email Campaign,1000.0,,,1000000.0,2024-05-05,,North America,276,,,100.0,,,426,San Francisco,NY,us
-Umbrella,,,Email Campaign,50000.0,True,001C000003,5000000.0,2025-05-13 19:37:11.168407,,,277,,,75.0,0.6086716523916307,3.0,346,Chicago,Illinois,U.S.
-Globex,help@globex.com,,Referral,0.0,True,001A000001,1000000.0,2024-05-05,"{""type"": null}",US,278,,,100.0,0.303457576255966,20.0,285,,California,us
-Globex,help@globex.com,,Email Campaign,,True,001B000002,2500000.0,,"{""type"": null}",North America,279,,Valid,,,4.0,44,San Francisco,California,United States
-Acme Corp,contact@acme.com,,Email Campaign,1000.0,True,,2500000.0,2025-06-23 19:37:11.168413,"{""type"": ""A"", ""value"": 100}",N.A.,280,,,25.0,0.6776954828113353,,35,,CA,us
-Globex,help@globex.com,,Referral,10000.0,False,001B000002,1000000.0,2024-11-03 19:37:11.168415,"{""type"": ""A"", ""value"": 100}",,281,,,25.0,0.185530887173862,12.0,361,New York,NY,United States
-Acme Corp,contact@acme.com,2022-12-01,Referral,50000.0,False,001C000003,2500000.0,Called client,"{""type"": null}",US,282,,See notes,75.0,,15.0,62,,Illinois,USA
-Soylent,,2022-12-01,Trade Show,50000.0,True,,1000000.0,,"{""type"": null}",N.A.,283,,,50.0,0.1664016951936607,30.0,222,chicago,CA,United States
-Acme Corp,contact@acme.com,2023-08-04,Trade Show,1000.0,True,001C000003,1000000.0,2024-05-05,,N.A.,284,,See notes,,0.1517640976371194,,466,,NY,USA
-Umbrella,,2023-02-05,Social Media,1000.0,True,001A000001,2500000.0,42,"{""type"": ""B"", ""value"": 200}",,285,,Valid,,,14.0,471,Chicago,CA,United States
-Globex,help@globex.com,,Partner,50000.0,False,001A000001,1000000.0,42,"{""type"": null}",N.A.,286,,See notes,100.0,0.6387137291873083,4.0,389,,IL,USA
-Soylent,,,Social Media,50000.0,True,001A000001,1000000.0,2024-05-05,,US,287,,See notes,25.0,0.4861499957474881,33.0,379,,California,us
-Acme Corp,contact@acme.com,2025-06-27,Social Media,,False,001C000003,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",North America,288,,,50.0,,,183,Chicago,NY,USA
-Globex,help@globex.com,,Email Campaign,0.0,True,001B000002,100000.0,42,,United States,289,,Valid,10.0,0.5122543931309184,37.0,237,chicago,NY,USA
-Wonka,,2025-07-09,Trade Show,50000.0,False,,1000000.0,Called client,,North America,290,,,50.0,0.2032738885336441,2.0,293,nyc,NY,
-Umbrella,,2025-07-15,Referral,50000.0,False,001A000001,2500000.0,Called client,,United States,291,,See notes,75.0,,27.0,449,chicago,CA,us
-Globex,help@globex.com,2025-01-13,Trade Show,,False,001C000003,,Called client,"{""type"": ""A"", ""value"": 100}",US,292,,,50.0,0.6233583980677653,,383,nyc,NY,USA
-Umbrella,,2025-01-03,Referral,50000.0,False,,1000000.0,2024-11-10 19:37:11.168442,,North America,293,,,50.0,0.7167301372119237,35.0,73,,NY,United States
-Acme Corp,contact@acme.com,2024-12-31,Trade Show,1000.0,False,,1000000.0,2024-05-05,,,294,,,,,39.0,112,chicago,NY,us
-Soylent,,2024-10-31,Trade Show,25000.0,True,001A000001,2500000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",N.A.,295,,,50.0,0.1650621415766759,4.0,491,Chicago,CA,USA
-Umbrella,,2022-12-01,Referral,10000.0,True,001A000001,1000000.0,42,"{""type"": null}",,296,,See notes,25.0,0.9223090882115496,,272,Chicago,IL,United States
-Globex,help@globex.com,2024-08-01,Trade Show,10000.0,True,,,42,"{""type"": ""A"", ""value"": 100}",,297,,Valid,,,50.0,61,New York,,
-Acme Corp,contact@acme.com,2022-12-01,Trade Show,1000.0,True,,1000000.0,2025-01-01 19:37:11.168452,"{""type"": null}",North America,298,,,100.0,0.3000872878968427,14.0,228,chicago,,
-Acme Corp,contact@acme.com,,Email Campaign,50000.0,False,,2500000.0,2025-06-15 19:37:11.168455,"{""type"": ""A"", ""value"": 100}",N.A.,299,,Valid,10.0,0.0187707969617358,31.0,83,,,United States
-Acme Corp,contact@acme.com,,Trade Show,50000.0,False,,1000000.0,2024-05-05,,North America,300,,,,,,342,,,us
-Umbrella,,2022-12-01,Referral,50000.0,False,001B000002,1000000.0,42,,,301,,,100.0,0.2684502803302631,41.0,86,,NY,United States
-Globex,help@globex.com,,Email Campaign,1000.0,False,,5000000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",United States,302,,,75.0,0.64631157538778,36.0,247,,CA,
-Acme Corp,contact@acme.com,2022-12-01,Referral,50000.0,False,001C000003,,2024-05-05,"{""type"": ""B"", ""value"": 200}",United States,303,,Valid,,,22.0,443,San Francisco,California,USA
-Acme Corp,contact@acme.com,2023-12-10,Email Campaign,50000.0,True,001A000001,5000000.0,Called client,"{""type"": ""B"", ""value"": 200}",US,304,,,100.0,0.3129674407442206,,280,Chicago,Illinois,United States
-Globex,help@globex.com,,Web,50000.0,False,,1000000.0,2025-01-08 19:37:11.168467,,United States,305,,See notes,50.0,0.0575116439756636,29.0,195,San Francisco,IL,United States
-Globex,help@globex.com,2024-04-02,Referral,10000.0,False,001B000002,5000000.0,2024-05-05,,,306,,See notes,50.0,,25.0,93,,NY,
-Globex,help@globex.com,2023-02-18,Phone Inquiry,10000.0,False,,2500000.0,2024-05-05,"{""type"": null}",N.A.,307,,See notes,25.0,0.2409124796052566,8.0,112,nyc,California,United States
-Acme Corp,contact@acme.com,2024-04-08,Referral,,False,,1000000.0,42,"{""type"": null}",North America,308,,,75.0,0.7076781456387028,,116,New York,Illinois,USA
-Initech,,2022-12-29,Referral,0.0,True,001A000001,1000000.0,2025-01-01 19:37:11.168479,"{""type"": ""A"", ""value"": 100}",,309,,,25.0,,29.0,433,,Illinois,
-Acme Corp,contact@acme.com,2020-01-01,Referral,25000.0,False,001B000002,100000.0,Called client,,N.A.,310,,See notes,10.0,0.1130946147687016,16.0,198,,N.Y.,USA
-Soylent,,2020-01-01,Trade Show,1000.0,False,001A000001,1000000.0,Called client,"{""type"": ""A"", ""value"": 100}",,311,,,10.0,0.7146175376909442,42.0,12,,N.Y.,us
-Umbrella,,2022-12-01,Trade Show,50000.0,False,001B000002,5000000.0,2024-10-14 19:37:11.168490,"{""type"": ""B"", ""value"": 200}",United States,312,,See notes,25.0,,,133,Chicago,California,
-Umbrella,,,Email Campaign,10000.0,False,001B000002,2500000.0,Called client,,N.A.,313,,Valid,100.0,0.2729007346310119,44.0,155,,NY,us
-Umbrella,,,Phone Inquiry,25000.0,False,001B000002,1000000.0,2024-05-05,"{""type"": null}",,314,,,100.0,0.7256141286773783,49.0,293,nyc,IL,us
-Acme Corp,contact@acme.com,2020-01-01,Trade Show,50000.0,False,,1000000.0,,"{""type"": ""A"", ""value"": 100}",North America,315,,Valid,100.0,,18.0,467,New York,N.Y.,us
-Umbrella,,2022-12-01,Email Campaign,50000.0,True,,100000.0,2025-04-12 19:37:11.168502,"{""type"": null}",N.A.,316,,Valid,25.0,0.2743101686920521,,340,,IL,us
-Globex,help@globex.com,,Email Campaign,,False,,100000.0,2025-06-13 19:37:11.168504,"{""type"": ""A"", ""value"": 100}",N.A.,317,,Valid,75.0,0.2597188721536323,47.0,371,,N.Y.,us
-Soylent,,,Social Media,50000.0,True,,100000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",N.A.,318,,See notes,100.0,,19.0,184,,,United States
-Soylent,,2022-12-01,Email Campaign,10000.0,False,001A000001,1000000.0,,"{""type"": null}",N.A.,319,,,10.0,0.6532078895572557,33.0,490,,California,USA
-Globex,help@globex.com,2024-09-15,Social Media,0.0,True,,,Called client,,N.A.,320,,,50.0,0.5540303621246141,,229,Chicago,Illinois,
-Globex,help@globex.com,2024-11-02,Email Campaign,10000.0,False,,100000.0,2024-05-05,"{""type"": null}",,321,,,10.0,,50.0,197,chicago,Illinois,
-Umbrella,,,Trade Show,50000.0,True,001C000003,2500000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",,322,,See notes,25.0,0.0493732968976442,3.0,287,,CA,United States
-Globex,help@globex.com,,,1000.0,True,,100000.0,Called client,"{""type"": ""B"", ""value"": 200}",United States,323,,,50.0,0.9704760042557148,44.0,335,,IL,
-Acme Corp,contact@acme.com,,Trade Show,50000.0,False,,100000.0,,,United States,324,,,50.0,,,42,New York,Illinois,us
-Globex,help@globex.com,2024-08-20,Partner,25000.0,False,001C000003,5000000.0,Called client,,,325,,Valid,75.0,0.5021142155134299,41.0,179,,,USA
-Wonka,,2020-01-01,Email Campaign,50000.0,False,001A000001,1000000.0,,"{""type"": ""B"", ""value"": 200}",,326,,See notes,75.0,0.080736642634189,45.0,499,,CA,USA
-Globex,help@globex.com,2024-03-12,,50000.0,False,,1000000.0,2024-05-05,,US,327,,,75.0,,16.0,465,nyc,N.Y.,United States
-Globex,help@globex.com,,Referral,10000.0,True,,1000000.0,42,"{""type"": null}",United States,328,,See notes,10.0,0.2099214439738551,,264,nyc,California,us
-Umbrella,,,Social Media,1000.0,True,,100000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",,329,,Valid,,0.50133479374089,35.0,422,Chicago,N.Y.,
-Acme Corp,contact@acme.com,2022-12-01,Partner,50000.0,True,001A000001,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",North America,330,,,25.0,,4.0,192,chicago,Illinois,United States
-Soylent,,2023-12-07,Referral,1000.0,True,,2500000.0,2025-05-21 19:37:11.168535,"{""type"": ""B"", ""value"": 200}",N.A.,331,,,100.0,0.2462840717782752,24.0,318,San Francisco,CA,us
-Umbrella,,,Social Media,50000.0,True,,1000000.0,42,,,332,,Valid,25.0,0.9231937503715212,,363,San Francisco,Illinois,U.S.
-Globex,help@globex.com,2022-12-01,Trade Show,50000.0,True,,1000000.0,,"{""type"": null}",United States,333,,Valid,25.0,,20.0,359,Chicago,CA,
-Acme Corp,contact@acme.com,2022-12-01,Email Campaign,10000.0,True,,1000000.0,42,"{""type"": ""B"", ""value"": 200}",,334,,See notes,25.0,0.5614030226207668,34.0,69,Chicago,NY,U.S.
-Umbrella,,,Email Campaign,50000.0,False,001C000003,1000000.0,42,"{""type"": ""A"", ""value"": 100}",,335,,,75.0,0.713411651330895,8.0,400,chicago,N.Y.,United States
-Acme Corp,contact@acme.com,2025-05-19,Email Campaign,,True,,2500000.0,Called client,,,336,,See notes,10.0,,,73,Chicago,California,USA
-Umbrella,,2025-01-08,,50000.0,False,001C000003,999999.0,42,,United States,337,,,,0.5641953865264113,50.0,33,,IL,USA
-Acme Corp,contact@acme.com,2022-12-01,,50000.0,True,001A000001,1000000.0,42,,,338,,See notes,50.0,0.2804778423095091,7.0,305,San Francisco,N.Y.,U.S.
-Soylent,,2022-12-01,Social Media,50000.0,True,001A000001,1000000.0,Called client,,United States,339,,,100.0,,4.0,70,Chicago,NY,
-Globex,help@globex.com,2025-01-05,Phone Inquiry,50000.0,False,001C000003,,,"{""type"": ""A"", ""value"": 100}",North America,340,,,75.0,0.358143409324825,,120,nyc,Illinois,us
-Initech,,2025-07-02,Email Campaign,,True,,2500000.0,2025-02-20 19:37:11.168557,,,341,,,10.0,0.4210457248676953,21.0,24,New York,,United States
-Soylent,,,,50000.0,True,,1000000.0,,,United States,342,,,75.0,,20.0,158,Chicago,,USA
-Umbrella,,,Phone Inquiry,50000.0,True,,2500000.0,2025-02-05 19:37:11.168562,,,343,,See notes,50.0,0.5711796178220322,1.0,429,San Francisco,,us
-Umbrella,,,Email Campaign,25000.0,True,001B000002,1000000.0,,"{""type"": ""B"", ""value"": 200}",United States,344,,Valid,75.0,0.021044601058954,,270,chicago,NY,
-Umbrella,,,Referral,,False,,1000000.0,2024-11-21 19:37:11.168566,"{""type"": ""B"", ""value"": 200}",,345,,See notes,,,43.0,311,chicago,NY,U.S.
-Globex,help@globex.com,2022-12-01,Trade Show,,True,,1000000.0,Called client,,N.A.,346,,,75.0,0.6384995600219755,40.0,257,chicago,IL,us
-Acme Corp,contact@acme.com,,Partner,1000.0,True,001A000001,2500000.0,Called client,"{""type"": null}",North America,347,,,100.0,0.169637348347822,3.0,65,nyc,CA,U.S.
-Umbrella,,,Trade Show,1000.0,True,,5000000.0,2025-07-18 19:37:11.168573,"{""type"": ""A"", ""value"": 100}",North America,348,,,50.0,,,194,nyc,,
-Soylent,,2020-01-01,Trade Show,25000.0,False,,1000000.0,2025-01-09 19:37:11.168575,"{""type"": null}",United States,349,,,10.0,0.2342062025657594,36.0,129,,CA,United States
-Acme Corp,contact@acme.com,,Trade Show,50000.0,False,001B000002,2500000.0,2025-03-23 19:37:11.168577,,,350,,,75.0,0.2362286894236027,14.0,16,New York,Illinois,United States
-Globex,help@globex.com,,Social Media,1000.0,False,001C000003,1000000.0,,"{""type"": ""B"", ""value"": 200}",,351,,Valid,50.0,,39.0,128,New York,,us
-Globex,help@globex.com,2020-01-01,Social Media,50000.0,False,001C000003,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",,352,,Valid,25.0,0.9419493588779504,,209,,N.Y.,U.S.
-Wonka,,,Trade Show,1000.0,False,,1000000.0,42,"{""type"": ""A"", ""value"": 100}",N.A.,353,,Valid,25.0,0.6485837738359789,42.0,239,San Francisco,NY,us
-Umbrella,,2022-12-01,Phone Inquiry,25000.0,False,,2500000.0,Called client,,United States,354,,,100.0,,27.0,112,Chicago,IL,USA
-Globex,help@globex.com,,Phone Inquiry,,True,,1000000.0,42,"{""type"": null}",North America,355,,See notes,25.0,0.417723807442046,42.0,103,New York,IL,United States
-Soylent,,2022-12-01,,1000.0,False,001A000001,2500000.0,Called client,"{""type"": ""B"", ""value"": 200}",,356,,,50.0,0.0429304504530186,,450,New York,NY,
-Umbrella,,,Email Campaign,1000.0,True,,5000000.0,,"{""type"": null}",N.A.,357,,,50.0,,1.0,391,New York,IL,United States
-Wonka,,2025-07-19,Social Media,10000.0,False,,1000000.0,2024-05-05,,United States,358,,,50.0,0.5843476197839779,32.0,18,Chicago,NY,United States
-Umbrella,,,Trade Show,0.0,False,,999999.0,2025-02-28 19:37:11.168597,,North America,359,,,25.0,0.3181807381936983,24.0,143,New York,IL,United States
-Soylent,,2023-12-22,Social Media,10000.0,False,001B000002,1000000.0,2024-05-05,"{""type"": null}",,360,,,75.0,,,441,nyc,California,U.S.
-Umbrella,,2024-05-12,Email Campaign,10000.0,True,001C000003,1000000.0,,"{""type"": null}",,361,,,10.0,0.2164572931999743,28.0,123,chicago,NY,us
-Umbrella,,2020-01-01,Email Campaign,1000.0,False,001A000001,1000000.0,42,"{""type"": ""A"", ""value"": 100}",,362,,,75.0,0.1185344399642032,15.0,476,,California,
-Globex,help@globex.com,2022-12-01,Email Campaign,1000.0,True,,2500000.0,Called client,,N.A.,363,,,,,13.0,311,,Illinois,
-Soylent,,2022-12-19,,1000.0,False,,1000000.0,2024-05-05,,North America,364,,,,0.1697072970853527,,167,,N.Y.,us
-Acme Corp,contact@acme.com,2022-12-01,Trade Show,50000.0,True,001C000003,1000000.0,2025-06-30 19:37:11.168610,"{""type"": null}",,365,,,75.0,0.5804159771828885,38.0,60,,,U.S.
-Globex,help@globex.com,,,,False,,999999.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",United States,366,,,75.0,,28.0,130,nyc,Illinois,us
-Soylent,,2022-12-01,Email Campaign,10000.0,False,001B000002,1000000.0,,,N.A.,367,,,75.0,0.4672434946276593,35.0,123,,CA,
-Umbrella,,2022-12-01,Phone Inquiry,,True,,5000000.0,42,"{""type"": ""A"", ""value"": 100}",,368,,,50.0,0.0326202493272631,,295,,NY,us
-Acme Corp,contact@acme.com,,Trade Show,1000.0,False,001A000001,1000000.0,,,,369,,,75.0,,44.0,202,chicago,Illinois,United States
-Globex,help@globex.com,2022-12-01,Web,50000.0,False,,1000000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,370,,,100.0,0.4352926711473451,35.0,236,chicago,Illinois,
-Globex,help@globex.com,2025-02-23,Email Campaign,,False,,5000000.0,2025-03-13 19:37:11.168623,"{""type"": null}",,371,,Valid,50.0,0.3817941865635529,40.0,179,chicago,Illinois,USA
-Globex,help@globex.com,2025-02-14,Social Media,1000.0,False,001A000001,1000000.0,42,"{""type"": ""B"", ""value"": 200}",North America,372,,,10.0,,,499,chicago,Illinois,United States
-Soylent,,2022-12-01,Social Media,25000.0,False,,2500000.0,Called client,"{""type"": ""A"", ""value"": 100}",US,373,,,50.0,0.2060199662637677,20.0,469,San Francisco,Illinois,
-Soylent,,2022-12-01,Referral,,True,,5000000.0,2024-05-05,,N.A.,374,,,,0.3443643255133364,31.0,48,chicago,,USA
-Globex,help@globex.com,,Email Campaign,50000.0,True,001A000001,1000000.0,,"{""type"": null}",,375,,,100.0,,7.0,14,Chicago,Illinois,us
-Umbrella,,2022-12-01,Social Media,10000.0,False,001C000003,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",N.A.,376,,,25.0,0.4828852826098327,,32,nyc,California,USA
-Umbrella,,2023-03-12,Social Media,50000.0,False,001A000001,5000000.0,Called client,,United States,377,,,,0.6901702648352936,16.0,333,,CA,
-Soylent,,,Trade Show,10000.0,False,001B000002,2500000.0,,,N.A.,378,,See notes,,,7.0,192,nyc,CA,U.S.
-Acme Corp,contact@acme.com,2022-12-01,Referral,25000.0,True,001C000003,5000000.0,42,"{""type"": null}",,379,,See notes,,0.3412812001177966,39.0,421,,IL,
-Soylent,,2023-06-11,,50000.0,False,,2500000.0,2025-07-13 19:37:11.168642,"{""type"": ""A"", ""value"": 100}",United States,380,,Valid,100.0,0.5794410067870446,,72,New York,IL,U.S.
-Umbrella,,2020-01-01,Referral,1000.0,True,001C000003,1000000.0,42,"{""type"": ""B"", ""value"": 200}",,381,,,50.0,,36.0,145,,Illinois,
-Umbrella,,2022-12-01,Email Campaign,50000.0,True,,1000000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",United States,382,,,100.0,0.7016457721363119,1.0,42,,CA,USA
-Soylent,,2025-05-17,Social Media,,True,001C000003,1000000.0,2024-09-28 19:37:11.168649,"{""type"": null}",United States,383,,See notes,25.0,0.404979409179953,8.0,250,San Francisco,,USA
-Acme Corp,contact@acme.com,2022-12-01,Email Campaign,10000.0,True,,999999.0,2024-05-05,,,384,,,25.0,,,319,chicago,NY,U.S.
-Globex,help@globex.com,2024-04-28,Trade Show,1000.0,True,,1000000.0,42,"{""type"": ""B"", ""value"": 200}",,385,,See notes,25.0,0.2444662648641912,11.0,417,nyc,IL,
-Umbrella,,2020-01-01,Trade Show,1000.0,True,001B000002,999999.0,Called client,,,386,,See notes,10.0,0.0724727845598435,44.0,349,nyc,CA,
-Acme Corp,contact@acme.com,,Trade Show,50000.0,False,001B000002,1000000.0,2024-05-05,,North America,387,,,25.0,,6.0,289,,Illinois,USA
-Globex,help@globex.com,2020-01-01,Social Media,10000.0,True,,1000000.0,2024-05-05,"{""type"": null}",,388,,,100.0,0.3867576623906928,,146,chicago,NY,
-,,2022-12-01,Email Campaign,1000.0,False,,1000000.0,Called client,,,389,,,25.0,0.4310579229628741,50.0,116,San Francisco,Illinois,United States
-Acme Corp,contact@acme.com,,Social Media,10000.0,True,001C000003,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",United States,390,,Valid,,,8.0,410,,California,United States
-Umbrella,,2023-04-19,Email Campaign,10000.0,True,001A000001,1000000.0,2024-05-05,,,391,,,50.0,0.0896514113284588,48.0,92,,NY,
-Globex,help@globex.com,2020-01-01,Referral,50000.0,False,001B000002,1000000.0,2025-06-15 19:37:11.168670,,,392,,See notes,75.0,0.9271146152876432,,100,New York,CA,United States
-,,2022-12-19,Referral,10000.0,False,001B000002,1000000.0,2024-08-22 19:37:11.168673,"{""type"": ""B"", ""value"": 200}",North America,393,,,50.0,,22.0,225,New York,IL,United States
-Globex,help@globex.com,2020-01-01,Referral,1000.0,True,001C000003,1000000.0,42,,,394,,,,0.7771632171589296,13.0,454,New York,Illinois,United States
-Umbrella,,2024-09-05,Social Media,0.0,False,,2500000.0,2024-12-18 19:37:11.168680,,N.A.,395,,,,0.8007161876753686,37.0,12,New York,Illinois,
-Soylent,,2022-12-01,Email Campaign,10000.0,False,001A000001,1000000.0,2025-07-19 19:37:11.168684,"{""type"": ""A"", ""value"": 100}",N.A.,396,,,50.0,,,196,nyc,California,us
-Acme Corp,contact@acme.com,2024-10-16,Social Media,1000.0,True,,999999.0,2024-05-05,,,397,,,25.0,0.0400544834045311,6.0,488,chicago,CA,USA
-Soylent,,2023-07-11,Referral,10000.0,False,001A000001,1000000.0,2024-05-05,"{""type"": null}",US,398,,,75.0,0.9131132533065242,13.0,63,New York,N.Y.,
-Initech,,2022-12-01,Trade Show,10000.0,False,001B000002,2500000.0,,"{""type"": null}",US,399,,Valid,75.0,,20.0,251,,NY,
-Acme Corp,contact@acme.com,2022-12-22,Referral,10000.0,False,001A000001,1000000.0,2024-10-02 19:37:11.168696,"{""type"": ""B"", ""value"": 200}",US,400,,Valid,,0.2199385095209515,,30,San Francisco,Illinois,USA
-Acme Corp,contact@acme.com,2025-03-23,Trade Show,10000.0,True,,999999.0,42,,North America,401,,See notes,10.0,0.7093306419288286,6.0,75,,CA,USA
-Soylent,,2023-11-07,Email Campaign,1000.0,True,001B000002,1000000.0,2024-11-13 19:37:11.168702,"{""type"": ""A"", ""value"": 100}",,402,,Valid,75.0,,13.0,54,Chicago,NY,United States
-Acme Corp,contact@acme.com,2024-03-02,Trade Show,1000.0,True,,2500000.0,42,"{""type"": ""A"", ""value"": 100}",,403,,See notes,25.0,0.5522487293181682,3.0,43,nyc,California,U.S.
-Umbrella,,2022-12-01,Trade Show,10000.0,True,001C000003,1000000.0,42,"{""type"": null}",US,404,,,,0.1491526030993406,,426,chicago,CA,us
-Umbrella,,2024-10-01,Email Campaign,50000.0,True,,100000.0,2025-07-20 19:37:11.168708,,,405,,See notes,50.0,,21.0,241,Chicago,CA,U.S.
-Globex,help@globex.com,,Trade Show,10000.0,True,001B000002,1000000.0,2024-12-08 19:37:11.168711,,N.A.,406,,Valid,,0.5335386588082759,39.0,437,San Francisco,N.Y.,United States
-Acme Corp,contact@acme.com,2024-06-20,Social Media,1000.0,False,001B000002,5000000.0,2024-10-20 19:37:11.168713,,United States,407,,,10.0,0.2479005551823698,29.0,237,Chicago,Illinois,
-Initech,,,Email Campaign,1000.0,True,,1000000.0,,"{""type"": null}",,408,,See notes,10.0,,,355,,Illinois,us
-Umbrella,,,Email Campaign,50000.0,False,001C000003,1000000.0,Called client,,North America,409,,,25.0,0.937053755232717,16.0,340,Chicago,IL,us
-Globex,help@globex.com,,Social Media,10000.0,False,,1000000.0,42,"{""type"": ""B"", ""value"": 200}",,410,,,100.0,0.970750052141086,1.0,321,chicago,NY,U.S.
-Soylent,,2025-01-14,Referral,10000.0,False,,999999.0,Called client,"{""type"": ""B"", ""value"": 200}",United States,411,,Valid,10.0,,8.0,461,chicago,Illinois,
-Umbrella,,,Trade Show,50000.0,True,001A000001,5000000.0,42,,North America,412,,See notes,75.0,0.3430192522370795,,435,San Francisco,IL,U.S.
-Acme Corp,contact@acme.com,2022-12-01,Email Campaign,1000.0,False,,,2024-05-05,,North America,413,,,50.0,0.1324388697707335,22.0,268,New York,California,
-Globex,help@globex.com,2022-12-01,Trade Show,0.0,True,001C000003,1000000.0,42,,North America,414,,,10.0,,1.0,118,,N.Y.,U.S.
-Umbrella,,2025-03-13,Referral,50000.0,True,001C000003,1000000.0,,,N.A.,415,,Valid,10.0,0.5460004752253665,1.0,53,,CA,
-Acme Corp,contact@acme.com,2024-04-20,Social Media,,True,001A000001,1000000.0,,,United States,416,,,100.0,0.2851133876662384,,77,Chicago,CA,USA
-Umbrella,,2022-12-01,Trade Show,10000.0,False,001C000003,2500000.0,,"{""type"": ""A"", ""value"": 100}",,417,,Valid,100.0,,18.0,397,New York,California,USA
-Globex,help@globex.com,2020-01-01,Trade Show,1000.0,True,001C000003,5000000.0,2024-11-04 19:37:11.168737,,US,418,,,75.0,0.0893959078818745,36.0,320,New York,IL,
-Initech,,2022-12-01,Email Campaign,10000.0,False,,5000000.0,,"{""type"": null}",United States,419,,Valid,100.0,0.2115351103504787,19.0,497,,N.Y.,USA
-Globex,help@globex.com,,Social Media,1000.0,True,001A000001,5000000.0,2024-05-05,,US,420,,,50.0,,,181,,,U.S.
-Acme Corp,contact@acme.com,2024-07-11,Email Campaign,,True,001A000001,1000000.0,,,United States,421,,,75.0,0.426158719556719,37.0,377,,,
-Wonka,,,Partner,50000.0,False,001B000002,999999.0,42,"{""type"": null}",,422,,Valid,100.0,0.5220225250336502,22.0,493,nyc,California,United States
-Initech,,2025-05-09,Email Campaign,25000.0,False,001A000001,1000000.0,,,United States,423,,,10.0,,10.0,44,Chicago,NY,USA
-Globex,help@globex.com,2022-12-01,Email Campaign,50000.0,True,001B000002,5000000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",US,424,,See notes,,0.8118141608643462,,480,,Illinois,United States
-Acme Corp,contact@acme.com,2020-01-01,Social Media,,True,001B000002,2500000.0,42,"{""type"": ""B"", ""value"": 200}",US,425,,Valid,10.0,0.0068906452639815,49.0,132,,IL,
-Globex,help@globex.com,,Social Media,25000.0,,001A000001,1000000.0,,"{""type"": ""A"", ""value"": 100}",North America,426,,,50.0,,6.0,328,,California,United States
-Umbrella,,2023-03-01,Social Media,10000.0,False,001C000003,999999.0,2025-02-18 19:37:11.168767,"{""type"": null}",United States,427,,,100.0,0.9642403223949946,17.0,79,nyc,CA,USA
-Globex,help@globex.com,2025-05-22,,50000.0,True,,1000000.0,,,North America,428,,,50.0,0.8291238018897151,,359,Chicago,N.Y.,United States
-Acme Corp,contact@acme.com,2020-01-01,Referral,,False,001C000003,,2024-05-05,"{""type"": ""B"", ""value"": 200}",United States,429,,,10.0,,8.0,96,,,USA
-Umbrella,,2020-01-01,Partner,10000.0,False,,1000000.0,Called client,,,430,,See notes,100.0,0.4723633480534781,14.0,378,,Illinois,USA
-Umbrella,,2025-02-08,Referral,50000.0,False,,,42,"{""type"": ""A"", ""value"": 100}",N.A.,431,,,50.0,0.1731670435358689,36.0,357,nyc,,us
-Globex,help@globex.com,2022-12-01,Email Campaign,1000.0,True,,1000000.0,2025-04-28 19:37:11.168785,"{""type"": ""A"", ""value"": 100}",,432,,,100.0,,,187,,NY,United States
-Wonka,,2025-04-10,Partner,,True,,1000000.0,2024-05-05,,,433,,,,0.7028623483869577,7.0,436,New York,CA,USA
-Acme Corp,contact@acme.com,,Referral,10000.0,False,001B000002,1000000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",N.A.,434,,See notes,75.0,0.2147424227157526,33.0,92,New York,CA,United States
-Globex,help@globex.com,,Referral,,True,,1000000.0,,"{""type"": ""A"", ""value"": 100}",US,435,,,50.0,,16.0,204,New York,Illinois,us
-Wonka,,2022-12-01,Email Campaign,1000.0,False,,1000000.0,2025-05-31 19:37:11.168799,"{""type"": null}",N.A.,436,,See notes,25.0,0.991515761894694,,146,nyc,IL,U.S.
-Globex,help@globex.com,,,,True,,1000000.0,42,"{""type"": ""A"", ""value"": 100}",,437,,See notes,25.0,0.9394817025081263,16.0,218,,IL,us
-Initech,,2022-12-01,Referral,50000.0,True,001C000003,1000000.0,2025-05-07 19:37:11.168804,,United States,438,,,100.0,,5.0,470,,Illinois,U.S.
-Soylent,,2024-11-08,,0.0,False,,1000000.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",US,439,,,75.0,0.2799250253655962,0.0,259,,N.Y.,us
-Wonka,,2024-04-04,Email Campaign,50000.0,True,001C000003,,42,"{""type"": ""A"", ""value"": 100}",North America,440,,,100.0,0.4222265457975278,,136,,CA,
-Umbrella,,2020-01-01,Email Campaign,1000.0,False,,1000000.0,,"{""type"": ""B"", ""value"": 200}",US,441,,,75.0,,16.0,91,,NY,USA
-Acme Corp,contact@acme.com,2022-12-01,,25000.0,False,001B000002,2500000.0,Called client,"{""type"": ""B"", ""value"": 200}",US,442,,,,0.8537015843428312,36.0,342,San Francisco,California,
-,,2022-12-01,Partner,10000.0,False,001A000001,1000000.0,2025-03-13 19:37:11.168814,"{""type"": ""B"", ""value"": 200}",,443,,,100.0,0.5324640629263605,18.0,449,New York,CA,United States
-Acme Corp,contact@acme.com,,Trade Show,10000.0,False,,1000000.0,,"{""type"": ""B"", ""value"": 200}",North America,444,,,10.0,,,339,Chicago,NY,U.S.
-Acme Corp,contact@acme.com,2022-12-01,Social Media,50000.0,True,001A000001,1000000.0,42,"{""type"": null}",,445,,,10.0,0.3481739849803508,40.0,124,San Francisco,,USA
-Acme Corp,contact@acme.com,2020-01-01,Social Media,0.0,False,,1000000.0,42,,US,446,,,10.0,0.639347830926053,23.0,234,San Francisco,CA,United States
-Soylent,,2024-10-28,Referral,50000.0,False,001A000001,1000000.0,2024-05-05,,US,447,,,10.0,,7.0,318,Chicago,N.Y.,United States
-Acme Corp,contact@acme.com,,Phone Inquiry,,True,001A000001,1000000.0,,"{""type"": ""A"", ""value"": 100}",,448,,,25.0,0.3243255878354106,,480,chicago,N.Y.,us
-Acme Corp,contact@acme.com,2024-05-26,Trade Show,50000.0,False,001C000003,1000000.0,2024-11-15 19:37:11.168828,"{""type"": ""A"", ""value"": 100}",US,449,,,,0.697954326528135,11.0,356,New York,NY,U.S.
-Umbrella,,2022-12-01,Trade Show,50000.0,False,001C000003,100000.0,2024-05-05,"{""type"": null}",North America,450,,See notes,50.0,,49.0,448,nyc,CA,U.S.
-Soylent,,,Email Campaign,10000.0,False,001C000003,999999.0,Called client,,North America,451,,,,0.7940206614643988,33.0,110,New York,N.Y.,USA
-Globex,help@globex.com,2025-06-01,,10000.0,False,,2500000.0,2024-05-05,"{""type"": null}",,452,,,75.0,0.7418209796851146,,274,nyc,Illinois,
-Initech,,2020-01-01,Referral,1000.0,False,001B000002,1000000.0,Called client,,,453,,,100.0,,24.0,438,nyc,,us
-Soylent,,,Phone Inquiry,50000.0,False,,1000000.0,42,"{""type"": ""B"", ""value"": 200}",United States,454,,,10.0,0.9289004734210564,29.0,399,New York,,us
-Acme Corp,contact@acme.com,2020-01-01,Referral,10000.0,True,,1000000.0,Called client,"{""type"": null}",North America,455,,Valid,50.0,0.9569854894036286,12.0,493,Chicago,N.Y.,USA
-Umbrella,,2020-01-01,Trade Show,10000.0,False,001C000003,1000000.0,,"{""type"": ""B"", ""value"": 200}",N.A.,456,,,75.0,,,71,New York,IL,
-Soylent,,2022-12-01,Email Campaign,25000.0,True,,5000000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",,457,,,100.0,0.0796035027896596,22.0,48,San Francisco,CA,
-Initech,,,Trade Show,25000.0,True,,999999.0,42,"{""type"": ""A"", ""value"": 100}",United States,458,,See notes,,0.2300287443920536,12.0,447,Chicago,,USA
-Globex,help@globex.com,,Trade Show,10000.0,False,001B000002,1000000.0,2025-05-17 19:37:11.168851,"{""type"": ""A"", ""value"": 100}",,459,,,100.0,,8.0,97,,N.Y.,U.S.
-Acme Corp,contact@acme.com,2022-12-01,Referral,1000.0,True,001B000002,5000000.0,Called client,"{""type"": ""B"", ""value"": 200}",US,460,,,10.0,0.4919707135681562,,155,,NY,USA
-Umbrella,,2024-10-18,Email Campaign,50000.0,False,001C000003,100000.0,2024-08-28 19:37:11.168855,"{""type"": null}",US,461,,,50.0,0.2692885015643684,12.0,269,nyc,N.Y.,USA
-Acme Corp,contact@acme.com,,Social Media,,True,001B000002,5000000.0,2024-10-30 19:37:11.168857,"{""type"": ""B"", ""value"": 200}",,462,,,50.0,,5.0,330,San Francisco,California,us
-Globex,help@globex.com,,,10000.0,False,001B000002,1000000.0,Called client,"{""type"": ""A"", ""value"": 100}",United States,463,,,50.0,0.203853669097516,40.0,453,,,U.S.
-Globex,help@globex.com,2023-08-24,,1000.0,False,,1000000.0,Called client,"{""type"": null}",North America,464,,,100.0,0.014404208482367,,114,San Francisco,NY,United States
-Soylent,,2025-03-07,Referral,50000.0,True,,1000000.0,,,,465,,,50.0,,24.0,65,chicago,NY,
-Initech,,2022-12-01,Referral,10000.0,True,001B000002,2500000.0,Called client,,,466,,,25.0,0.4820550263817179,35.0,54,,,us
-Umbrella,,,Email Campaign,50000.0,False,001B000002,100000.0,2024-09-05 19:37:11.168868,,United States,467,,Valid,75.0,0.913610325101546,34.0,417,nyc,CA,U.S.
-Globex,help@globex.com,2022-12-01,Phone Inquiry,,True,001B000002,1000000.0,42,"{""type"": ""B"", ""value"": 200}",United States,468,,,10.0,,,208,New York,NY,U.S.
-Umbrella,,2022-11-08,Trade Show,25000.0,False,001A000001,999999.0,42,,US,469,,,75.0,0.8107625006540591,30.0,445,,N.Y.,U.S.
-Acme Corp,contact@acme.com,,Referral,0.0,False,001A000001,2500000.0,2024-05-05,"{""type"": null}",US,470,,Valid,50.0,0.3188753167585612,47.0,500,San Francisco,CA,United States
-Globex,help@globex.com,,Email Campaign,,False,001B000002,,2024-05-05,"{""type"": ""A"", ""value"": 100}",N.A.,471,,Valid,,,5.0,121,Chicago,Illinois,U.S.
-,,2020-01-01,Referral,10000.0,False,,1000000.0,,"{""type"": ""B"", ""value"": 200}",,472,,,100.0,0.8900276625209904,,78,San Francisco,NY,USA
-Acme Corp,contact@acme.com,,Trade Show,1000.0,False,,1000000.0,Called client,"{""type"": ""B"", ""value"": 200}",,473,,See notes,100.0,0.0849210286858656,22.0,447,,IL,us
-Umbrella,,2025-07-04,Referral,0.0,False,,,2025-04-10 19:37:11.168883,"{""type"": ""B"", ""value"": 200}",United States,474,,,10.0,,46.0,86,nyc,N.Y.,United States
-Globex,help@globex.com,2022-11-10,Social Media,10000.0,True,,2500000.0,2024-12-18 19:37:11.168885,"{""type"": null}",North America,475,,,10.0,0.4214279593226747,7.0,377,Chicago,CA,USA
-Umbrella,,2025-03-10,Referral,10000.0,True,001C000003,,2024-05-05,,US,476,,Valid,100.0,0.7561896568882888,,473,,CA,USA
-Acme Corp,contact@acme.com,2022-12-01,Social Media,,False,001A000001,5000000.0,Called client,,N.A.,477,,,25.0,,7.0,78,chicago,NY,USA
-Globex,help@globex.com,,Social Media,,True,001A000001,1000000.0,2025-05-27 19:37:11.168892,,North America,478,,,25.0,0.3336542098319405,26.0,170,chicago,California,USA
-Wonka,,2024-09-19,Social Media,50000.0,True,001A000001,2500000.0,42,"{""type"": null}",North America,479,,See notes,50.0,0.831307098971977,37.0,397,,NY,United States
-Acme Corp,contact@acme.com,,Email Campaign,50000.0,False,001A000001,1000000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",US,480,,Valid,100.0,,,303,San Francisco,Illinois,United States
-Umbrella,,2024-10-15,Social Media,25000.0,True,,5000000.0,42,,,481,,See notes,100.0,0.1713557345766418,33.0,14,San Francisco,NY,United States
-Globex,help@globex.com,,Email Campaign,50000.0,False,001B000002,,42,"{""type"": ""B"", ""value"": 200}",North America,482,,,25.0,0.4202606568118948,21.0,335,Chicago,N.Y.,us
-Acme Corp,contact@acme.com,2022-12-01,Social Media,50000.0,True,,1000000.0,Called client,,North America,483,,See notes,,,44.0,417,,California,us
-Globex,help@globex.com,2022-12-01,Email Campaign,1000.0,False,001B000002,1000000.0,Called client,,United States,484,,Valid,,0.5243438763538185,,48,nyc,,USA
-Soylent,,2020-01-01,Trade Show,50000.0,False,001B000002,100000.0,Called client,"{""type"": null}",US,485,,,,0.9846286293846398,50.0,394,New York,N.Y.,USA
-Soylent,,2022-12-01,Trade Show,10000.0,False,001B000002,5000000.0,Called client,,N.A.,486,,,75.0,,21.0,493,Chicago,NY,USA
-Acme Corp,contact@acme.com,2023-11-18,Referral,25000.0,True,001B000002,5000000.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,487,,,75.0,0.9749232363763684,13.0,59,chicago,IL,
-Soylent,,,Email Campaign,10000.0,False,001B000002,2500000.0,,,US,488,,,100.0,0.871012738990196,,351,chicago,NY,United States
-Globex,help@globex.com,2022-12-01,Trade Show,50000.0,True,001B000002,100000.0,42,"{""type"": null}",North America,489,,,75.0,,3.0,139,New York,CA,us
-Acme Corp,contact@acme.com,2023-04-18,Social Media,1000.0,True,001B000002,1000000.0,,"{""type"": ""A"", ""value"": 100}",United States,490,,Valid,,0.543196583074212,50.0,199,San Francisco,IL,
-Acme Corp,contact@acme.com,2022-12-01,Trade Show,50000.0,True,001A000001,1000000.0,Called client,"{""type"": null}",United States,491,,See notes,10.0,0.928004163737191,12.0,156,nyc,,United States
-Globex,help@globex.com,2020-01-01,Phone Inquiry,10000.0,False,,1000000.0,42,"{""type"": ""B"", ""value"": 200}",North America,492,,,,,,112,,IL,United States
-Acme Corp,contact@acme.com,2024-01-28,Email Campaign,10000.0,False,001A000001,1000000.0,42,,,493,,,75.0,0.5726609206570191,32.0,498,Chicago,N.Y.,USA
-Acme Corp,contact@acme.com,,Web,10000.0,False,,999999.0,42,,N.A.,494,,,10.0,0.5537502871022155,36.0,237,,NY,USA
-Globex,help@globex.com,2020-01-01,Social Media,0.0,False,001A000001,5000000.0,,,North America,495,,,75.0,,18.0,114,New York,CA,
-Acme Corp,contact@acme.com,2022-12-01,Referral,25000.0,False,001B000002,1000000.0,2025-04-29 19:37:11.168931,,N.A.,496,,,50.0,0.9550924621352528,,272,San Francisco,,U.S.
-Initech,,2022-12-01,Phone Inquiry,1000.0,True,,1000000.0,42,"{""type"": ""B"", ""value"": 200}",,497,,,,0.2629513049519324,37.0,205,,Illinois,
-Globex,help@globex.com,2022-12-01,Social Media,50000.0,False,001C000003,,Called client,,US,498,,,50.0,,3.0,210,New York,CA,USA
-Umbrella,,,Social Media,10000.0,True,001B000002,100000.0,,"{""type"": ""B"", ""value"": 200}",,499,,,75.0,0.3443362715434562,20.0,449,nyc,,U.S.
+account_name,contact_email,created_date,lead_source,opportunity_amount,is_active,sfdc_id,annual_revenue,Num Calls,Time on Page (sec),City,State,Country,last_activity,custom_field,region,notes_flag,deal_score,engagement_level
+Acme Corp,contact@acme.com,2020-01-01,Trade Show,1000.0,False,001B000002,1000000.0,,141,Chicago,N.Y.,,,"{""type"": ""A"", ""value"": 100}",North America,,0.5,
+Globex,help@globex.com,2022-12-01,Social Media,,False,,1000000.0,31.0,278,,CA,,,,North America,,,0.0636
+Globex,help@globex.com,,Email Campaign,50000.0,True,001A000001,5000000.0,38.0,271,Chicago,,United States,2024-05-05,,North America,,,0.2173
+Acme Corp,contact@acme.com,,Social Media,50000.0,False,,1000000.0,32.0,318,,,United States,2024-09-13,"{""type"": ""A"", ""value"": 100}",North America,,1.0,
+Umbrella,,2024-03-26,Web,50000.0,False,001B000002,1000000.0,,399,San Francisco,N.Y.,United States,2024-05-05,,North America,,1.0,0.5376
+Globex,help@globex.com,2024-04-03,,50000.0,True,001A000001,999999.0,23.0,383,Chicago,Illinois,us,,"{""type"": ""A"", ""value"": 100}",North America,,,0.7661
+Soylent,,2025-07-17,Referral,10000.0,False,001A000001,,3.0,155,,Illinois,us,2025-01-28,"{""type"": ""B"", ""value"": 200}",North America,,1.0,
+Soylent,,2023-12-17,Phone Inquiry,1000.0,True,,,37.0,248,New York,Illinois,USA,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.1,0.9034
+Acme Corp,contact@acme.com,2022-12-01,Trade Show,1000.0,False,001B000002,2500000.0,,419,New York,IL,United States,2025-01-23,,,,0.5,0.5414
+Acme Corp,contact@acme.com,,Email Campaign,50000.0,False,001C000003,5000000.0,10.0,108,New York,NY,us,,,North America,Notes_Flag,,
+Umbrella,,2024-06-03,Trade Show,25000.0,True,001A000001,2500000.0,49.0,182,San Francisco,Illinois,United States,,,,Notes_Flag,0.75,0.0309
+Wonka,,2025-07-08,Trade Show,50000.0,True,,5000000.0,13.0,194,chicago,California,us,2024-05-05,,,Notes_Flag,1.0,0.1543
+Globex,help@globex.com,2022-12-01,,1000.0,True,,1000000.0,,279,,Illinois,U.S.,,"{""type"": ""B"", ""value"": 200}",,,0.75,
+Soylent,,2020-01-01,Trade Show,50000.0,True,001B000002,1000000.0,26.0,37,,NY,,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,1.0,0.7853
+Soylent,,2020-01-01,Partner,50000.0,False,,1000000.0,17.0,350,nyc,NY,,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,1.0,0.2743
+Globex,help@globex.com,2023-01-26,Social Media,50000.0,True,,100000.0,21.0,105,Chicago,California,us,,,,,0.1,
+Acme Corp,contact@acme.com,2022-12-01,Referral,50000.0,True,001C000003,1000000.0,,331,chicago,CA,,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,,0.8991
+Globex,help@globex.com,,Web,25000.0,True,,1000000.0,9.0,296,nyc,CA,us,,,North America,Notes_Flag,1.0,0.0606
+Soylent,,2020-01-01,Social Media,10000.0,,001A000001,5000000.0,41.0,169,,California,U.S.,2024-08-22,,North America,Notes_Flag,,
+Globex,help@globex.com,,Email Campaign,,False,001A000001,5000000.0,44.0,353,nyc,CA,U.S.,,,North America,,1.0,0.2805
+Umbrella,,2020-01-01,Social Media,1000.0,False,,1000000.0,,360,New York,,U.S.,,"{""type"": ""B"", ""value"": 200}",North America,,1.0,0.0956
+Umbrella,,2024-08-12,Referral,10000.0,True,,1000000.0,41.0,472,,,USA,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.75,
+Wonka,,2022-12-01,Trade Show,50000.0,False,001B000002,2500000.0,37.0,73,San Francisco,N.Y.,United States,,,North America,Notes_Flag,0.75,0.7808
+Globex,help@globex.com,2022-12-01,Email Campaign,50000.0,True,001B000002,1000000.0,1.0,113,New York,NY,us,,,North America,Notes_Flag,0.75,0.2904
+Soylent,,2020-01-01,Email Campaign,,True,,,,21,nyc,IL,us,2024-12-18,,North America,,0.1,
+Globex,help@globex.com,2024-12-27,Social Media,0.0,,,1000000.0,8.0,50,,IL,us,,,North America,Notes_Flag,0.5,0.8941
+Acme Corp,contact@acme.com,2022-12-01,Social Media,10000.0,True,,1000000.0,43.0,205,,,USA,,,North America,Notes_Flag,,0.053
+Soylent,,2023-05-04,Email Campaign,,True,,999999.0,28.0,107,New York,California,U.S.,,,,,,
+Initech,,,Web,50000.0,False,001C000003,2500000.0,,203,chicago,N.Y.,us,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,1.0,0.9407
+Soylent,,,Email Campaign,1000.0,True,001A000001,5000000.0,19.0,134,chicago,N.Y.,U.S.,,,,,1.0,0.9583
+Globex,help@globex.com,2022-12-01,Web,0.0,True,001A000001,2500000.0,3.0,442,chicago,IL,,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.75,
+Globex,help@globex.com,,Trade Show,,False,,1000000.0,10.0,472,Chicago,,USA,,,North America,,1.0,0.0636
+Soylent,,2024-02-20,Social Media,,False,001B000002,1000000.0,,59,,IL,,,,North America,,0.1,0.3864
+Globex,help@globex.com,2022-12-01,Trade Show,0.0,False,,999999.0,37.0,417,San Francisco,California,United States,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,1.0,
+Soylent,,2022-12-01,Email Campaign,10000.0,False,,5000000.0,41.0,496,,N.Y.,,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,0.5,0.9556
+Globex,help@globex.com,2025-06-13,Referral,10000.0,True,001A000001,1000000.0,32.0,189,San Francisco,California,us,2025-03-08,,,Notes_Flag,1.0,0.4717
+Acme Corp,contact@acme.com,2020-01-01,Social Media,10000.0,True,,5000000.0,,206,nyc,Illinois,USA,,,,Notes_Flag,,
+Umbrella,,2024-08-15,Referral,10000.0,False,,1000000.0,23.0,492,New York,,USA,2024-08-08,,North America,,0.1,0.67
+Acme Corp,contact@acme.com,2022-12-01,Email Campaign,50000.0,True,001A000001,2500000.0,24.0,377,Chicago,California,us,,,North America,,,0.2341
+Globex,help@globex.com,,,50000.0,True,,1000000.0,16.0,93,San Francisco,IL,United States,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.75,
+Soylent,,2022-12-01,Referral,25000.0,True,,2500000.0,,429,,,United States,2024-05-05,,North America,,0.1,0.7764
+Acme Corp,contact@acme.com,2025-07-08,Email Campaign,25000.0,True,001A000001,1000000.0,1.0,339,,California,us,2025-06-30,"{""type"": ""B"", ""value"": 200}",,,0.75,0.6687
+Soylent,,2020-01-01,Social Media,1000.0,True,,1000000.0,48.0,94,New York,CA,us,,,North America,Notes_Flag,0.75,
+Soylent,,2020-01-01,Trade Show,10000.0,True,001A000001,,45.0,398,nyc,,us,2024-09-08,,North America,,0.1,0.4629
+Acme Corp,contact@acme.com,2023-06-06,Email Campaign,10000.0,True,,1000000.0,,450,,California,,,,North America,,1.0,0.495
+Globex,help@globex.com,,Social Media,50000.0,True,001A000001,999999.0,5.0,278,San Francisco,N.Y.,USA,,,,,0.1,
+Globex,help@globex.com,,,10000.0,False,,2500000.0,20.0,222,,NY,us,,"{""type"": ""A"", ""value"": 100}",North America,,0.75,0.6485
+Globex,help@globex.com,,Web,1000.0,True,,100000.0,19.0,452,chicago,Illinois,us,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,0.5,0.2814
+Globex,help@globex.com,2020-01-01,Social Media,10000.0,False,001A000001,5000000.0,,376,chicago,CA,United States,2024-05-05,,North America,,0.25,
+Soylent,,2022-12-01,Trade Show,,True,,999999.0,50.0,332,nyc,Illinois,USA,,,,,0.5,0.6822
+Acme Corp,contact@acme.com,2023-08-08,Email Campaign,50000.0,True,001A000001,100000.0,1.0,465,New York,,us,,"{""type"": ""A"", ""value"": 100}",,,0.75,0.6374
+Globex,help@globex.com,2020-01-01,,1000.0,True,,1000000.0,13.0,110,,California,U.S.,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.5,
+Globex,help@globex.com,2022-12-01,Referral,0.0,False,,1000000.0,,74,chicago,California,us,2025-06-06,,North America,Notes_Flag,0.5,0.9779
+Acme Corp,contact@acme.com,,Trade Show,50000.0,True,001C000003,1000000.0,13.0,218,Chicago,N.Y.,United States,2025-05-08,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,0.5,0.2281
+Globex,help@globex.com,2020-01-01,Social Media,25000.0,True,,2500000.0,38.0,263,nyc,NY,U.S.,,,North America,,1.0,
+Umbrella,,2023-01-07,Referral,10000.0,False,,5000000.0,24.0,158,,CA,U.S.,,,North America,Notes_Flag,0.75,0.0582
+Globex,help@globex.com,2023-07-25,,50000.0,True,,,,457,New York,N.Y.,U.S.,,,North America,,0.1,0.2425
+Acme Corp,contact@acme.com,2020-01-01,Phone Inquiry,0.0,False,,5000000.0,15.0,177,,IL,United States,,,North America,Notes_Flag,0.5,
+Wonka,,2020-01-01,Social Media,10000.0,True,001B000002,1000000.0,23.0,350,,IL,,2024-05-05,,,,,0.9526
+Soylent,,2022-12-01,Email Campaign,50000.0,True,001A000001,1000000.0,6.0,396,chicago,N.Y.,us,,,North America,Notes_Flag,0.25,0.3861
+Umbrella,,2020-01-01,Partner,50000.0,False,001C000003,1000000.0,,491,San Francisco,,United States,,,,,0.25,
+Soylent,,,Email Campaign,50000.0,False,001C000003,1000000.0,41.0,18,nyc,IL,,2024-09-28,,North America,,0.75,0.6322
+Soylent,,2024-04-29,Web,50000.0,False,001A000001,1000000.0,45.0,477,,IL,United States,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.1,0.0255
+Soylent,,2022-12-01,Web,,True,001C000003,1000000.0,29.0,416,San Francisco,Illinois,U.S.,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.1,
+Umbrella,,,Referral,1000.0,True,,1000000.0,,357,nyc,N.Y.,us,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,1.0,0.1563
+Umbrella,,,Email Campaign,50000.0,True,001A000001,5000000.0,39.0,361,San Francisco,California,USA,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,1.0,0.8421
+,,2022-12-01,Referral,10000.0,False,,1000000.0,16.0,150,San Francisco,IL,United States,,,North America,Notes_Flag,0.5,
+Globex,help@globex.com,2024-09-21,Trade Show,10000.0,True,,1000000.0,21.0,112,San Francisco,Illinois,us,,,,Notes_Flag,0.1,0.4456
+Globex,help@globex.com,,Referral,1000.0,False,001C000003,1000000.0,,201,New York,California,us,,,North America,,0.25,0.4585
+Soylent,,2025-03-04,Trade Show,50000.0,True,001C000003,2500000.0,18.0,155,nyc,California,U.S.,2024-08-26,"{""type"": ""B"", ""value"": 200}",North America,,0.25,
+Umbrella,,2022-12-01,,1000.0,False,001B000002,2500000.0,40.0,62,,,U.S.,,,North America,,0.75,0.7348
+Globex,help@globex.com,2020-01-01,Trade Show,10000.0,True,,1000000.0,6.0,331,,NY,,2025-05-25,,North America,Notes_Flag,,0.4882
+Globex,help@globex.com,2020-01-01,Partner,50000.0,False,,1000000.0,,490,,IL,us,2025-03-16,,North America,Notes_Flag,,
+Umbrella,,2022-12-01,Trade Show,1000.0,False,001B000002,2500000.0,14.0,352,Chicago,Illinois,United States,2024-10-21,,North America,,0.5,0.4178
+Umbrella,,2022-12-01,Partner,,False,001B000002,1000000.0,0.0,66,nyc,N.Y.,USA,2024-11-30,"{""type"": ""B"", ""value"": 200}",North America,,0.1,0.1077
+Globex,help@globex.com,,Social Media,10000.0,True,001B000002,1000000.0,40.0,71,,CA,U.S.,2025-03-02,"{""type"": ""A"", ""value"": 100}",North America,,,
+Soylent,,2024-10-07,Social Media,50000.0,True,001B000002,1000000.0,,113,New York,NY,,2024-05-05,,North America,Notes_Flag,0.25,0.1581
+Globex,help@globex.com,2022-12-01,Social Media,,False,001B000002,2500000.0,0.0,394,Chicago,California,U.S.,2024-05-05,,,,0.75,0.9995
+Soylent,,2024-09-27,Social Media,10000.0,False,,999999.0,2.0,378,New York,California,,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,,0.5,
+Acme Corp,contact@acme.com,,Email Campaign,50000.0,False,,1000000.0,46.0,145,nyc,Illinois,United States,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,0.75,0.1138
+Globex,help@globex.com,2022-12-01,Email Campaign,50000.0,True,,5000000.0,,10,,N.Y.,U.S.,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,0.1,0.2915
+Acme Corp,contact@acme.com,2024-07-10,Trade Show,50000.0,False,,999999.0,41.0,223,,California,us,,"{""type"": ""B"", ""value"": 200}",North America,,1.0,
+Wonka,,2020-01-01,Email Campaign,1000.0,False,,1000000.0,19.0,18,New York,CA,U.S.,2024-05-05,"{""type"": ""A"", ""value"": 100}",,,0.25,0.0397
+Globex,help@globex.com,2020-01-01,Social Media,50000.0,True,001A000001,5000000.0,25.0,252,nyc,CA,,2024-05-05,,,Notes_Flag,,0.7383
+Acme Corp,contact@acme.com,2020-01-01,Social Media,1000.0,True,001A000001,1000000.0,,147,New York,California,us,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,,
+Acme Corp,contact@acme.com,2022-12-01,Trade Show,1000.0,True,001B000002,1000000.0,40.0,228,Chicago,CA,us,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,,0.25,0.5443
+Acme Corp,contact@acme.com,2022-12-01,Email Campaign,10000.0,True,001B000002,,39.0,15,nyc,NY,us,,"{""type"": ""B"", ""value"": 200}",North America,,,0.6748
+Umbrella,,2020-01-01,,25000.0,True,,,1.0,315,chicago,CA,USA,,"{""type"": ""A"", ""value"": 100}",North America,,0.25,
+Globex,help@globex.com,2022-12-01,,50000.0,True,001A000001,1000000.0,,482,Chicago,California,United States,,"{""type"": ""A"", ""value"": 100}",North America,,1.0,0.4823
+Umbrella,,2025-06-07,Email Campaign,1000.0,True,,1000000.0,25.0,204,San Francisco,N.Y.,USA,,,North America,,1.0,0.4253
+Umbrella,,2022-12-01,Email Campaign,1000.0,False,001A000001,5000000.0,24.0,353,Chicago,NY,United States,,"{""type"": ""A"", ""value"": 100}",North America,,1.0,
+Globex,help@globex.com,2025-03-03,Referral,50000.0,False,,1000000.0,9.0,244,chicago,N.Y.,USA,2025-07-18,"{""type"": ""A"", ""value"": 100}",North America,,0.75,0.224
+Globex,help@globex.com,,Referral,,False,,2500000.0,,171,,NY,U.S.,2024-05-05,"{""type"": ""B"", ""value"": 200}",,,1.0,0.8285
+Soylent,,2020-01-01,Trade Show,10000.0,True,,1000000.0,23.0,441,nyc,NY,us,,,,Notes_Flag,,
+Umbrella,,,,10000.0,True,001A000001,1000000.0,5.0,216,San Francisco,N.Y.,USA,,,North America,Notes_Flag,1.0,0.9135
+Globex,help@globex.com,2020-01-01,Trade Show,1000.0,True,,5000000.0,28.0,56,,NY,us,,"{""type"": ""B"", ""value"": 200}",North America,,0.1,0.3784
+Globex,help@globex.com,2022-12-01,Trade Show,1000.0,True,001B000002,1000000.0,,264,New York,California,USA,2025-05-27,,,Notes_Flag,0.25,
+Soylent,,,Social Media,10000.0,False,001B000002,1000000.0,11.0,162,New York,California,us,,"{""type"": ""A"", ""value"": 100}",North America,,1.0,0.1203
+Globex,help@globex.com,2022-12-01,Social Media,50000.0,True,001B000002,5000000.0,34.0,242,,Illinois,USA,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,0.25,0.6338
+Acme Corp,contact@acme.com,2020-01-01,Email Campaign,1000.0,False,,5000000.0,50.0,58,Chicago,CA,,2024-05-05,,,,0.5,
+Acme Corp,contact@acme.com,2020-01-01,Email Campaign,,False,001A000001,1000000.0,,123,,NY,,,,North America,Notes_Flag,,0.9779
+Acme Corp,contact@acme.com,2022-12-01,,1000.0,False,,1000000.0,26.0,225,,,,2025-03-01,"{""type"": ""B"", ""value"": 200}",,,0.25,0.5289
+Soylent,,2024-09-15,Trade Show,25000.0,False,,5000000.0,31.0,117,New York,IL,,2024-09-28,,North America,Notes_Flag,,
+Soylent,,2022-12-01,Referral,0.0,False,001B000002,1000000.0,38.0,55,,Illinois,United States,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,1.0,0.1598
+Soylent,,2020-01-01,Referral,1000.0,True,,999999.0,,59,,CA,United States,,,North America,,1.0,0.3659
+Acme Corp,contact@acme.com,2022-12-01,Social Media,10000.0,False,,1000000.0,30.0,54,nyc,IL,United States,2025-01-19,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.5,
+Umbrella,,,Trade Show,10000.0,True,,1000000.0,44.0,232,nyc,Illinois,United States,,,North America,,0.1,0.1491
+Globex,help@globex.com,2020-01-01,Email Campaign,10000.0,True,,5000000.0,9.0,217,New York,NY,USA,2024-05-05,,North America,,,0.1348
+Initech,,2024-01-15,Partner,50000.0,True,001A000001,,,213,San Francisco,,U.S.,,"{""type"": ""A"", ""value"": 100}",North America,,0.1,
+Globex,help@globex.com,2024-01-01,Trade Show,10000.0,False,,5000000.0,9.0,108,New York,NY,,,,North America,,0.75,0.1299
+Soylent,,2022-12-01,Phone Inquiry,10000.0,False,,1000000.0,32.0,444,Chicago,California,,,,North America,,0.75,0.7647
+Umbrella,,2025-05-07,Email Campaign,50000.0,False,,1000000.0,20.0,491,Chicago,CA,United States,,,North America,,0.75,
+Umbrella,,2025-05-05,Social Media,50000.0,True,001B000002,5000000.0,,496,New York,CA,us,,,North America,,0.1,0.5985
+Globex,help@globex.com,2022-12-01,Social Media,50000.0,True,001A000001,1000000.0,43.0,403,New York,N.Y.,us,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.5,0.2718
+Umbrella,,2024-12-23,Social Media,10000.0,False,,2500000.0,27.0,478,New York,California,us,,,North America,Notes_Flag,0.1,
+Initech,,2022-12-01,Social Media,10000.0,True,,5000000.0,4.0,301,chicago,,U.S.,2024-10-21,"{""type"": ""B"", ""value"": 200}",North America,,1.0,0.9359
+Umbrella,,2025-05-07,Phone Inquiry,1000.0,False,001A000001,1000000.0,,167,,California,United States,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.75,0.6643
+Globex,help@globex.com,2024-09-12,Email Campaign,1000.0,True,001A000001,999999.0,27.0,155,nyc,California,United States,,,,,0.1,
+Acme Corp,contact@acme.com,2025-07-08,Email Campaign,50000.0,False,001B000002,1000000.0,14.0,47,nyc,Illinois,,,,North America,,,0.3624
+Acme Corp,contact@acme.com,2020-01-01,Trade Show,1000.0,False,,1000000.0,39.0,189,,California,U.S.,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,,0.955
+Acme Corp,contact@acme.com,2024-11-20,Social Media,0.0,False,001C000003,1000000.0,,359,chicago,CA,United States,2025-03-28,"{""type"": ""B"", ""value"": 200}",North America,,,
+Globex,help@globex.com,2022-12-01,Social Media,,True,001C000003,1000000.0,38.0,292,Chicago,California,,2024-05-05,,North America,Notes_Flag,0.5,0.8878
+Soylent,,2022-12-01,Social Media,0.0,False,,,20.0,352,nyc,,,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.1,0.361
+Umbrella,,2022-12-01,,,False,,1000000.0,35.0,37,,Illinois,U.S.,,,,Notes_Flag,0.1,
+Umbrella,,,Trade Show,50000.0,False,001C000003,1000000.0,,402,,IL,,2024-05-05,"{""type"": ""B"", ""value"": 200}",,,,0.1364
+Soylent,,2022-12-01,Email Campaign,25000.0,True,001B000002,2500000.0,5.0,117,chicago,CA,U.S.,,"{""type"": ""A"", ""value"": 100}",North America,,0.25,0.2082
+Globex,help@globex.com,2022-12-01,Trade Show,0.0,False,001A000001,999999.0,49.0,422,,,us,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,,
+Acme Corp,contact@acme.com,2025-06-24,Social Media,50000.0,False,,1000000.0,19.0,70,nyc,N.Y.,us,,"{""type"": ""A"", ""value"": 100}",,,0.25,0.5447
+Umbrella,,2024-12-26,Trade Show,10000.0,False,,1000000.0,,149,,,USA,2025-04-26,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.1,0.8753
+Globex,help@globex.com,2024-08-31,Referral,1000.0,True,001A000001,1000000.0,48.0,355,Chicago,Illinois,U.S.,,,North America,,,
+Globex,help@globex.com,2022-12-01,Email Campaign,50000.0,False,001B000002,1000000.0,18.0,162,chicago,IL,us,,"{""type"": ""B"", ""value"": 200}",North America,,0.75,0.0386
+Globex,help@globex.com,2024-03-24,,,False,001A000001,1000000.0,38.0,212,nyc,CA,United States,,,North America,,0.75,0.6717
+Acme Corp,contact@acme.com,2024-09-01,Email Campaign,50000.0,True,,5000000.0,,207,,,USA,2025-02-28,,,,0.25,
+Globex,help@globex.com,2022-12-01,,50000.0,True,,1000000.0,44.0,417,San Francisco,NY,U.S.,,,North America,,0.1,0.27
+Soylent,,2025-05-07,Email Campaign,10000.0,True,,1000000.0,6.0,239,nyc,N.Y.,us,,,North America,,,0.8055
+Umbrella,,2024-06-06,Trade Show,,False,001B000002,1000000.0,11.0,347,,N.Y.,U.S.,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,,0.5,
+Acme Corp,contact@acme.com,2025-06-09,,,True,001B000002,1000000.0,,54,San Francisco,N.Y.,us,2024-05-05,"{""type"": ""A"", ""value"": 100}",,,0.25,0.1807
+Umbrella,,,Web,,False,001C000003,1000000.0,31.0,31,nyc,CA,United States,2024-05-05,,,,0.1,0.31
+Globex,help@globex.com,2022-12-01,Phone Inquiry,10000.0,False,,2500000.0,16.0,270,nyc,,United States,,,North America,,0.25,
+Acme Corp,contact@acme.com,2024-06-05,Trade Show,1000.0,True,001C000003,1000000.0,32.0,107,Chicago,IL,,,,North America,Notes_Flag,0.1,0.0271
+Soylent,,,Social Media,10000.0,True,001C000003,5000000.0,,218,,,United States,,"{""type"": ""A"", ""value"": 100}",North America,,0.5,0.409
+Globex,help@globex.com,2025-03-29,Social Media,50000.0,False,,1000000.0,5.0,70,New York,California,USA,2025-01-26,,,,,
+Soylent,,2025-06-30,Email Campaign,10000.0,True,,1000000.0,26.0,305,Chicago,California,,2025-05-30,,,,1.0,0.3949
+Acme Corp,contact@acme.com,2025-07-22,Email Campaign,50000.0,True,001B000002,100000.0,10.0,238,San Francisco,CA,,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.1,0.2456
+Globex,help@globex.com,2020-01-01,Social Media,1000.0,True,,1000000.0,,259,San Francisco,,U.S.,2024-08-08,,North America,,1.0,
+Wonka,,2020-01-01,Referral,50000.0,False,001C000003,5000000.0,34.0,69,,N.Y.,,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.75,0.6719
+Soylent,,,Email Campaign,50000.0,False,001C000003,1000000.0,48.0,149,,N.Y.,U.S.,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.25,0.2437
+Acme Corp,contact@acme.com,2022-12-01,,50000.0,True,001A000001,1000000.0,49.0,265,New York,California,United States,2024-05-05,,North America,,0.25,
+Acme Corp,contact@acme.com,2024-05-12,Email Campaign,10000.0,True,,2500000.0,,155,nyc,CA,us,2024-12-01,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.25,0.1393
+Initech,,2024-11-17,Web,50000.0,True,,100000.0,34.0,97,New York,California,U.S.,,"{""type"": ""B"", ""value"": 200}",North America,,0.75,0.8969
+Acme Corp,contact@acme.com,2024-12-30,Email Campaign,,True,001A000001,1000000.0,2.0,352,,,us,,"{""type"": ""B"", ""value"": 200}",North America,,,
+Umbrella,,2022-12-01,Trade Show,,False,001C000003,1000000.0,18.0,218,,,United States,,,North America,,0.25,0.3208
+Globex,help@globex.com,2023-03-05,Trade Show,0.0,False,001C000003,2500000.0,,470,nyc,IL,United States,2024-05-05,,,,0.5,0.054
+Initech,,,Referral,50000.0,False,,1000000.0,27.0,83,,Illinois,USA,,,North America,,0.1,
+Soylent,,2022-12-01,Email Campaign,50000.0,False,001B000002,1000000.0,13.0,21,chicago,Illinois,U.S.,,,North America,,1.0,0.8008
+Acme Corp,contact@acme.com,2025-01-09,Trade Show,10000.0,True,,1000000.0,25.0,76,,Illinois,United States,2025-06-22,,North America,Notes_Flag,,0.1162
+Umbrella,,2022-12-01,Email Campaign,10000.0,True,,2500000.0,,185,Chicago,IL,USA,2024-05-05,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,,
+Acme Corp,contact@acme.com,2025-02-01,Social Media,10000.0,True,001C000003,1000000.0,18.0,299,,NY,us,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.5,0.2601
+,,,Referral,50000.0,False,,999999.0,32.0,221,San Francisco,California,us,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.75,0.2937
+Acme Corp,contact@acme.com,2022-12-01,Email Campaign,,True,001B000002,1000000.0,29.0,138,chicago,NY,us,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.25,
+Globex,help@globex.com,2022-12-01,Email Campaign,0.0,True,001A000001,1000000.0,,122,chicago,CA,,2025-04-23,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,0.75,0.9624
+Soylent,,2022-12-01,Social Media,,True,,1000000.0,43.0,293,nyc,IL,USA,,,,,0.5,0.1344
+Umbrella,,2024-11-26,Trade Show,1000.0,False,,1000000.0,41.0,401,,Illinois,,2024-05-05,,North America,Notes_Flag,1.0,
+Globex,help@globex.com,2025-04-07,Social Media,50000.0,False,001B000002,1000000.0,46.0,32,San Francisco,Illinois,United States,2024-05-05,,North America,,1.0,0.2684
+Acme Corp,contact@acme.com,2022-12-01,Trade Show,1000.0,True,,5000000.0,,12,,NY,U.S.,2024-05-05,,North America,,0.25,0.3836
+Umbrella,,2022-12-01,Trade Show,1000.0,False,001A000001,1000000.0,3.0,61,nyc,,us,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,,,
+Soylent,,2024-07-31,Email Campaign,,False,001C000003,100000.0,50.0,461,San Francisco,CA,USA,,"{""type"": ""B"", ""value"": 200}",,,1.0,0.4815
+Umbrella,,,Referral,10000.0,False,,5000000.0,6.0,491,Chicago,N.Y.,United States,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,1.0,0.1449
+Umbrella,,2023-09-17,,,False,001A000001,1000000.0,,27,nyc,IL,us,2024-05-05,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,,
+Acme Corp,contact@acme.com,2020-01-01,Trade Show,0.0,False,,2500000.0,49.0,214,nyc,NY,United States,,,,,0.5,0.5657
+Soylent,,2024-03-07,Email Campaign,,True,001C000003,,0.0,394,chicago,NY,,2025-01-22,,North America,Notes_Flag,0.25,0.7038
+Globex,help@globex.com,,Social Media,50000.0,False,,1000000.0,32.0,481,Chicago,CA,U.S.,2025-01-17,"{""type"": ""A"", ""value"": 100}",North America,,1.0,
+Umbrella,,2022-12-01,Email Campaign,50000.0,False,001C000003,1000000.0,,472,New York,IL,us,,,North America,,0.1,0.5236
+Umbrella,,,Trade Show,1000.0,False,001B000002,1000000.0,25.0,127,San Francisco,N.Y.,,,,North America,,1.0,0.4147
+Acme Corp,contact@acme.com,2022-12-01,Referral,10000.0,True,,1000000.0,14.0,94,Chicago,CA,U.S.,,"{""type"": ""A"", ""value"": 100}",,,0.5,
+Acme Corp,contact@acme.com,2020-01-01,Trade Show,50000.0,True,,1000000.0,19.0,365,,IL,United States,,,,,0.25,0.7111
+Globex,help@globex.com,2023-12-22,Referral,1000.0,True,,1000000.0,,370,,,us,2025-06-29,"{""type"": ""B"", ""value"": 200}",North America,,0.1,0.3609
+Globex,help@globex.com,,Referral,50000.0,True,,5000000.0,11.0,124,nyc,CA,us,,,North America,Notes_Flag,0.1,
+Wonka,,2023-11-02,Partner,10000.0,False,001A000001,1000000.0,37.0,5,San Francisco,Illinois,United States,2025-03-14,"{""type"": ""B"", ""value"": 200}",North America,,0.25,0.3706
+Globex,help@globex.com,2022-12-24,Email Campaign,10000.0,False,,100000.0,40.0,418,chicago,N.Y.,United States,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.75,0.9472
+Globex,help@globex.com,2022-12-01,Email Campaign,,True,,1000000.0,,182,San Francisco,California,,2024-05-05,,,,0.1,
+Globex,help@globex.com,2024-09-19,Email Campaign,1000.0,False,001A000001,1000000.0,9.0,413,nyc,,United States,,,North America,Notes_Flag,1.0,0.2619
+Umbrella,,2020-01-01,Social Media,50000.0,False,001B000002,2500000.0,32.0,207,,CA,USA,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,,0.75,0.8897
+Acme Corp,contact@acme.com,2020-01-01,Trade Show,25000.0,False,001A000001,1000000.0,19.0,329,chicago,IL,us,2024-05-05,,,,0.1,
+Umbrella,,2020-01-01,Partner,50000.0,True,,1000000.0,,363,nyc,NY,,2025-06-10,"{""type"": ""A"", ""value"": 100}",North America,,0.1,0.6427
+Umbrella,,2022-12-01,Trade Show,,False,001C000003,1000000.0,50.0,315,New York,NY,U.S.,,,North America,Notes_Flag,0.75,0.4945
+Globex,help@globex.com,2023-04-26,Web,10000.0,False,,1000000.0,3.0,374,,Illinois,United States,,,North America,,0.25,
+Globex,help@globex.com,,Web,50000.0,True,,100000.0,47.0,237,Chicago,IL,United States,,"{""type"": ""A"", ""value"": 100}",North America,,1.0,0.3345
+Umbrella,,2022-12-01,Social Media,,True,,1000000.0,,459,Chicago,NY,United States,2025-04-15,"{""type"": ""A"", ""value"": 100}",,,0.5,0.2894
+Soylent,,2025-04-22,Social Media,10000.0,False,,1000000.0,22.0,313,Chicago,IL,us,,"{""type"": ""B"", ""value"": 200}",North America,,0.25,
+Umbrella,,,Email Campaign,10000.0,True,001B000002,100000.0,28.0,232,chicago,,us,2025-07-21,"{""type"": ""A"", ""value"": 100}",North America,,,0.3783
+Soylent,,2024-12-04,,50000.0,False,001B000002,1000000.0,32.0,419,,,,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.5,0.1491
+Acme Corp,contact@acme.com,2022-12-01,Phone Inquiry,50000.0,True,,100000.0,,48,New York,CA,United States,2025-04-06,"{""type"": ""A"", ""value"": 100}",North America,,0.1,
+Soylent,,2020-01-01,Trade Show,50000.0,False,001A000001,999999.0,6.0,177,Chicago,CA,United States,2024-05-05,,North America,Notes_Flag,1.0,0.6323
+Acme Corp,contact@acme.com,,Referral,,False,,5000000.0,19.0,265,nyc,IL,,2024-05-05,,North America,,1.0,0.624
+Umbrella,,2022-12-01,Web,50000.0,False,001B000002,1000000.0,5.0,230,,CA,U.S.,,,North America,,0.25,
+,,2025-04-20,,1000.0,True,,1000000.0,,9,Chicago,,United States,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.75,0.9381
+Acme Corp,contact@acme.com,2025-07-29,Email Campaign,25000.0,False,001B000002,1000000.0,11.0,125,Chicago,NY,us,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,0.25,0.3586
+Umbrella,,2022-12-01,Referral,0.0,True,001C000003,1000000.0,12.0,180,,N.Y.,USA,,"{""type"": ""B"", ""value"": 200}",North America,,0.1,
+Soylent,,,Email Campaign,50000.0,True,,1000000.0,19.0,92,,Illinois,United States,,,,,0.5,0.2182
+Acme Corp,contact@acme.com,2020-01-01,Social Media,1000.0,False,,100000.0,,377,chicago,,U.S.,,,North America,,0.75,0.6383
+Globex,help@globex.com,,Email Campaign,1000.0,,001B000002,100000.0,35.0,228,nyc,California,U.S.,2025-01-16,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,,
+Globex,help@globex.com,2024-04-30,Email Campaign,10000.0,False,001B000002,999999.0,4.0,217,nyc,CA,us,2024-10-20,,North America,,0.75,0.5502
+Globex,help@globex.com,2022-12-01,,50000.0,False,,1000000.0,20.0,341,New York,Illinois,us,2024-11-19,,,Notes_Flag,0.1,0.6257
+Initech,,2025-07-30,Partner,1000.0,True,,1000000.0,,497,,,United States,,,North America,,1.0,
+Globex,help@globex.com,,Email Campaign,,True,,1000000.0,42.0,462,nyc,N.Y.,,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.5,0.161
+Umbrella,,2020-01-01,Email Campaign,10000.0,True,001B000002,1000000.0,43.0,287,,N.Y.,United States,2024-10-17,,North America,Notes_Flag,0.25,0.7779
+Initech,,,Referral,50000.0,True,001C000003,1000000.0,37.0,79,New York,Illinois,,2025-02-08,,,,0.1,
+Umbrella,,,Referral,1000.0,False,,1000000.0,,155,New York,Illinois,U.S.,,,,,,0.752
+Soylent,,,Email Campaign,25000.0,False,001A000001,1000000.0,36.0,22,Chicago,NY,United States,,,,,0.5,0.8664
+Globex,help@globex.com,2022-12-01,Social Media,,False,,1000000.0,10.0,138,Chicago,CA,United States,2024-05-05,,North America,Notes_Flag,1.0,
+Umbrella,,2020-01-01,Web,25000.0,True,001C000003,1000000.0,26.0,257,San Francisco,N.Y.,United States,,,North America,Notes_Flag,0.25,0.4898
+Wonka,,2022-12-01,Social Media,25000.0,True,,2500000.0,,217,,N.Y.,U.S.,2024-05-05,,,Notes_Flag,,0.012
+Globex,help@globex.com,2020-01-01,Web,1000.0,True,001B000002,5000000.0,25.0,201,San Francisco,CA,,2024-12-22,,North America,,0.25,
+Umbrella,,2023-03-19,Social Media,,False,,1000000.0,23.0,58,San Francisco,IL,USA,,,North America,,0.1,0.9601
+Umbrella,,2022-11-07,Referral,50000.0,True,001C000003,2500000.0,38.0,344,,Illinois,U.S.,,,,Notes_Flag,,0.5211
+Globex,help@globex.com,,Referral,0.0,False,,1000000.0,,277,,California,,,"{""type"": ""B"", ""value"": 200}",North America,,0.75,
+Globex,help@globex.com,2025-03-31,Referral,50000.0,False,,100000.0,32.0,87,chicago,N.Y.,us,,,,,0.75,0.7135
+Umbrella,,,Trade Show,50000.0,True,001C000003,2500000.0,36.0,465,,IL,U.S.,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,1.0,0.0349
+Umbrella,,,Email Campaign,1000.0,True,001C000003,1000000.0,31.0,410,chicago,IL,USA,,"{""type"": ""A"", ""value"": 100}",North America,,0.5,
+Umbrella,,,Social Media,1000.0,True,001A000001,2500000.0,,15,,NY,us,,,,,1.0,0.3309
+Globex,help@globex.com,2024-06-24,Phone Inquiry,50000.0,False,001A000001,100000.0,15.0,284,,California,United States,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.1,0.6784
+Globex,help@globex.com,2022-12-01,Trade Show,50000.0,False,001C000003,1000000.0,50.0,276,chicago,,USA,2025-02-28,,,Notes_Flag,0.5,
+Globex,help@globex.com,2025-06-29,Social Media,,False,001C000003,100000.0,16.0,419,San Francisco,NY,USA,,,North America,,,0.9259
+Wonka,,2022-12-01,Web,10000.0,False,001B000002,100000.0,,236,,N.Y.,,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.25,0.2001
+Umbrella,,,Trade Show,10000.0,False,,1000000.0,2.0,164,nyc,N.Y.,U.S.,2025-03-22,,North America,Notes_Flag,0.1,
+Soylent,,2025-02-17,Referral,50000.0,True,,100000.0,31.0,175,New York,Illinois,us,,,,,1.0,0.5074
+Globex,help@globex.com,2024-06-12,Phone Inquiry,50000.0,True,001A000001,1000000.0,40.0,440,,California,U.S.,2025-05-30,,North America,Notes_Flag,0.1,0.8189
+Acme Corp,contact@acme.com,2024-08-30,,10000.0,True,001A000001,2500000.0,,397,San Francisco,CA,,,"{""type"": ""A"", ""value"": 100}",North America,,,
+Soylent,,2024-09-10,Email Campaign,,False,001B000002,5000000.0,24.0,318,Chicago,California,us,,,North America,,,0.8831
+Soylent,,2025-05-18,Social Media,,False,001B000002,1000000.0,23.0,357,,Illinois,us,,"{""type"": ""A"", ""value"": 100}",North America,,1.0,0.3915
+Acme Corp,contact@acme.com,,Partner,,True,001C000003,1000000.0,30.0,81,Chicago,IL,United States,,,North America,,0.5,
+Umbrella,,2022-12-01,Referral,1000.0,True,,,,281,,NY,,,,,,0.5,0.2574
+Acme Corp,contact@acme.com,,Referral,10000.0,False,001A000001,1000000.0,35.0,479,San Francisco,CA,U.S.,,,North America,,0.1,0.4549
+Soylent,,2025-06-07,Referral,10000.0,True,001A000001,1000000.0,20.0,60,San Francisco,CA,United States,2024-08-20,,,Notes_Flag,1.0,
+Soylent,,,Social Media,10000.0,True,001B000002,100000.0,12.0,241,nyc,Illinois,us,,,,,0.25,0.9347
+Soylent,,2025-06-22,Trade Show,,True,,5000000.0,,34,nyc,California,U.S.,2024-11-25,,North America,Notes_Flag,0.5,0.8419
+Soylent,,2022-12-01,Phone Inquiry,25000.0,False,001A000001,,7.0,96,Chicago,Illinois,U.S.,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,,0.1,
+Soylent,,2023-03-20,Referral,0.0,False,,1000000.0,35.0,192,,Illinois,USA,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,,0.9085
+Soylent,,2023-07-12,Email Campaign,50000.0,True,,1000000.0,8.0,326,,IL,United States,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.25,0.6318
+Initech,,2022-12-01,Trade Show,25000.0,True,001C000003,1000000.0,,28,New York,Illinois,USA,,"{""type"": ""B"", ""value"": 200}",North America,,0.5,
+Globex,help@globex.com,2023-10-22,Email Campaign,10000.0,False,,1000000.0,7.0,90,New York,CA,USA,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,0.5,0.7518
+Soylent,,,Social Media,50000.0,False,001A000001,999999.0,15.0,473,,California,U.S.,2024-10-21,"{""type"": ""B"", ""value"": 200}",,,0.25,0.0513
+Umbrella,,,Email Campaign,10000.0,False,001A000001,1000000.0,15.0,206,,IL,United States,,,,,0.75,
+Umbrella,,2023-09-16,Social Media,1000.0,False,,1000000.0,,346,San Francisco,IL,,,"{""type"": ""B"", ""value"": 200}",North America,,0.75,0.2573
+Soylent,,2025-05-16,Referral,1000.0,True,001C000003,5000000.0,5.0,213,nyc,CA,United States,,,,,0.1,0.4692
+Umbrella,,2022-12-01,Trade Show,10000.0,False,001C000003,1000000.0,9.0,218,nyc,IL,United States,2024-05-05,,North America,,0.5,
+Umbrella,,2023-02-17,Social Media,10000.0,False,,2500000.0,28.0,171,Chicago,IL,United States,,"{""type"": ""B"", ""value"": 200}",,,0.1,0.8378
+Acme Corp,contact@acme.com,2024-12-04,Trade Show,25000.0,False,001A000001,1000000.0,,146,New York,NY,U.S.,,,North America,,,0.3722
+Globex,help@globex.com,,,0.0,True,,1000000.0,40.0,109,San Francisco,NY,United States,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.1,
+Umbrella,,2025-01-04,Trade Show,,True,001A000001,2500000.0,15.0,408,Chicago,California,United States,2025-01-03,,North America,Notes_Flag,1.0,0.6522
+Umbrella,,2024-08-24,Phone Inquiry,0.0,True,,100000.0,35.0,323,chicago,CA,,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,,0.8325
+Soylent,,,Social Media,1000.0,False,,1000000.0,,457,San Francisco,California,,,"{""type"": ""A"", ""value"": 100}",North America,,0.75,
+Umbrella,,2025-04-11,Referral,50000.0,True,,999999.0,6.0,75,nyc,IL,USA,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,,,0.7277
+Umbrella,,2025-05-19,,50000.0,True,001B000002,2500000.0,42.0,157,New York,,U.S.,,,North America,,0.75,0.9974
+Umbrella,,2023-02-04,Social Media,25000.0,False,,2500000.0,29.0,471,,CA,,2025-03-06,"{""type"": ""A"", ""value"": 100}",North America,,0.75,
+Globex,help@globex.com,2025-06-20,Referral,1000.0,True,001C000003,2500000.0,,328,,,,,,North America,,0.1,0.5255
+Acme Corp,contact@acme.com,2025-04-22,Email Campaign,25000.0,True,001A000001,5000000.0,14.0,7,Chicago,CA,USA,2024-05-05,,North America,Notes_Flag,0.1,0.2951
+Wonka,,2024-04-04,Email Campaign,1000.0,True,001C000003,1000000.0,15.0,290,chicago,California,U.S.,,"{""type"": ""B"", ""value"": 200}",,,0.1,
+Umbrella,,2024-07-05,Partner,0.0,False,001B000002,1000000.0,28.0,195,Chicago,NY,us,,,,Notes_Flag,,0.8491
+Initech,,,Social Media,10000.0,True,,5000000.0,,63,chicago,Illinois,USA,,,North America,Notes_Flag,0.75,0.4832
+Globex,help@globex.com,2023-01-13,Social Media,10000.0,True,001A000001,1000000.0,0.0,270,,Illinois,United States,,,,Notes_Flag,,
+Globex,help@globex.com,2020-01-01,Social Media,1000.0,False,001C000003,2500000.0,39.0,175,nyc,California,,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,1.0,0.9011
+Globex,help@globex.com,,,10000.0,True,,2500000.0,4.0,14,chicago,CA,,2024-11-01,,,,,0.266
+Umbrella,,2025-03-19,Trade Show,50000.0,True,001A000001,1000000.0,,5,,N.Y.,U.S.,2024-08-25,,North America,,0.75,
+Soylent,,2024-04-30,Referral,50000.0,True,001A000001,1000000.0,7.0,80,Chicago,Illinois,United States,2024-11-01,"{""type"": ""B"", ""value"": 200}",North America,,,0.0223
+Acme Corp,contact@acme.com,2022-12-01,Social Media,25000.0,False,001A000001,2500000.0,13.0,159,chicago,N.Y.,United States,,,,,0.25,0.4204
+Globex,help@globex.com,2020-01-01,Web,1000.0,True,001A000001,1000000.0,32.0,128,Chicago,California,United States,2024-05-05,,North America,,1.0,
+Globex,help@globex.com,2020-01-01,Web,0.0,False,001A000001,100000.0,,240,chicago,,USA,2025-04-03,,,Notes_Flag,0.1,0.563
+Soylent,,2023-12-04,Referral,1000.0,False,,1000000.0,45.0,207,Chicago,,United States,2024-11-08,,North America,,1.0,0.3309
+Umbrella,,2024-08-08,Email Campaign,1000.0,True,001B000002,2500000.0,2.0,205,,California,us,,,North America,Notes_Flag,,
+Umbrella,,2023-11-28,Social Media,50000.0,True,,,44.0,83,New York,Illinois,USA,2025-05-28,"{""type"": ""B"", ""value"": 200}",,,0.75,0.1651
+Globex,help@globex.com,2025-03-07,Referral,1000.0,True,,5000000.0,,497,New York,IL,U.S.,,,North America,,0.25,0.334
+Soylent,,,Referral,,False,001C000003,1000000.0,2.0,72,nyc,IL,us,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.1,
+Soylent,,2022-12-01,Email Campaign,10000.0,True,,100000.0,28.0,203,,Illinois,U.S.,2025-06-22,,North America,,0.75,0.589
+Umbrella,,2024-08-08,Web,1000.0,False,001C000003,1000000.0,2.0,444,chicago,Illinois,us,2024-09-30,,North America,,0.5,0.4418
+Acme Corp,contact@acme.com,,Email Campaign,1000.0,,,1000000.0,,426,San Francisco,NY,us,2024-05-05,,North America,,1.0,
+Umbrella,,,Email Campaign,50000.0,True,001C000003,5000000.0,3.0,346,Chicago,Illinois,U.S.,2025-05-13,,,,0.75,0.6087
+Globex,help@globex.com,,Referral,0.0,True,001A000001,1000000.0,20.0,285,,California,us,2024-05-05,,North America,,1.0,0.3035
+Globex,help@globex.com,,Email Campaign,,True,001B000002,2500000.0,4.0,44,San Francisco,California,United States,,,North America,Notes_Flag,,
+Acme Corp,contact@acme.com,,Email Campaign,1000.0,True,,2500000.0,,35,,CA,us,2025-06-23,"{""type"": ""A"", ""value"": 100}",North America,,0.25,0.6777
+Globex,help@globex.com,,Referral,10000.0,False,001B000002,1000000.0,12.0,361,New York,NY,United States,2024-11-03,"{""type"": ""A"", ""value"": 100}",,,0.25,0.1855
+Acme Corp,contact@acme.com,2022-12-01,Referral,50000.0,False,001C000003,2500000.0,15.0,62,,Illinois,USA,,,North America,Notes_Flag,0.75,
+Soylent,,2022-12-01,Trade Show,50000.0,True,,1000000.0,30.0,222,chicago,CA,United States,,,North America,,0.5,0.1664
+Acme Corp,contact@acme.com,2023-08-04,Trade Show,1000.0,True,001C000003,1000000.0,,466,,NY,USA,2024-05-05,,North America,Notes_Flag,,0.1518
+Umbrella,,2023-02-05,Social Media,1000.0,True,001A000001,2500000.0,14.0,471,Chicago,CA,United States,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,,
+Globex,help@globex.com,,Partner,50000.0,False,001A000001,1000000.0,4.0,389,,IL,USA,,,North America,Notes_Flag,1.0,0.6387
+Soylent,,,Social Media,50000.0,True,001A000001,1000000.0,33.0,379,,California,us,2024-05-05,,North America,Notes_Flag,0.25,0.4861
+Acme Corp,contact@acme.com,2025-06-27,Social Media,,False,001C000003,1000000.0,,183,Chicago,NY,USA,,"{""type"": ""B"", ""value"": 200}",North America,,0.5,
+Globex,help@globex.com,,Email Campaign,0.0,True,001B000002,100000.0,37.0,237,chicago,NY,USA,,,North America,Notes_Flag,0.1,0.5123
+Wonka,,2025-07-09,Trade Show,50000.0,False,,1000000.0,2.0,293,nyc,NY,,,,North America,,0.5,0.2033
+Umbrella,,2025-07-15,Referral,50000.0,False,001A000001,2500000.0,27.0,449,chicago,CA,us,,,North America,Notes_Flag,0.75,
+Globex,help@globex.com,2025-01-13,Trade Show,,False,001C000003,,,383,nyc,NY,USA,,"{""type"": ""A"", ""value"": 100}",North America,,0.5,0.6234
+Umbrella,,2025-01-03,Referral,50000.0,False,,1000000.0,35.0,73,,NY,United States,2024-11-10,,North America,,0.5,0.7167
+Acme Corp,contact@acme.com,2024-12-31,Trade Show,1000.0,False,,1000000.0,39.0,112,chicago,NY,us,2024-05-05,,,,,
+Soylent,,2024-10-31,Trade Show,25000.0,True,001A000001,2500000.0,4.0,491,Chicago,CA,USA,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,,0.5,0.1651
+Umbrella,,2022-12-01,Referral,10000.0,True,001A000001,1000000.0,,272,Chicago,IL,United States,,,,Notes_Flag,0.25,0.9223
+Globex,help@globex.com,2024-08-01,Trade Show,10000.0,True,,,50.0,61,New York,,,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,,
+Acme Corp,contact@acme.com,2022-12-01,Trade Show,1000.0,True,,1000000.0,14.0,228,chicago,,,2025-01-01,,North America,,1.0,0.3001
+Acme Corp,contact@acme.com,,Email Campaign,50000.0,False,,2500000.0,31.0,83,,,United States,2025-06-15,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.1,0.0188
+Acme Corp,contact@acme.com,,Trade Show,50000.0,False,,1000000.0,,342,,,us,2024-05-05,,North America,,,
+Umbrella,,2022-12-01,Referral,50000.0,False,001B000002,1000000.0,41.0,86,,NY,United States,,,,,1.0,0.2685
+Globex,help@globex.com,,Email Campaign,1000.0,False,,5000000.0,36.0,247,,CA,,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,,0.75,0.6463
+Acme Corp,contact@acme.com,2022-12-01,Referral,50000.0,False,001C000003,,22.0,443,San Francisco,California,USA,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,,
+Acme Corp,contact@acme.com,2023-12-10,Email Campaign,50000.0,True,001A000001,5000000.0,,280,Chicago,Illinois,United States,,"{""type"": ""B"", ""value"": 200}",North America,,1.0,0.313
+Globex,help@globex.com,,Web,50000.0,False,,1000000.0,29.0,195,San Francisco,IL,United States,2025-01-08,,North America,Notes_Flag,0.5,0.0575
+Globex,help@globex.com,2024-04-02,Referral,10000.0,False,001B000002,5000000.0,25.0,93,,NY,,2024-05-05,,,Notes_Flag,0.5,
+Globex,help@globex.com,2023-02-18,Phone Inquiry,10000.0,False,,2500000.0,8.0,112,nyc,California,United States,2024-05-05,,North America,Notes_Flag,0.25,0.2409
+Acme Corp,contact@acme.com,2024-04-08,Referral,,False,,1000000.0,,116,New York,Illinois,USA,,,North America,,0.75,0.7077
+Initech,,2022-12-29,Referral,0.0,True,001A000001,1000000.0,29.0,433,,Illinois,,2025-01-01,"{""type"": ""A"", ""value"": 100}",,,0.25,
+Acme Corp,contact@acme.com,2020-01-01,Referral,25000.0,False,001B000002,100000.0,16.0,198,,N.Y.,USA,,,North America,Notes_Flag,0.1,0.1131
+Soylent,,2020-01-01,Trade Show,1000.0,False,001A000001,1000000.0,42.0,12,,N.Y.,us,,"{""type"": ""A"", ""value"": 100}",,,0.1,0.7146
+Umbrella,,2022-12-01,Trade Show,50000.0,False,001B000002,5000000.0,,133,Chicago,California,,2024-10-14,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.25,
+Umbrella,,,Email Campaign,10000.0,False,001B000002,2500000.0,44.0,155,,NY,us,,,North America,Notes_Flag,1.0,0.2729
+Umbrella,,,Phone Inquiry,25000.0,False,001B000002,1000000.0,49.0,293,nyc,IL,us,2024-05-05,,,,1.0,0.7256
+Acme Corp,contact@acme.com,2020-01-01,Trade Show,50000.0,False,,1000000.0,18.0,467,New York,N.Y.,us,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,1.0,
+Umbrella,,2022-12-01,Email Campaign,50000.0,True,,100000.0,,340,,IL,us,2025-04-12,,North America,Notes_Flag,0.25,0.2743
+Globex,help@globex.com,,Email Campaign,,False,,100000.0,47.0,371,,N.Y.,us,2025-06-13,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.75,0.2597
+Soylent,,,Social Media,50000.0,True,,100000.0,19.0,184,,,United States,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,1.0,
+Soylent,,2022-12-01,Email Campaign,10000.0,False,001A000001,1000000.0,33.0,490,,California,USA,,,North America,,0.1,0.6532
+Globex,help@globex.com,2024-09-15,Social Media,0.0,True,,,,229,Chicago,Illinois,,,,North America,,0.5,0.554
+Globex,help@globex.com,2024-11-02,Email Campaign,10000.0,False,,100000.0,50.0,197,chicago,Illinois,,2024-05-05,,,,0.1,
+Umbrella,,,Trade Show,50000.0,True,001C000003,2500000.0,3.0,287,,CA,United States,2024-05-05,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,0.25,0.0494
+Globex,help@globex.com,,,1000.0,True,,100000.0,44.0,335,,IL,,,"{""type"": ""B"", ""value"": 200}",North America,,0.5,0.9705
+Acme Corp,contact@acme.com,,Trade Show,50000.0,False,,100000.0,,42,New York,Illinois,us,,,North America,,0.5,
+Globex,help@globex.com,2024-08-20,Partner,25000.0,False,001C000003,5000000.0,41.0,179,,,USA,,,,Notes_Flag,0.75,0.5021
+Wonka,,2020-01-01,Email Campaign,50000.0,False,001A000001,1000000.0,45.0,499,,CA,USA,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,0.75,0.0807
+Globex,help@globex.com,2024-03-12,,50000.0,False,,1000000.0,16.0,465,nyc,N.Y.,United States,2024-05-05,,North America,,0.75,
+Globex,help@globex.com,,Referral,10000.0,True,,1000000.0,,264,nyc,California,us,,,North America,Notes_Flag,0.1,0.2099
+Umbrella,,,Social Media,1000.0,True,,100000.0,35.0,422,Chicago,N.Y.,,2024-05-05,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,,0.5013
+Acme Corp,contact@acme.com,2022-12-01,Partner,50000.0,True,001A000001,1000000.0,4.0,192,chicago,Illinois,United States,,"{""type"": ""B"", ""value"": 200}",North America,,0.25,
+Soylent,,2023-12-07,Referral,1000.0,True,,2500000.0,24.0,318,San Francisco,CA,us,2025-05-21,"{""type"": ""B"", ""value"": 200}",North America,,1.0,0.2463
+Umbrella,,,Social Media,50000.0,True,,1000000.0,,363,San Francisco,Illinois,U.S.,,,,Notes_Flag,0.25,0.9232
+Globex,help@globex.com,2022-12-01,Trade Show,50000.0,True,,1000000.0,20.0,359,Chicago,CA,,,,North America,Notes_Flag,0.25,
+Acme Corp,contact@acme.com,2022-12-01,Email Campaign,10000.0,True,,1000000.0,34.0,69,Chicago,NY,U.S.,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,0.25,0.5614
+Umbrella,,,Email Campaign,50000.0,False,001C000003,1000000.0,8.0,400,chicago,N.Y.,United States,,"{""type"": ""A"", ""value"": 100}",,,0.75,0.7134
+Acme Corp,contact@acme.com,2025-05-19,Email Campaign,,True,,2500000.0,,73,Chicago,California,USA,,,,Notes_Flag,0.1,
+Umbrella,,2025-01-08,,50000.0,False,001C000003,999999.0,50.0,33,,IL,USA,,,North America,,,0.5642
+Acme Corp,contact@acme.com,2022-12-01,,50000.0,True,001A000001,1000000.0,7.0,305,San Francisco,N.Y.,U.S.,,,,Notes_Flag,0.5,0.2805
+Soylent,,2022-12-01,Social Media,50000.0,True,001A000001,1000000.0,4.0,70,Chicago,NY,,,,North America,,1.0,
+Globex,help@globex.com,2025-01-05,Phone Inquiry,50000.0,False,001C000003,,,120,nyc,Illinois,us,,"{""type"": ""A"", ""value"": 100}",North America,,0.75,0.3581
+Initech,,2025-07-02,Email Campaign,,True,,2500000.0,21.0,24,New York,,United States,2025-02-20,,,,0.1,0.421
+Soylent,,,,50000.0,True,,1000000.0,20.0,158,Chicago,,USA,,,North America,,0.75,
+Umbrella,,,Phone Inquiry,50000.0,True,,2500000.0,1.0,429,San Francisco,,us,2025-02-05,,,Notes_Flag,0.5,0.5712
+Umbrella,,,Email Campaign,25000.0,True,001B000002,1000000.0,,270,chicago,NY,,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.75,0.021
+Umbrella,,,Referral,,False,,1000000.0,43.0,311,chicago,NY,U.S.,2024-11-21,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,,
+Globex,help@globex.com,2022-12-01,Trade Show,,True,,1000000.0,40.0,257,chicago,IL,us,,,North America,,0.75,0.6385
+Acme Corp,contact@acme.com,,Partner,1000.0,True,001A000001,2500000.0,3.0,65,nyc,CA,U.S.,,,North America,,1.0,0.1696
+Umbrella,,,Trade Show,1000.0,True,,5000000.0,,194,nyc,,,2025-07-18,"{""type"": ""A"", ""value"": 100}",North America,,0.5,
+Soylent,,2020-01-01,Trade Show,25000.0,False,,1000000.0,36.0,129,,CA,United States,2025-01-09,,North America,,0.1,0.2342
+Acme Corp,contact@acme.com,,Trade Show,50000.0,False,001B000002,2500000.0,14.0,16,New York,Illinois,United States,2025-03-23,,,,0.75,0.2362
+Globex,help@globex.com,,Social Media,1000.0,False,001C000003,1000000.0,39.0,128,New York,,us,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,0.5,
+Globex,help@globex.com,2020-01-01,Social Media,50000.0,False,001C000003,1000000.0,,209,,N.Y.,U.S.,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,0.25,0.9419
+Wonka,,,Trade Show,1000.0,False,,1000000.0,42.0,239,San Francisco,NY,us,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,0.25,0.6486
+Umbrella,,2022-12-01,Phone Inquiry,25000.0,False,,2500000.0,27.0,112,Chicago,IL,USA,,,North America,,1.0,
+Globex,help@globex.com,,Phone Inquiry,,True,,1000000.0,42.0,103,New York,IL,United States,,,North America,Notes_Flag,0.25,0.4177
+Soylent,,2022-12-01,,1000.0,False,001A000001,2500000.0,,450,New York,NY,,,"{""type"": ""B"", ""value"": 200}",,,0.5,0.0429
+Umbrella,,,Email Campaign,1000.0,True,,5000000.0,1.0,391,New York,IL,United States,,,North America,,0.5,
+Wonka,,2025-07-19,Social Media,10000.0,False,,1000000.0,32.0,18,Chicago,NY,United States,2024-05-05,,North America,,0.5,0.5843
+Umbrella,,,Trade Show,0.0,False,,999999.0,24.0,143,New York,IL,United States,2025-02-28,,North America,,0.25,0.3182
+Soylent,,2023-12-22,Social Media,10000.0,False,001B000002,1000000.0,,441,nyc,California,U.S.,2024-05-05,,,,0.75,
+Umbrella,,2024-05-12,Email Campaign,10000.0,True,001C000003,1000000.0,28.0,123,chicago,NY,us,,,,,0.1,0.2165
+Umbrella,,2020-01-01,Email Campaign,1000.0,False,001A000001,1000000.0,15.0,476,,California,,,"{""type"": ""A"", ""value"": 100}",,,0.75,0.1185
+Globex,help@globex.com,2022-12-01,Email Campaign,1000.0,True,,2500000.0,13.0,311,,Illinois,,,,North America,,,
+Soylent,,2022-12-19,,1000.0,False,,1000000.0,,167,,N.Y.,us,2024-05-05,,North America,,,0.1697
+Acme Corp,contact@acme.com,2022-12-01,Trade Show,50000.0,True,001C000003,1000000.0,38.0,60,,,U.S.,2025-06-30,,,,0.75,0.5804
+Globex,help@globex.com,,,,False,,999999.0,28.0,130,nyc,Illinois,us,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,,0.75,
+Soylent,,2022-12-01,Email Campaign,10000.0,False,001B000002,1000000.0,35.0,123,,CA,,,,North America,,0.75,0.4672
+Umbrella,,2022-12-01,Phone Inquiry,,True,,5000000.0,,295,,NY,us,,"{""type"": ""A"", ""value"": 100}",,,0.5,0.0326
+Acme Corp,contact@acme.com,,Trade Show,1000.0,False,001A000001,1000000.0,44.0,202,chicago,Illinois,United States,,,,,0.75,
+Globex,help@globex.com,2022-12-01,Web,50000.0,False,,1000000.0,35.0,236,chicago,Illinois,,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,,1.0,0.4353
+Globex,help@globex.com,2025-02-23,Email Campaign,,False,,5000000.0,40.0,179,chicago,Illinois,USA,2025-03-13,,,Notes_Flag,0.5,0.3818
+Globex,help@globex.com,2025-02-14,Social Media,1000.0,False,001A000001,1000000.0,,499,chicago,Illinois,United States,,"{""type"": ""B"", ""value"": 200}",North America,,0.1,
+Soylent,,2022-12-01,Social Media,25000.0,False,,2500000.0,20.0,469,San Francisco,Illinois,,,"{""type"": ""A"", ""value"": 100}",North America,,0.5,0.206
+Soylent,,2022-12-01,Referral,,True,,5000000.0,31.0,48,chicago,,USA,2024-05-05,,North America,,,0.3444
+Globex,help@globex.com,,Email Campaign,50000.0,True,001A000001,1000000.0,7.0,14,Chicago,Illinois,us,,,,,1.0,
+Umbrella,,2022-12-01,Social Media,10000.0,False,001C000003,1000000.0,,32,nyc,California,USA,,"{""type"": ""B"", ""value"": 200}",North America,,0.25,0.4829
+Umbrella,,2023-03-12,Social Media,50000.0,False,001A000001,5000000.0,16.0,333,,CA,,,,North America,,,0.6902
+Soylent,,,Trade Show,10000.0,False,001B000002,2500000.0,7.0,192,nyc,CA,U.S.,,,North America,Notes_Flag,,
+Acme Corp,contact@acme.com,2022-12-01,Referral,25000.0,True,001C000003,5000000.0,39.0,421,,IL,,,,,Notes_Flag,,0.3413
+Soylent,,2023-06-11,,50000.0,False,,2500000.0,,72,New York,IL,U.S.,2025-07-13,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,1.0,0.5794
+Umbrella,,2020-01-01,Referral,1000.0,True,001C000003,1000000.0,36.0,145,,Illinois,,,"{""type"": ""B"", ""value"": 200}",,,0.5,
+Umbrella,,2022-12-01,Email Campaign,50000.0,True,,1000000.0,1.0,42,,CA,USA,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,,1.0,0.7016
+Soylent,,2025-05-17,Social Media,,True,001C000003,1000000.0,8.0,250,San Francisco,,USA,2024-09-28,,North America,Notes_Flag,0.25,0.405
+Acme Corp,contact@acme.com,2022-12-01,Email Campaign,10000.0,True,,999999.0,,319,chicago,NY,U.S.,2024-05-05,,,,0.25,
+Globex,help@globex.com,2024-04-28,Trade Show,1000.0,True,,1000000.0,11.0,417,nyc,IL,,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,0.25,0.2445
+Umbrella,,2020-01-01,Trade Show,1000.0,True,001B000002,999999.0,44.0,349,nyc,CA,,,,,Notes_Flag,0.1,0.0725
+Acme Corp,contact@acme.com,,Trade Show,50000.0,False,001B000002,1000000.0,6.0,289,,Illinois,USA,2024-05-05,,North America,,0.25,
+Globex,help@globex.com,2020-01-01,Social Media,10000.0,True,,1000000.0,,146,chicago,NY,,2024-05-05,,,,1.0,0.3868
+,,2022-12-01,Email Campaign,1000.0,False,,1000000.0,50.0,116,San Francisco,Illinois,United States,,,,,0.25,0.4311
+Acme Corp,contact@acme.com,,Social Media,10000.0,True,001C000003,1000000.0,8.0,410,,California,United States,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,,
+Umbrella,,2023-04-19,Email Campaign,10000.0,True,001A000001,1000000.0,48.0,92,,NY,,2024-05-05,,,,0.5,0.0897
+Globex,help@globex.com,2020-01-01,Referral,50000.0,False,001B000002,1000000.0,,100,New York,CA,United States,2025-06-15,,,Notes_Flag,0.75,0.9271
+,,2022-12-19,Referral,10000.0,False,001B000002,1000000.0,22.0,225,New York,IL,United States,2024-08-22,"{""type"": ""B"", ""value"": 200}",North America,,0.5,
+Globex,help@globex.com,2020-01-01,Referral,1000.0,True,001C000003,1000000.0,13.0,454,New York,Illinois,United States,,,,,,0.7772
+Umbrella,,2024-09-05,Social Media,0.0,False,,2500000.0,37.0,12,New York,Illinois,,2024-12-18,,North America,,,0.8007
+Soylent,,2022-12-01,Email Campaign,10000.0,False,001A000001,1000000.0,,196,nyc,California,us,2025-07-19,"{""type"": ""A"", ""value"": 100}",North America,,0.5,
+Acme Corp,contact@acme.com,2024-10-16,Social Media,1000.0,True,,999999.0,6.0,488,chicago,CA,USA,2024-05-05,,,,0.25,0.0401
+Soylent,,2023-07-11,Referral,10000.0,False,001A000001,1000000.0,13.0,63,New York,N.Y.,,2024-05-05,,North America,,0.75,0.9131
+Initech,,2022-12-01,Trade Show,10000.0,False,001B000002,2500000.0,20.0,251,,NY,,,,North America,Notes_Flag,0.75,
+Acme Corp,contact@acme.com,2022-12-22,Referral,10000.0,False,001A000001,1000000.0,,30,San Francisco,Illinois,USA,2024-10-02,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,,0.2199
+Acme Corp,contact@acme.com,2025-03-23,Trade Show,10000.0,True,,999999.0,6.0,75,,CA,USA,,,North America,Notes_Flag,0.1,0.7093
+Soylent,,2023-11-07,Email Campaign,1000.0,True,001B000002,1000000.0,13.0,54,Chicago,NY,United States,2024-11-13,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,0.75,
+Acme Corp,contact@acme.com,2024-03-02,Trade Show,1000.0,True,,2500000.0,3.0,43,nyc,California,U.S.,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,0.25,0.5522
+Umbrella,,2022-12-01,Trade Show,10000.0,True,001C000003,1000000.0,,426,chicago,CA,us,,,North America,,,0.1492
+Umbrella,,2024-10-01,Email Campaign,50000.0,True,,100000.0,21.0,241,Chicago,CA,U.S.,2025-07-20,,,Notes_Flag,0.5,
+Globex,help@globex.com,,Trade Show,10000.0,True,001B000002,1000000.0,39.0,437,San Francisco,N.Y.,United States,2024-12-08,,North America,Notes_Flag,,0.5335
+Acme Corp,contact@acme.com,2024-06-20,Social Media,1000.0,False,001B000002,5000000.0,29.0,237,Chicago,Illinois,,2024-10-20,,North America,,0.1,0.2479
+Initech,,,Email Campaign,1000.0,True,,1000000.0,,355,,Illinois,us,,,,Notes_Flag,0.1,
+Umbrella,,,Email Campaign,50000.0,False,001C000003,1000000.0,16.0,340,Chicago,IL,us,,,North America,,0.25,0.9371
+Globex,help@globex.com,,Social Media,10000.0,False,,1000000.0,1.0,321,chicago,NY,U.S.,,"{""type"": ""B"", ""value"": 200}",,,1.0,0.9708
+Soylent,,2025-01-14,Referral,10000.0,False,,999999.0,8.0,461,chicago,Illinois,,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.1,
+Umbrella,,,Trade Show,50000.0,True,001A000001,5000000.0,,435,San Francisco,IL,U.S.,,,North America,Notes_Flag,0.75,0.343
+Acme Corp,contact@acme.com,2022-12-01,Email Campaign,1000.0,False,,,22.0,268,New York,California,,2024-05-05,,North America,,0.5,0.1324
+Globex,help@globex.com,2022-12-01,Trade Show,0.0,True,001C000003,1000000.0,1.0,118,,N.Y.,U.S.,,,North America,,0.1,
+Umbrella,,2025-03-13,Referral,50000.0,True,001C000003,1000000.0,1.0,53,,CA,,,,North America,Notes_Flag,0.1,0.546
+Acme Corp,contact@acme.com,2024-04-20,Social Media,,True,001A000001,1000000.0,,77,Chicago,CA,USA,,,North America,,1.0,0.2851
+Umbrella,,2022-12-01,Trade Show,10000.0,False,001C000003,2500000.0,18.0,397,New York,California,USA,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,1.0,
+Globex,help@globex.com,2020-01-01,Trade Show,1000.0,True,001C000003,5000000.0,36.0,320,New York,IL,,2024-11-04,,North America,,0.75,0.0894
+Initech,,2022-12-01,Email Campaign,10000.0,False,,5000000.0,19.0,497,,N.Y.,USA,,,North America,Notes_Flag,1.0,0.2115
+Globex,help@globex.com,,Social Media,1000.0,True,001A000001,5000000.0,,181,,,U.S.,2024-05-05,,North America,,0.5,
+Acme Corp,contact@acme.com,2024-07-11,Email Campaign,,True,001A000001,1000000.0,37.0,377,,,,,,North America,,0.75,0.4262
+Wonka,,,Partner,50000.0,False,001B000002,999999.0,22.0,493,nyc,California,United States,,,,Notes_Flag,1.0,0.522
+Initech,,2025-05-09,Email Campaign,25000.0,False,001A000001,1000000.0,10.0,44,Chicago,NY,USA,,,North America,,0.1,
+Globex,help@globex.com,2022-12-01,Email Campaign,50000.0,True,001B000002,5000000.0,,480,,Illinois,United States,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,,0.8118
+Acme Corp,contact@acme.com,2020-01-01,Social Media,,True,001B000002,2500000.0,49.0,132,,IL,,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.1,0.0069
+Globex,help@globex.com,,Social Media,25000.0,,001A000001,1000000.0,6.0,328,,California,United States,,"{""type"": ""A"", ""value"": 100}",North America,,0.5,
+Umbrella,,2023-03-01,Social Media,10000.0,False,001C000003,999999.0,17.0,79,nyc,CA,USA,2025-02-18,,North America,,1.0,0.9642
+Globex,help@globex.com,2025-05-22,,50000.0,True,,1000000.0,,359,Chicago,N.Y.,United States,,,North America,,0.5,0.8291
+Acme Corp,contact@acme.com,2020-01-01,Referral,,False,001C000003,,8.0,96,,,USA,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,,0.1,
+Umbrella,,2020-01-01,Partner,10000.0,False,,1000000.0,14.0,378,,Illinois,USA,,,,Notes_Flag,1.0,0.4724
+Umbrella,,2025-02-08,Referral,50000.0,False,,,36.0,357,nyc,,us,,"{""type"": ""A"", ""value"": 100}",North America,,0.5,0.1732
+Globex,help@globex.com,2022-12-01,Email Campaign,1000.0,True,,1000000.0,,187,,NY,United States,2025-04-28,"{""type"": ""A"", ""value"": 100}",,,1.0,
+Wonka,,2025-04-10,Partner,,True,,1000000.0,7.0,436,New York,CA,USA,2024-05-05,,,,,0.7029
+Acme Corp,contact@acme.com,,Referral,10000.0,False,001B000002,1000000.0,33.0,92,New York,CA,United States,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,0.75,0.2147
+Globex,help@globex.com,,Referral,,True,,1000000.0,16.0,204,New York,Illinois,us,,"{""type"": ""A"", ""value"": 100}",North America,,0.5,
+Wonka,,2022-12-01,Email Campaign,1000.0,False,,1000000.0,,146,nyc,IL,U.S.,2025-05-31,,North America,Notes_Flag,0.25,0.9915
+Globex,help@globex.com,,,,True,,1000000.0,16.0,218,,IL,us,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag,0.25,0.9395
+Initech,,2022-12-01,Referral,50000.0,True,001C000003,1000000.0,5.0,470,,Illinois,U.S.,2025-05-07,,North America,,1.0,
+Soylent,,2024-11-08,,0.0,False,,1000000.0,0.0,259,,N.Y.,us,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,,0.75,0.2799
+Wonka,,2024-04-04,Email Campaign,50000.0,True,001C000003,,,136,,CA,,,"{""type"": ""A"", ""value"": 100}",North America,,1.0,0.4222
+Umbrella,,2020-01-01,Email Campaign,1000.0,False,,1000000.0,16.0,91,,NY,USA,,"{""type"": ""B"", ""value"": 200}",North America,,0.75,
+Acme Corp,contact@acme.com,2022-12-01,,25000.0,False,001B000002,2500000.0,36.0,342,San Francisco,California,,,"{""type"": ""B"", ""value"": 200}",North America,,,0.8537
+,,2022-12-01,Partner,10000.0,False,001A000001,1000000.0,18.0,449,New York,CA,United States,2025-03-13,"{""type"": ""B"", ""value"": 200}",,,1.0,0.5325
+Acme Corp,contact@acme.com,,Trade Show,10000.0,False,,1000000.0,,339,Chicago,NY,U.S.,,"{""type"": ""B"", ""value"": 200}",North America,,0.1,
+Acme Corp,contact@acme.com,2022-12-01,Social Media,50000.0,True,001A000001,1000000.0,40.0,124,San Francisco,,USA,,,,,0.1,0.3482
+Acme Corp,contact@acme.com,2020-01-01,Social Media,0.0,False,,1000000.0,23.0,234,San Francisco,CA,United States,,,North America,,0.1,0.6393
+Soylent,,2024-10-28,Referral,50000.0,False,001A000001,1000000.0,7.0,318,Chicago,N.Y.,United States,2024-05-05,,North America,,0.1,
+Acme Corp,contact@acme.com,,Phone Inquiry,,True,001A000001,1000000.0,,480,chicago,N.Y.,us,,"{""type"": ""A"", ""value"": 100}",,,0.25,0.3243
+Acme Corp,contact@acme.com,2024-05-26,Trade Show,50000.0,False,001C000003,1000000.0,11.0,356,New York,NY,U.S.,2024-11-15,"{""type"": ""A"", ""value"": 100}",North America,,,0.698
+Umbrella,,2022-12-01,Trade Show,50000.0,False,001C000003,100000.0,49.0,448,nyc,CA,U.S.,2024-05-05,,North America,Notes_Flag,0.5,
+Soylent,,,Email Campaign,10000.0,False,001C000003,999999.0,33.0,110,New York,N.Y.,USA,,,North America,,,0.794
+Globex,help@globex.com,2025-06-01,,10000.0,False,,2500000.0,,274,nyc,Illinois,,2024-05-05,,,,0.75,0.7418
+Initech,,2020-01-01,Referral,1000.0,False,001B000002,1000000.0,24.0,438,nyc,,us,,,,,1.0,
+Soylent,,,Phone Inquiry,50000.0,False,,1000000.0,29.0,399,New York,,us,,"{""type"": ""B"", ""value"": 200}",North America,,0.1,0.9289
+Acme Corp,contact@acme.com,2020-01-01,Referral,10000.0,True,,1000000.0,12.0,493,Chicago,N.Y.,USA,,,North America,Notes_Flag,0.5,0.957
+Umbrella,,2020-01-01,Trade Show,10000.0,False,001C000003,1000000.0,,71,New York,IL,,,"{""type"": ""B"", ""value"": 200}",North America,,0.75,
+Soylent,,2022-12-01,Email Campaign,25000.0,True,,5000000.0,22.0,48,San Francisco,CA,,2024-05-05,"{""type"": ""B"", ""value"": 200}",,,1.0,0.0796
+Initech,,,Trade Show,25000.0,True,,999999.0,12.0,447,Chicago,,USA,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,,0.23
+Globex,help@globex.com,,Trade Show,10000.0,False,001B000002,1000000.0,8.0,97,,N.Y.,U.S.,2025-05-17,"{""type"": ""A"", ""value"": 100}",,,1.0,
+Acme Corp,contact@acme.com,2022-12-01,Referral,1000.0,True,001B000002,5000000.0,,155,,NY,USA,,"{""type"": ""B"", ""value"": 200}",North America,,0.1,0.492
+Umbrella,,2024-10-18,Email Campaign,50000.0,False,001C000003,100000.0,12.0,269,nyc,N.Y.,USA,2024-08-28,,North America,,0.5,0.2693
+Acme Corp,contact@acme.com,,Social Media,,True,001B000002,5000000.0,5.0,330,San Francisco,California,us,2024-10-30,"{""type"": ""B"", ""value"": 200}",,,0.5,
+Globex,help@globex.com,,,10000.0,False,001B000002,1000000.0,40.0,453,,,U.S.,,"{""type"": ""A"", ""value"": 100}",North America,,0.5,0.2039
+Globex,help@globex.com,2023-08-24,,1000.0,False,,1000000.0,,114,San Francisco,NY,United States,,,North America,,1.0,0.0144
+Soylent,,2025-03-07,Referral,50000.0,True,,1000000.0,24.0,65,chicago,NY,,,,,,0.5,
+Initech,,2022-12-01,Referral,10000.0,True,001B000002,2500000.0,35.0,54,,,us,,,,,0.25,0.4821
+Umbrella,,,Email Campaign,50000.0,False,001B000002,100000.0,34.0,417,nyc,CA,U.S.,2024-09-05,,North America,Notes_Flag,0.75,0.9136
+Globex,help@globex.com,2022-12-01,Phone Inquiry,,True,001B000002,1000000.0,,208,New York,NY,U.S.,,"{""type"": ""B"", ""value"": 200}",North America,,0.1,
+Umbrella,,2022-11-08,Trade Show,25000.0,False,001A000001,999999.0,30.0,445,,N.Y.,U.S.,,,North America,,0.75,0.8108
+Acme Corp,contact@acme.com,,Referral,0.0,False,001A000001,2500000.0,47.0,500,San Francisco,CA,United States,2024-05-05,,North America,Notes_Flag,0.5,0.3189
+Globex,help@globex.com,,Email Campaign,,False,001B000002,,5.0,121,Chicago,Illinois,U.S.,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,,
+,,2020-01-01,Referral,10000.0,False,,1000000.0,,78,San Francisco,NY,USA,,"{""type"": ""B"", ""value"": 200}",,,1.0,0.89
+Acme Corp,contact@acme.com,,Trade Show,1000.0,False,,1000000.0,22.0,447,,IL,us,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag,1.0,0.0849
+Umbrella,,2025-07-04,Referral,0.0,False,,,46.0,86,nyc,N.Y.,United States,2025-04-10,"{""type"": ""B"", ""value"": 200}",North America,,0.1,
+Globex,help@globex.com,2022-11-10,Social Media,10000.0,True,,2500000.0,7.0,377,Chicago,CA,USA,2024-12-18,,North America,,0.1,0.4214
+Umbrella,,2025-03-10,Referral,10000.0,True,001C000003,,,473,,CA,USA,2024-05-05,,North America,Notes_Flag,1.0,0.7562
+Acme Corp,contact@acme.com,2022-12-01,Social Media,,False,001A000001,5000000.0,7.0,78,chicago,NY,USA,,,North America,,0.25,
+Globex,help@globex.com,,Social Media,,True,001A000001,1000000.0,26.0,170,chicago,California,USA,2025-05-27,,North America,,0.25,0.3337
+Wonka,,2024-09-19,Social Media,50000.0,True,001A000001,2500000.0,37.0,397,,NY,United States,,,North America,Notes_Flag,0.5,0.8313
+Acme Corp,contact@acme.com,,Email Campaign,50000.0,False,001A000001,1000000.0,,303,San Francisco,Illinois,United States,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag,1.0,
+Umbrella,,2024-10-15,Social Media,25000.0,True,,5000000.0,33.0,14,San Francisco,NY,United States,,,,Notes_Flag,1.0,0.1714
+Globex,help@globex.com,,Email Campaign,50000.0,False,001B000002,,21.0,335,Chicago,N.Y.,us,,"{""type"": ""B"", ""value"": 200}",North America,,0.25,0.4203
+Acme Corp,contact@acme.com,2022-12-01,Social Media,50000.0,True,,1000000.0,44.0,417,,California,us,,,North America,Notes_Flag,,
+Globex,help@globex.com,2022-12-01,Email Campaign,1000.0,False,001B000002,1000000.0,,48,nyc,,USA,,,North America,Notes_Flag,,0.5243
+Soylent,,2020-01-01,Trade Show,50000.0,False,001B000002,100000.0,50.0,394,New York,N.Y.,USA,,,North America,,,0.9846
+Soylent,,2022-12-01,Trade Show,10000.0,False,001B000002,5000000.0,21.0,493,Chicago,NY,USA,,,North America,,0.75,
+Acme Corp,contact@acme.com,2023-11-18,Referral,25000.0,True,001B000002,5000000.0,13.0,59,chicago,IL,,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,,0.75,0.9749
+Soylent,,,Email Campaign,10000.0,False,001B000002,2500000.0,,351,chicago,NY,United States,,,North America,,1.0,0.871
+Globex,help@globex.com,2022-12-01,Trade Show,50000.0,True,001B000002,100000.0,3.0,139,New York,CA,us,,,North America,,0.75,
+Acme Corp,contact@acme.com,2023-04-18,Social Media,1000.0,True,001B000002,1000000.0,50.0,199,San Francisco,IL,,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag,,0.5432
+Acme Corp,contact@acme.com,2022-12-01,Trade Show,50000.0,True,001A000001,1000000.0,12.0,156,nyc,,United States,,,North America,Notes_Flag,0.1,0.928
+Globex,help@globex.com,2020-01-01,Phone Inquiry,10000.0,False,,1000000.0,,112,,IL,United States,,"{""type"": ""B"", ""value"": 200}",North America,,,
+Acme Corp,contact@acme.com,2024-01-28,Email Campaign,10000.0,False,001A000001,1000000.0,32.0,498,Chicago,N.Y.,USA,,,,,0.75,0.5727
+Acme Corp,contact@acme.com,,Web,10000.0,False,,999999.0,36.0,237,,NY,USA,,,North America,,0.1,0.5538
+Globex,help@globex.com,2020-01-01,Social Media,0.0,False,001A000001,5000000.0,18.0,114,New York,CA,,,,North America,,0.75,
+Acme Corp,contact@acme.com,2022-12-01,Referral,25000.0,False,001B000002,1000000.0,,272,San Francisco,,U.S.,2025-04-29,,North America,,0.5,0.9551
+Initech,,2022-12-01,Phone Inquiry,1000.0,True,,1000000.0,37.0,205,,Illinois,,,"{""type"": ""B"", ""value"": 200}",,,,0.263
+Globex,help@globex.com,2022-12-01,Social Media,50000.0,False,001C000003,,3.0,210,New York,CA,USA,,,North America,,0.5,
+Umbrella,,,Social Media,10000.0,True,001B000002,100000.0,20.0,449,nyc,,U.S.,,"{""type"": ""B"", ""value"": 200}",,,0.75,0.3443
