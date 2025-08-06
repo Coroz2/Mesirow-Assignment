@@ -1,0 +1,501 @@
+account_name,contact_email,created_date,lead_source,opportunity_amount,is_active,sfdc_id,annual_revenue,Deal Score,Engagement Level,Num Calls,last_activity,custom_field,region,notes_flag
+Acme Corp,contact@acme.com,2020-01-01,Trade Show,1000.0,False,001B000002,1000000.0,50.0,,,,"{""type"": ""A"", ""value"": 100}",North America,
+Globex,help@globex.com,2022-12-01,Social Media,,False,,1000000.0,,0.0636085280362646,31.0,,,North America,
+Globex,help@globex.com,,Email Campaign,50000.0,True,001A000001,5000000.0,,0.2173328901051947,38.0,2024-05-05,,North America,
+Acme Corp,contact@acme.com,,Social Media,50000.0,False,,1000000.0,100.0,,32.0,2024-09-13,"{""type"": ""A"", ""value"": 100}",North America,
+Umbrella,,2024-03-26,Web,50000.0,False,001B000002,1000000.0,100.0,0.5375777697761069,,2024-05-05,,North America,
+Globex,help@globex.com,2024-04-03,,50000.0,True,001A000001,999999.0,,0.7660733285745563,23.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Soylent,,2025-07-17,Referral,10000.0,False,001A000001,,100.0,,3.0,2025-01-28,"{""type"": ""B"", ""value"": 200}",North America,
+Soylent,,2023-12-17,Phone Inquiry,1000.0,True,,,10.0,0.9034173098115204,37.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,Trade Show,1000.0,False,001B000002,2500000.0,50.0,0.5413931977192316,,2025-01-23,,,
+Acme Corp,contact@acme.com,,Email Campaign,50000.0,False,001C000003,5000000.0,,,10.0,,,North America,Notes_Flag
+Umbrella,,2024-06-03,Trade Show,25000.0,True,001A000001,2500000.0,75.0,0.0309001072711559,49.0,,,,Notes_Flag
+Wonka,,2025-07-08,Trade Show,50000.0,True,,5000000.0,100.0,0.1543360464952931,13.0,2024-05-05,,,Notes_Flag
+Globex,help@globex.com,2022-12-01,,1000.0,True,,1000000.0,75.0,,,,"{""type"": ""B"", ""value"": 200}",,
+Soylent,,2020-01-01,Trade Show,50000.0,True,001B000002,1000000.0,100.0,0.7853081147314578,26.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Soylent,,2020-01-01,Partner,50000.0,False,,1000000.0,100.0,0.274271385331132,17.0,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Globex,help@globex.com,2023-01-26,Social Media,50000.0,True,,100000.0,10.0,,21.0,,,,
+Acme Corp,contact@acme.com,2022-12-01,Referral,50000.0,True,001C000003,1000000.0,,0.8991410997621325,,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Globex,help@globex.com,,Web,25000.0,True,,1000000.0,100.0,0.0606354866542068,9.0,,,North America,Notes_Flag
+Soylent,,2020-01-01,Social Media,10000.0,,001A000001,5000000.0,,,41.0,2024-08-22,,North America,Notes_Flag
+Globex,help@globex.com,,Email Campaign,,False,001A000001,5000000.0,100.0,0.2804927020812819,44.0,,,North America,
+Umbrella,,2020-01-01,Social Media,1000.0,False,,1000000.0,100.0,0.095621622484592,,,"{""type"": ""B"", ""value"": 200}",North America,
+Umbrella,,2024-08-12,Referral,10000.0,True,,1000000.0,75.0,,41.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Wonka,,2022-12-01,Trade Show,50000.0,False,001B000002,2500000.0,75.0,0.780823237111309,37.0,,,North America,Notes_Flag
+Globex,help@globex.com,2022-12-01,Email Campaign,50000.0,True,001B000002,1000000.0,75.0,0.2903633147599022,1.0,,,North America,Notes_Flag
+Soylent,,2020-01-01,Email Campaign,,True,,,10.0,,,2024-12-18,,North America,
+Globex,help@globex.com,2024-12-27,Social Media,0.0,,,1000000.0,50.0,0.8940609049208631,8.0,,,North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,Social Media,10000.0,True,,1000000.0,,0.0530025975252362,43.0,,,North America,Notes_Flag
+Soylent,,2023-05-04,Email Campaign,,True,,999999.0,,,28.0,,,,
+Initech,,,Web,50000.0,False,001C000003,2500000.0,100.0,0.9407276138973484,,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Soylent,,,Email Campaign,1000.0,True,001A000001,5000000.0,100.0,0.9582527093275404,19.0,,,,
+Globex,help@globex.com,2022-12-01,Web,0.0,True,001A000001,2500000.0,75.0,,3.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Globex,help@globex.com,,Trade Show,,False,,1000000.0,100.0,0.0635508382674759,10.0,,,North America,
+Soylent,,2024-02-20,Social Media,,False,001B000002,1000000.0,10.0,0.3863532626759115,,,,North America,
+Globex,help@globex.com,2022-12-01,Trade Show,0.0,False,,999999.0,100.0,,37.0,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Soylent,,2022-12-01,Email Campaign,10000.0,False,,5000000.0,50.0,0.9556450791936716,41.0,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Globex,help@globex.com,2025-06-13,Referral,10000.0,True,001A000001,1000000.0,100.0,0.4717432607899557,32.0,2025-03-08,,,Notes_Flag
+Acme Corp,contact@acme.com,2020-01-01,Social Media,10000.0,True,,5000000.0,,,,,,,Notes_Flag
+Umbrella,,2024-08-15,Referral,10000.0,False,,1000000.0,10.0,0.6700288593287657,23.0,2024-08-08,,North America,
+Acme Corp,contact@acme.com,2022-12-01,Email Campaign,50000.0,True,001A000001,2500000.0,,0.2340663823886296,24.0,,,North America,
+Globex,help@globex.com,,,50000.0,True,,1000000.0,75.0,,16.0,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Soylent,,2022-12-01,Referral,25000.0,True,,2500000.0,10.0,0.7763934874579811,,2024-05-05,,North America,
+Acme Corp,contact@acme.com,2025-07-08,Email Campaign,25000.0,True,001A000001,1000000.0,75.0,0.6687049635174467,1.0,2025-06-30,"{""type"": ""B"", ""value"": 200}",,
+Soylent,,2020-01-01,Social Media,1000.0,True,,1000000.0,75.0,,48.0,,,North America,Notes_Flag
+Soylent,,2020-01-01,Trade Show,10000.0,True,001A000001,,10.0,0.4628525173381721,45.0,2024-09-08,,North America,
+Acme Corp,contact@acme.com,2023-06-06,Email Campaign,10000.0,True,,1000000.0,100.0,0.4949605282666564,,,,North America,
+Globex,help@globex.com,,Social Media,50000.0,True,001A000001,999999.0,10.0,,5.0,,,,
+Globex,help@globex.com,,,10000.0,False,,2500000.0,75.0,0.6484756106425171,20.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Globex,help@globex.com,,Web,1000.0,True,,100000.0,50.0,0.2813745885736209,19.0,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Globex,help@globex.com,2020-01-01,Social Media,10000.0,False,001A000001,5000000.0,25.0,,,2024-05-05,,North America,
+Soylent,,2022-12-01,Trade Show,,True,,999999.0,50.0,0.6822469688621764,50.0,,,,
+Acme Corp,contact@acme.com,2023-08-08,Email Campaign,50000.0,True,001A000001,100000.0,75.0,0.6373603910717661,1.0,,"{""type"": ""A"", ""value"": 100}",,
+Globex,help@globex.com,2020-01-01,,1000.0,True,,1000000.0,50.0,,13.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Globex,help@globex.com,2022-12-01,Referral,0.0,False,,1000000.0,50.0,0.9779479099618632,,2025-06-06,,North America,Notes_Flag
+Acme Corp,contact@acme.com,,Trade Show,50000.0,True,001C000003,1000000.0,50.0,0.2280773663571758,13.0,2025-05-08,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Globex,help@globex.com,2020-01-01,Social Media,25000.0,True,,2500000.0,100.0,,38.0,,,North America,
+Umbrella,,2023-01-07,Referral,10000.0,False,,5000000.0,75.0,0.0581814895869864,24.0,,,North America,Notes_Flag
+Globex,help@globex.com,2023-07-25,,50000.0,True,,,10.0,0.2425164915580693,,,,North America,
+Acme Corp,contact@acme.com,2020-01-01,Phone Inquiry,0.0,False,,5000000.0,50.0,,15.0,,,North America,Notes_Flag
+Wonka,,2020-01-01,Social Media,10000.0,True,001B000002,1000000.0,,0.952599194728411,23.0,2024-05-05,,,
+Soylent,,2022-12-01,Email Campaign,50000.0,True,001A000001,1000000.0,25.0,0.386085739561833,6.0,,,North America,Notes_Flag
+Umbrella,,2020-01-01,Partner,50000.0,False,001C000003,1000000.0,25.0,,,,,,
+Soylent,,,Email Campaign,50000.0,False,001C000003,1000000.0,75.0,0.6321827972863433,41.0,2024-09-28,,North America,
+Soylent,,2024-04-29,Web,50000.0,False,001A000001,1000000.0,10.0,0.0254772827746345,45.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Soylent,,2022-12-01,Web,,True,001C000003,1000000.0,10.0,,29.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Umbrella,,,Referral,1000.0,True,,1000000.0,100.0,0.1563102858949157,,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Umbrella,,,Email Campaign,50000.0,True,001A000001,5000000.0,100.0,0.8420958705773769,39.0,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+,,2022-12-01,Referral,10000.0,False,,1000000.0,50.0,,16.0,,,North America,Notes_Flag
+Globex,help@globex.com,2024-09-21,Trade Show,10000.0,True,,1000000.0,10.0,0.4456232194336468,21.0,,,,Notes_Flag
+Globex,help@globex.com,,Referral,1000.0,False,001C000003,1000000.0,25.0,0.4584850706768534,,,,North America,
+Soylent,,2025-03-04,Trade Show,50000.0,True,001C000003,2500000.0,25.0,,18.0,2024-08-26,"{""type"": ""B"", ""value"": 200}",North America,
+Umbrella,,2022-12-01,,1000.0,False,001B000002,2500000.0,75.0,0.7348385582247391,40.0,,,North America,
+Globex,help@globex.com,2020-01-01,Trade Show,10000.0,True,,1000000.0,,0.4881674030535727,6.0,2025-05-25,,North America,Notes_Flag
+Globex,help@globex.com,2020-01-01,Partner,50000.0,False,,1000000.0,,,,2025-03-16,,North America,Notes_Flag
+Umbrella,,2022-12-01,Trade Show,1000.0,False,001B000002,2500000.0,50.0,0.4178113686510603,14.0,2024-10-21,,North America,
+Umbrella,,2022-12-01,Partner,,False,001B000002,1000000.0,10.0,0.1077471016981241,0.0,2024-11-30,"{""type"": ""B"", ""value"": 200}",North America,
+Globex,help@globex.com,,Social Media,10000.0,True,001B000002,1000000.0,,,40.0,2025-03-02,"{""type"": ""A"", ""value"": 100}",North America,
+Soylent,,2024-10-07,Social Media,50000.0,True,001B000002,1000000.0,25.0,0.1581067546016386,,2024-05-05,,North America,Notes_Flag
+Globex,help@globex.com,2022-12-01,Social Media,,False,001B000002,2500000.0,75.0,0.9994752009623408,0.0,2024-05-05,,,
+Soylent,,2024-09-27,Social Media,10000.0,False,,999999.0,50.0,,2.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,
+Acme Corp,contact@acme.com,,Email Campaign,50000.0,False,,1000000.0,75.0,0.1138027711581948,46.0,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Globex,help@globex.com,2022-12-01,Email Campaign,50000.0,True,,5000000.0,10.0,0.2915007644552758,,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Acme Corp,contact@acme.com,2024-07-10,Trade Show,50000.0,False,,999999.0,100.0,,41.0,,"{""type"": ""B"", ""value"": 200}",North America,
+Wonka,,2020-01-01,Email Campaign,1000.0,False,,1000000.0,25.0,0.0396665047865796,19.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",,
+Globex,help@globex.com,2020-01-01,Social Media,50000.0,True,001A000001,5000000.0,,0.7382787974625982,25.0,2024-05-05,,,Notes_Flag
+Acme Corp,contact@acme.com,2020-01-01,Social Media,1000.0,True,001A000001,1000000.0,,,,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,Trade Show,1000.0,True,001B000002,1000000.0,25.0,0.5442747828776291,40.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,
+Acme Corp,contact@acme.com,2022-12-01,Email Campaign,10000.0,True,001B000002,,,0.6748143522105087,39.0,,"{""type"": ""B"", ""value"": 200}",North America,
+Umbrella,,2020-01-01,,25000.0,True,,,25.0,,1.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Globex,help@globex.com,2022-12-01,,50000.0,True,001A000001,1000000.0,100.0,0.4823488155411135,,,"{""type"": ""A"", ""value"": 100}",North America,
+Umbrella,,2025-06-07,Email Campaign,1000.0,True,,1000000.0,100.0,0.4253270562977473,25.0,,,North America,
+Umbrella,,2022-12-01,Email Campaign,1000.0,False,001A000001,5000000.0,100.0,,24.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Globex,help@globex.com,2025-03-03,Referral,50000.0,False,,1000000.0,75.0,0.224010725409763,9.0,2025-07-18,"{""type"": ""A"", ""value"": 100}",North America,
+Globex,help@globex.com,,Referral,,False,,2500000.0,100.0,0.8284863300239481,,2024-05-05,"{""type"": ""B"", ""value"": 200}",,
+Soylent,,2020-01-01,Trade Show,10000.0,True,,1000000.0,,,23.0,,,,Notes_Flag
+Umbrella,,,,10000.0,True,001A000001,1000000.0,100.0,0.913536702783527,5.0,,,North America,Notes_Flag
+Globex,help@globex.com,2020-01-01,Trade Show,1000.0,True,,5000000.0,10.0,0.3783793554943464,28.0,,"{""type"": ""B"", ""value"": 200}",North America,
+Globex,help@globex.com,2022-12-01,Trade Show,1000.0,True,001B000002,1000000.0,25.0,,,2025-05-27,,,Notes_Flag
+Soylent,,,Social Media,10000.0,False,001B000002,1000000.0,100.0,0.1203475114293672,11.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Globex,help@globex.com,2022-12-01,Social Media,50000.0,True,001B000002,5000000.0,25.0,0.6337940517363004,34.0,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Acme Corp,contact@acme.com,2020-01-01,Email Campaign,1000.0,False,,5000000.0,50.0,,50.0,2024-05-05,,,
+Acme Corp,contact@acme.com,2020-01-01,Email Campaign,,False,001A000001,1000000.0,,0.9778945751021084,,,,North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,,1000.0,False,,1000000.0,25.0,0.5289187563131367,26.0,2025-03-01,"{""type"": ""B"", ""value"": 200}",,
+Soylent,,2024-09-15,Trade Show,25000.0,False,,5000000.0,,,31.0,2024-09-28,,North America,Notes_Flag
+Soylent,,2022-12-01,Referral,0.0,False,001B000002,1000000.0,100.0,0.1597855827863217,38.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Soylent,,2020-01-01,Referral,1000.0,True,,999999.0,100.0,0.3659220600724313,,,,North America,
+Acme Corp,contact@acme.com,2022-12-01,Social Media,10000.0,False,,1000000.0,50.0,,30.0,2025-01-19,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Umbrella,,,Trade Show,10000.0,True,,1000000.0,10.0,0.1490745290617204,44.0,,,North America,
+Globex,help@globex.com,2020-01-01,Email Campaign,10000.0,True,,5000000.0,,0.1348027366432364,9.0,2024-05-05,,North America,
+Initech,,2024-01-15,Partner,50000.0,True,001A000001,,10.0,,,,"{""type"": ""A"", ""value"": 100}",North America,
+Globex,help@globex.com,2024-01-01,Trade Show,10000.0,False,,5000000.0,75.0,0.1299003909922177,9.0,,,North America,
+Soylent,,2022-12-01,Phone Inquiry,10000.0,False,,1000000.0,75.0,0.7647313502620555,32.0,,,North America,
+Umbrella,,2025-05-07,Email Campaign,50000.0,False,,1000000.0,75.0,,20.0,,,North America,
+Umbrella,,2025-05-05,Social Media,50000.0,True,001B000002,5000000.0,10.0,0.5984720691439855,,,,North America,
+Globex,help@globex.com,2022-12-01,Social Media,50000.0,True,001A000001,1000000.0,50.0,0.2717862530297795,43.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Umbrella,,2024-12-23,Social Media,10000.0,False,,2500000.0,10.0,,27.0,,,North America,Notes_Flag
+Initech,,2022-12-01,Social Media,10000.0,True,,5000000.0,100.0,0.935917496744912,4.0,2024-10-21,"{""type"": ""B"", ""value"": 200}",North America,
+Umbrella,,2025-05-07,Phone Inquiry,1000.0,False,001A000001,1000000.0,75.0,0.6643439411804918,,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Globex,help@globex.com,2024-09-12,Email Campaign,1000.0,True,001A000001,999999.0,10.0,,27.0,,,,
+Acme Corp,contact@acme.com,2025-07-08,Email Campaign,50000.0,False,001B000002,1000000.0,,0.3624417861739877,14.0,,,North America,
+Acme Corp,contact@acme.com,2020-01-01,Trade Show,1000.0,False,,1000000.0,,0.9550213018359888,39.0,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Acme Corp,contact@acme.com,2024-11-20,Social Media,0.0,False,001C000003,1000000.0,,,,2025-03-28,"{""type"": ""B"", ""value"": 200}",North America,
+Globex,help@globex.com,2022-12-01,Social Media,,True,001C000003,1000000.0,50.0,0.8877918267182953,38.0,2024-05-05,,North America,Notes_Flag
+Soylent,,2022-12-01,Social Media,0.0,False,,,10.0,0.3610107263452747,20.0,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Umbrella,,2022-12-01,,,False,,1000000.0,10.0,,35.0,,,,Notes_Flag
+Umbrella,,,Trade Show,50000.0,False,001C000003,1000000.0,,0.136425888600467,,2024-05-05,"{""type"": ""B"", ""value"": 200}",,
+Soylent,,2022-12-01,Email Campaign,25000.0,True,001B000002,2500000.0,25.0,0.2082039862300396,5.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Globex,help@globex.com,2022-12-01,Trade Show,0.0,False,001A000001,999999.0,,,49.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Acme Corp,contact@acme.com,2025-06-24,Social Media,50000.0,False,,1000000.0,25.0,0.5447141561149177,19.0,,"{""type"": ""A"", ""value"": 100}",,
+Umbrella,,2024-12-26,Trade Show,10000.0,False,,1000000.0,10.0,0.8753360755935369,,2025-04-26,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Globex,help@globex.com,2024-08-31,Referral,1000.0,True,001A000001,1000000.0,,,48.0,,,North America,
+Globex,help@globex.com,2022-12-01,Email Campaign,50000.0,False,001B000002,1000000.0,75.0,0.0386116664275898,18.0,,"{""type"": ""B"", ""value"": 200}",North America,
+Globex,help@globex.com,2024-03-24,,,False,001A000001,1000000.0,75.0,0.6716768525935598,38.0,,,North America,
+Acme Corp,contact@acme.com,2024-09-01,Email Campaign,50000.0,True,,5000000.0,25.0,,,2025-02-28,,,
+Globex,help@globex.com,2022-12-01,,50000.0,True,,1000000.0,10.0,0.2699923847792224,44.0,,,North America,
+Soylent,,2025-05-07,Email Campaign,10000.0,True,,1000000.0,,0.8054666922536998,6.0,,,North America,
+Umbrella,,2024-06-06,Trade Show,,False,001B000002,1000000.0,50.0,,11.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,
+Acme Corp,contact@acme.com,2025-06-09,,,True,001B000002,1000000.0,25.0,0.1807296578561938,,2024-05-05,"{""type"": ""A"", ""value"": 100}",,
+Umbrella,,,Web,,False,001C000003,1000000.0,10.0,0.3100294270634995,31.0,2024-05-05,,,
+Globex,help@globex.com,2022-12-01,Phone Inquiry,10000.0,False,,2500000.0,25.0,,16.0,,,North America,
+Acme Corp,contact@acme.com,2024-06-05,Trade Show,1000.0,True,001C000003,1000000.0,10.0,0.0271040530157794,32.0,,,North America,Notes_Flag
+Soylent,,,Social Media,10000.0,True,001C000003,5000000.0,50.0,0.4090421983753707,,,"{""type"": ""A"", ""value"": 100}",North America,
+Globex,help@globex.com,2025-03-29,Social Media,50000.0,False,,1000000.0,,,5.0,2025-01-26,,,
+Soylent,,2025-06-30,Email Campaign,10000.0,True,,1000000.0,100.0,0.3949017912392356,26.0,2025-05-30,,,
+Acme Corp,contact@acme.com,2025-07-22,Email Campaign,50000.0,True,001B000002,100000.0,10.0,0.2455950397342564,10.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Globex,help@globex.com,2020-01-01,Social Media,1000.0,True,,1000000.0,100.0,,,2024-08-08,,North America,
+Wonka,,2020-01-01,Referral,50000.0,False,001C000003,5000000.0,75.0,0.671948048214384,34.0,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Soylent,,,Email Campaign,50000.0,False,001C000003,1000000.0,25.0,0.2436689385684571,48.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,,50000.0,True,001A000001,1000000.0,25.0,,49.0,2024-05-05,,North America,
+Acme Corp,contact@acme.com,2024-05-12,Email Campaign,10000.0,True,,2500000.0,25.0,0.1393444666374196,,2024-12-01,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Initech,,2024-11-17,Web,50000.0,True,,100000.0,75.0,0.8969368287969408,34.0,,"{""type"": ""B"", ""value"": 200}",North America,
+Acme Corp,contact@acme.com,2024-12-30,Email Campaign,,True,001A000001,1000000.0,,,2.0,,"{""type"": ""B"", ""value"": 200}",North America,
+Umbrella,,2022-12-01,Trade Show,,False,001C000003,1000000.0,25.0,0.3208350549719074,18.0,,,North America,
+Globex,help@globex.com,2023-03-05,Trade Show,0.0,False,001C000003,2500000.0,50.0,0.0539946660502469,,2024-05-05,,,
+Initech,,,Referral,50000.0,False,,1000000.0,10.0,,27.0,,,North America,
+Soylent,,2022-12-01,Email Campaign,50000.0,False,001B000002,1000000.0,100.0,0.8007537953436189,13.0,,,North America,
+Acme Corp,contact@acme.com,2025-01-09,Trade Show,10000.0,True,,1000000.0,,0.1161675097516578,25.0,2025-06-22,,North America,Notes_Flag
+Umbrella,,2022-12-01,Email Campaign,10000.0,True,,2500000.0,,,,2024-05-05,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Acme Corp,contact@acme.com,2025-02-01,Social Media,10000.0,True,001C000003,1000000.0,50.0,0.2600538202318952,18.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+,,,Referral,50000.0,False,,999999.0,75.0,0.293660436794273,32.0,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,Email Campaign,,True,001B000002,1000000.0,25.0,,29.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Globex,help@globex.com,2022-12-01,Email Campaign,0.0,True,001A000001,1000000.0,75.0,0.9623834838283872,,2025-04-23,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Soylent,,2022-12-01,Social Media,,True,,1000000.0,50.0,0.1344025290781128,43.0,,,,
+Umbrella,,2024-11-26,Trade Show,1000.0,False,,1000000.0,100.0,,41.0,2024-05-05,,North America,Notes_Flag
+Globex,help@globex.com,2025-04-07,Social Media,50000.0,False,001B000002,1000000.0,100.0,0.2684199791922581,46.0,2024-05-05,,North America,
+Acme Corp,contact@acme.com,2022-12-01,Trade Show,1000.0,True,,5000000.0,25.0,0.3836097764720628,,2024-05-05,,North America,
+Umbrella,,2022-12-01,Trade Show,1000.0,False,001A000001,1000000.0,,,3.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,
+Soylent,,2024-07-31,Email Campaign,,False,001C000003,100000.0,100.0,0.481482646854857,50.0,,"{""type"": ""B"", ""value"": 200}",,
+Umbrella,,,Referral,10000.0,False,,5000000.0,100.0,0.1448991656155943,6.0,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Umbrella,,2023-09-17,,,False,001A000001,1000000.0,,,,2024-05-05,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Acme Corp,contact@acme.com,2020-01-01,Trade Show,0.0,False,,2500000.0,50.0,0.5656728401095495,49.0,,,,
+Soylent,,2024-03-07,Email Campaign,,True,001C000003,,25.0,0.7038170573085205,0.0,2025-01-22,,North America,Notes_Flag
+Globex,help@globex.com,,Social Media,50000.0,False,,1000000.0,100.0,,32.0,2025-01-17,"{""type"": ""A"", ""value"": 100}",North America,
+Umbrella,,2022-12-01,Email Campaign,50000.0,False,001C000003,1000000.0,10.0,0.5236030997193386,,,,North America,
+Umbrella,,,Trade Show,1000.0,False,001B000002,1000000.0,100.0,0.4146955919253452,25.0,,,North America,
+Acme Corp,contact@acme.com,2022-12-01,Referral,10000.0,True,,1000000.0,50.0,,14.0,,"{""type"": ""A"", ""value"": 100}",,
+Acme Corp,contact@acme.com,2020-01-01,Trade Show,50000.0,True,,1000000.0,25.0,0.711120475960693,19.0,,,,
+Globex,help@globex.com,2023-12-22,Referral,1000.0,True,,1000000.0,10.0,0.3609116098376759,,2025-06-29,"{""type"": ""B"", ""value"": 200}",North America,
+Globex,help@globex.com,,Referral,50000.0,True,,5000000.0,10.0,,11.0,,,North America,Notes_Flag
+Wonka,,2023-11-02,Partner,10000.0,False,001A000001,1000000.0,25.0,0.3705511955564302,37.0,2025-03-14,"{""type"": ""B"", ""value"": 200}",North America,
+Globex,help@globex.com,2022-12-24,Email Campaign,10000.0,False,,100000.0,75.0,0.9471583692710384,40.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Globex,help@globex.com,2022-12-01,Email Campaign,,True,,1000000.0,10.0,,,2024-05-05,,,
+Globex,help@globex.com,2024-09-19,Email Campaign,1000.0,False,001A000001,1000000.0,100.0,0.2618884708990374,9.0,,,North America,Notes_Flag
+Umbrella,,2020-01-01,Social Media,50000.0,False,001B000002,2500000.0,75.0,0.8896783564112076,32.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,
+Acme Corp,contact@acme.com,2020-01-01,Trade Show,25000.0,False,001A000001,1000000.0,10.0,,19.0,2024-05-05,,,
+Umbrella,,2020-01-01,Partner,50000.0,True,,1000000.0,10.0,0.6426966763706001,,2025-06-10,"{""type"": ""A"", ""value"": 100}",North America,
+Umbrella,,2022-12-01,Trade Show,,False,001C000003,1000000.0,75.0,0.4944796977226062,50.0,,,North America,Notes_Flag
+Globex,help@globex.com,2023-04-26,Web,10000.0,False,,1000000.0,25.0,,3.0,,,North America,
+Globex,help@globex.com,,Web,50000.0,True,,100000.0,100.0,0.3345382898913341,47.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Umbrella,,2022-12-01,Social Media,,True,,1000000.0,50.0,0.2894401779915585,,2025-04-15,"{""type"": ""A"", ""value"": 100}",,
+Soylent,,2025-04-22,Social Media,10000.0,False,,1000000.0,25.0,,22.0,,"{""type"": ""B"", ""value"": 200}",North America,
+Umbrella,,,Email Campaign,10000.0,True,001B000002,100000.0,,0.3783463297826404,28.0,2025-07-21,"{""type"": ""A"", ""value"": 100}",North America,
+Soylent,,2024-12-04,,50000.0,False,001B000002,1000000.0,50.0,0.1490566936544939,32.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,Phone Inquiry,50000.0,True,,100000.0,10.0,,,2025-04-06,"{""type"": ""A"", ""value"": 100}",North America,
+Soylent,,2020-01-01,Trade Show,50000.0,False,001A000001,999999.0,100.0,0.6323280510002007,6.0,2024-05-05,,North America,Notes_Flag
+Acme Corp,contact@acme.com,,Referral,,False,,5000000.0,100.0,0.6240488526277087,19.0,2024-05-05,,North America,
+Umbrella,,2022-12-01,Web,50000.0,False,001B000002,1000000.0,25.0,,5.0,,,North America,
+,,2025-04-20,,1000.0,True,,1000000.0,75.0,0.938078558176182,,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Acme Corp,contact@acme.com,2025-07-29,Email Campaign,25000.0,False,001B000002,1000000.0,25.0,0.3586348719227986,11.0,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Umbrella,,2022-12-01,Referral,0.0,True,001C000003,1000000.0,10.0,,12.0,,"{""type"": ""B"", ""value"": 200}",North America,
+Soylent,,,Email Campaign,50000.0,True,,1000000.0,50.0,0.2181746296850383,19.0,,,,
+Acme Corp,contact@acme.com,2020-01-01,Social Media,1000.0,False,,100000.0,75.0,0.6383064139870478,,,,North America,
+Globex,help@globex.com,,Email Campaign,1000.0,,001B000002,100000.0,,,35.0,2025-01-16,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Globex,help@globex.com,2024-04-30,Email Campaign,10000.0,False,001B000002,999999.0,75.0,0.5501717106987244,4.0,2024-10-20,,North America,
+Globex,help@globex.com,2022-12-01,,50000.0,False,,1000000.0,10.0,0.6256933493614578,20.0,2024-11-19,,,Notes_Flag
+Initech,,2025-07-30,Partner,1000.0,True,,1000000.0,100.0,,,,,North America,
+Globex,help@globex.com,,Email Campaign,,True,,1000000.0,50.0,0.1610403758382849,42.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Umbrella,,2020-01-01,Email Campaign,10000.0,True,001B000002,1000000.0,25.0,0.7778885879093365,43.0,2024-10-17,,North America,Notes_Flag
+Initech,,,Referral,50000.0,True,001C000003,1000000.0,10.0,,37.0,2025-02-08,,,
+Umbrella,,,Referral,1000.0,False,,1000000.0,,0.7520136104509236,,,,,
+Soylent,,,Email Campaign,25000.0,False,001A000001,1000000.0,50.0,0.8663504107186673,36.0,,,,
+Globex,help@globex.com,2022-12-01,Social Media,,False,,1000000.0,100.0,,10.0,2024-05-05,,North America,Notes_Flag
+Umbrella,,2020-01-01,Web,25000.0,True,001C000003,1000000.0,25.0,0.4897795237006516,26.0,,,North America,Notes_Flag
+Wonka,,2022-12-01,Social Media,25000.0,True,,2500000.0,,0.0119737258363598,,2024-05-05,,,Notes_Flag
+Globex,help@globex.com,2020-01-01,Web,1000.0,True,001B000002,5000000.0,25.0,,25.0,2024-12-22,,North America,
+Umbrella,,2023-03-19,Social Media,,False,,1000000.0,10.0,0.960118544943806,23.0,,,North America,
+Umbrella,,2022-11-07,Referral,50000.0,True,001C000003,2500000.0,,0.521089615449753,38.0,,,,Notes_Flag
+Globex,help@globex.com,,Referral,0.0,False,,1000000.0,75.0,,,,"{""type"": ""B"", ""value"": 200}",North America,
+Globex,help@globex.com,2025-03-31,Referral,50000.0,False,,100000.0,75.0,0.7134777627051648,32.0,,,,
+Umbrella,,,Trade Show,50000.0,True,001C000003,2500000.0,100.0,0.0349400782504596,36.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Umbrella,,,Email Campaign,1000.0,True,001C000003,1000000.0,50.0,,31.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Umbrella,,,Social Media,1000.0,True,001A000001,2500000.0,100.0,0.3308756349161907,,,,,
+Globex,help@globex.com,2024-06-24,Phone Inquiry,50000.0,False,001A000001,100000.0,10.0,0.6783674071246868,15.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Globex,help@globex.com,2022-12-01,Trade Show,50000.0,False,001C000003,1000000.0,50.0,,50.0,2025-02-28,,,Notes_Flag
+Globex,help@globex.com,2025-06-29,Social Media,,False,001C000003,100000.0,,0.9258862431767682,16.0,,,North America,
+Wonka,,2022-12-01,Web,10000.0,False,001B000002,100000.0,25.0,0.2001399184618575,,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Umbrella,,,Trade Show,10000.0,False,,1000000.0,10.0,,2.0,2025-03-22,,North America,Notes_Flag
+Soylent,,2025-02-17,Referral,50000.0,True,,100000.0,100.0,0.5074413977919922,31.0,,,,
+Globex,help@globex.com,2024-06-12,Phone Inquiry,50000.0,True,001A000001,1000000.0,10.0,0.8188966436916774,40.0,2025-05-30,,North America,Notes_Flag
+Acme Corp,contact@acme.com,2024-08-30,,10000.0,True,001A000001,2500000.0,,,,,"{""type"": ""A"", ""value"": 100}",North America,
+Soylent,,2024-09-10,Email Campaign,,False,001B000002,5000000.0,,0.8831338019726781,24.0,,,North America,
+Soylent,,2025-05-18,Social Media,,False,001B000002,1000000.0,100.0,0.3914565325769404,23.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Acme Corp,contact@acme.com,,Partner,,True,001C000003,1000000.0,50.0,,30.0,,,North America,
+Umbrella,,2022-12-01,Referral,1000.0,True,,,50.0,0.2574101539214357,,,,,
+Acme Corp,contact@acme.com,,Referral,10000.0,False,001A000001,1000000.0,10.0,0.454903086325729,35.0,,,North America,
+Soylent,,2025-06-07,Referral,10000.0,True,001A000001,1000000.0,100.0,,20.0,2024-08-20,,,Notes_Flag
+Soylent,,,Social Media,10000.0,True,001B000002,100000.0,25.0,0.9347371659542276,12.0,,,,
+Soylent,,2025-06-22,Trade Show,,True,,5000000.0,50.0,0.8419106236307783,,2024-11-25,,North America,Notes_Flag
+Soylent,,2022-12-01,Phone Inquiry,25000.0,False,001A000001,,10.0,,7.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,
+Soylent,,2023-03-20,Referral,0.0,False,,1000000.0,,0.9085341824609852,35.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Soylent,,2023-07-12,Email Campaign,50000.0,True,,1000000.0,25.0,0.6318252231198995,8.0,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Initech,,2022-12-01,Trade Show,25000.0,True,001C000003,1000000.0,50.0,,,,"{""type"": ""B"", ""value"": 200}",North America,
+Globex,help@globex.com,2023-10-22,Email Campaign,10000.0,False,,1000000.0,50.0,0.7517777576453794,7.0,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Soylent,,,Social Media,50000.0,False,001A000001,999999.0,25.0,0.051311694434729,15.0,2024-10-21,"{""type"": ""B"", ""value"": 200}",,
+Umbrella,,,Email Campaign,10000.0,False,001A000001,1000000.0,75.0,,15.0,,,,
+Umbrella,,2023-09-16,Social Media,1000.0,False,,1000000.0,75.0,0.2573295736925753,,,"{""type"": ""B"", ""value"": 200}",North America,
+Soylent,,2025-05-16,Referral,1000.0,True,001C000003,5000000.0,10.0,0.4692117541281052,5.0,,,,
+Umbrella,,2022-12-01,Trade Show,10000.0,False,001C000003,1000000.0,50.0,,9.0,2024-05-05,,North America,
+Umbrella,,2023-02-17,Social Media,10000.0,False,,2500000.0,10.0,0.8378311829946699,28.0,,"{""type"": ""B"", ""value"": 200}",,
+Acme Corp,contact@acme.com,2024-12-04,Trade Show,25000.0,False,001A000001,1000000.0,,0.3722445278873078,,,,North America,
+Globex,help@globex.com,,,0.0,True,,1000000.0,10.0,,40.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Umbrella,,2025-01-04,Trade Show,,True,001A000001,2500000.0,100.0,0.6521522847936827,15.0,2025-01-03,,North America,Notes_Flag
+Umbrella,,2024-08-24,Phone Inquiry,0.0,True,,100000.0,,0.8324643420232115,35.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Soylent,,,Social Media,1000.0,False,,1000000.0,75.0,,,,"{""type"": ""A"", ""value"": 100}",North America,
+Umbrella,,2025-04-11,Referral,50000.0,True,,999999.0,,0.7277419768731782,6.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,
+Umbrella,,2025-05-19,,50000.0,True,001B000002,2500000.0,75.0,0.9973630257900696,42.0,,,North America,
+Umbrella,,2023-02-04,Social Media,25000.0,False,,2500000.0,75.0,,29.0,2025-03-06,"{""type"": ""A"", ""value"": 100}",North America,
+Globex,help@globex.com,2025-06-20,Referral,1000.0,True,001C000003,2500000.0,10.0,0.5254958368035283,,,,North America,
+Acme Corp,contact@acme.com,2025-04-22,Email Campaign,25000.0,True,001A000001,5000000.0,10.0,0.2951069681265871,14.0,2024-05-05,,North America,Notes_Flag
+Wonka,,2024-04-04,Email Campaign,1000.0,True,001C000003,1000000.0,10.0,,15.0,,"{""type"": ""B"", ""value"": 200}",,
+Umbrella,,2024-07-05,Partner,0.0,False,001B000002,1000000.0,,0.8491175973136836,28.0,,,,Notes_Flag
+Initech,,,Social Media,10000.0,True,,5000000.0,75.0,0.4831914951932951,,,,North America,Notes_Flag
+Globex,help@globex.com,2023-01-13,Social Media,10000.0,True,001A000001,1000000.0,,,0.0,,,,Notes_Flag
+Globex,help@globex.com,2020-01-01,Social Media,1000.0,False,001C000003,2500000.0,100.0,0.9011074387314588,39.0,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Globex,help@globex.com,,,10000.0,True,,2500000.0,,0.2659732674054129,4.0,2024-11-01,,,
+Umbrella,,2025-03-19,Trade Show,50000.0,True,001A000001,1000000.0,75.0,,,2024-08-25,,North America,
+Soylent,,2024-04-30,Referral,50000.0,True,001A000001,1000000.0,,0.0222882883938895,7.0,2024-11-01,"{""type"": ""B"", ""value"": 200}",North America,
+Acme Corp,contact@acme.com,2022-12-01,Social Media,25000.0,False,001A000001,2500000.0,25.0,0.4203529151936321,13.0,,,,
+Globex,help@globex.com,2020-01-01,Web,1000.0,True,001A000001,1000000.0,100.0,,32.0,2024-05-05,,North America,
+Globex,help@globex.com,2020-01-01,Web,0.0,False,001A000001,100000.0,10.0,0.5629654028889096,,2025-04-03,,,Notes_Flag
+Soylent,,2023-12-04,Referral,1000.0,False,,1000000.0,100.0,0.3308730295411678,45.0,2024-11-08,,North America,
+Umbrella,,2024-08-08,Email Campaign,1000.0,True,001B000002,2500000.0,,,2.0,,,North America,Notes_Flag
+Umbrella,,2023-11-28,Social Media,50000.0,True,,,75.0,0.1651203784481721,44.0,2025-05-28,"{""type"": ""B"", ""value"": 200}",,
+Globex,help@globex.com,2025-03-07,Referral,1000.0,True,,5000000.0,25.0,0.3340120142388115,,,,North America,
+Soylent,,,Referral,,False,001C000003,1000000.0,10.0,,2.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Soylent,,2022-12-01,Email Campaign,10000.0,True,,100000.0,75.0,0.5890435410463439,28.0,2025-06-22,,North America,
+Umbrella,,2024-08-08,Web,1000.0,False,001C000003,1000000.0,50.0,0.4417847826526453,2.0,2024-09-30,,North America,
+Acme Corp,contact@acme.com,,Email Campaign,1000.0,,,1000000.0,100.0,,,2024-05-05,,North America,
+Umbrella,,,Email Campaign,50000.0,True,001C000003,5000000.0,75.0,0.6086716523916307,3.0,2025-05-13,,,
+Globex,help@globex.com,,Referral,0.0,True,001A000001,1000000.0,100.0,0.303457576255966,20.0,2024-05-05,,North America,
+Globex,help@globex.com,,Email Campaign,,True,001B000002,2500000.0,,,4.0,,,North America,Notes_Flag
+Acme Corp,contact@acme.com,,Email Campaign,1000.0,True,,2500000.0,25.0,0.6776954828113353,,2025-06-23,"{""type"": ""A"", ""value"": 100}",North America,
+Globex,help@globex.com,,Referral,10000.0,False,001B000002,1000000.0,25.0,0.185530887173862,12.0,2024-11-03,"{""type"": ""A"", ""value"": 100}",,
+Acme Corp,contact@acme.com,2022-12-01,Referral,50000.0,False,001C000003,2500000.0,75.0,,15.0,,,North America,Notes_Flag
+Soylent,,2022-12-01,Trade Show,50000.0,True,,1000000.0,50.0,0.1664016951936607,30.0,,,North America,
+Acme Corp,contact@acme.com,2023-08-04,Trade Show,1000.0,True,001C000003,1000000.0,,0.1517640976371194,,2024-05-05,,North America,Notes_Flag
+Umbrella,,2023-02-05,Social Media,1000.0,True,001A000001,2500000.0,,,14.0,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Globex,help@globex.com,,Partner,50000.0,False,001A000001,1000000.0,100.0,0.6387137291873083,4.0,,,North America,Notes_Flag
+Soylent,,,Social Media,50000.0,True,001A000001,1000000.0,25.0,0.4861499957474881,33.0,2024-05-05,,North America,Notes_Flag
+Acme Corp,contact@acme.com,2025-06-27,Social Media,,False,001C000003,1000000.0,50.0,,,,"{""type"": ""B"", ""value"": 200}",North America,
+Globex,help@globex.com,,Email Campaign,0.0,True,001B000002,100000.0,10.0,0.5122543931309184,37.0,,,North America,Notes_Flag
+Wonka,,2025-07-09,Trade Show,50000.0,False,,1000000.0,50.0,0.2032738885336441,2.0,,,North America,
+Umbrella,,2025-07-15,Referral,50000.0,False,001A000001,2500000.0,75.0,,27.0,,,North America,Notes_Flag
+Globex,help@globex.com,2025-01-13,Trade Show,,False,001C000003,,50.0,0.6233583980677653,,,"{""type"": ""A"", ""value"": 100}",North America,
+Umbrella,,2025-01-03,Referral,50000.0,False,,1000000.0,50.0,0.7167301372119237,35.0,2024-11-10,,North America,
+Acme Corp,contact@acme.com,2024-12-31,Trade Show,1000.0,False,,1000000.0,,,39.0,2024-05-05,,,
+Soylent,,2024-10-31,Trade Show,25000.0,True,001A000001,2500000.0,50.0,0.1650621415766759,4.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,
+Umbrella,,2022-12-01,Referral,10000.0,True,001A000001,1000000.0,25.0,0.9223090882115496,,,,,Notes_Flag
+Globex,help@globex.com,2024-08-01,Trade Show,10000.0,True,,,,,50.0,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,Trade Show,1000.0,True,,1000000.0,100.0,0.3000872878968427,14.0,2025-01-01,,North America,
+Acme Corp,contact@acme.com,,Email Campaign,50000.0,False,,2500000.0,10.0,0.0187707969617358,31.0,2025-06-15,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Acme Corp,contact@acme.com,,Trade Show,50000.0,False,,1000000.0,,,,2024-05-05,,North America,
+Umbrella,,2022-12-01,Referral,50000.0,False,001B000002,1000000.0,100.0,0.2684502803302631,41.0,,,,
+Globex,help@globex.com,,Email Campaign,1000.0,False,,5000000.0,75.0,0.64631157538778,36.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,
+Acme Corp,contact@acme.com,2022-12-01,Referral,50000.0,False,001C000003,,,,22.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Acme Corp,contact@acme.com,2023-12-10,Email Campaign,50000.0,True,001A000001,5000000.0,100.0,0.3129674407442206,,,"{""type"": ""B"", ""value"": 200}",North America,
+Globex,help@globex.com,,Web,50000.0,False,,1000000.0,50.0,0.0575116439756636,29.0,2025-01-08,,North America,Notes_Flag
+Globex,help@globex.com,2024-04-02,Referral,10000.0,False,001B000002,5000000.0,50.0,,25.0,2024-05-05,,,Notes_Flag
+Globex,help@globex.com,2023-02-18,Phone Inquiry,10000.0,False,,2500000.0,25.0,0.2409124796052566,8.0,2024-05-05,,North America,Notes_Flag
+Acme Corp,contact@acme.com,2024-04-08,Referral,,False,,1000000.0,75.0,0.7076781456387028,,,,North America,
+Initech,,2022-12-29,Referral,0.0,True,001A000001,1000000.0,25.0,,29.0,2025-01-01,"{""type"": ""A"", ""value"": 100}",,
+Acme Corp,contact@acme.com,2020-01-01,Referral,25000.0,False,001B000002,100000.0,10.0,0.1130946147687016,16.0,,,North America,Notes_Flag
+Soylent,,2020-01-01,Trade Show,1000.0,False,001A000001,1000000.0,10.0,0.7146175376909442,42.0,,"{""type"": ""A"", ""value"": 100}",,
+Umbrella,,2022-12-01,Trade Show,50000.0,False,001B000002,5000000.0,25.0,,,2024-10-14,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Umbrella,,,Email Campaign,10000.0,False,001B000002,2500000.0,100.0,0.2729007346310119,44.0,,,North America,Notes_Flag
+Umbrella,,,Phone Inquiry,25000.0,False,001B000002,1000000.0,100.0,0.7256141286773783,49.0,2024-05-05,,,
+Acme Corp,contact@acme.com,2020-01-01,Trade Show,50000.0,False,,1000000.0,100.0,,18.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Umbrella,,2022-12-01,Email Campaign,50000.0,True,,100000.0,25.0,0.2743101686920521,,2025-04-12,,North America,Notes_Flag
+Globex,help@globex.com,,Email Campaign,,False,,100000.0,75.0,0.2597188721536323,47.0,2025-06-13,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Soylent,,,Social Media,50000.0,True,,100000.0,100.0,,19.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Soylent,,2022-12-01,Email Campaign,10000.0,False,001A000001,1000000.0,10.0,0.6532078895572557,33.0,,,North America,
+Globex,help@globex.com,2024-09-15,Social Media,0.0,True,,,50.0,0.5540303621246141,,,,North America,
+Globex,help@globex.com,2024-11-02,Email Campaign,10000.0,False,,100000.0,10.0,,50.0,2024-05-05,,,
+Umbrella,,,Trade Show,50000.0,True,001C000003,2500000.0,25.0,0.0493732968976442,3.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Globex,help@globex.com,,,1000.0,True,,100000.0,50.0,0.9704760042557148,44.0,,"{""type"": ""B"", ""value"": 200}",North America,
+Acme Corp,contact@acme.com,,Trade Show,50000.0,False,,100000.0,50.0,,,,,North America,
+Globex,help@globex.com,2024-08-20,Partner,25000.0,False,001C000003,5000000.0,75.0,0.5021142155134299,41.0,,,,Notes_Flag
+Wonka,,2020-01-01,Email Campaign,50000.0,False,001A000001,1000000.0,75.0,0.080736642634189,45.0,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Globex,help@globex.com,2024-03-12,,50000.0,False,,1000000.0,75.0,,16.0,2024-05-05,,North America,
+Globex,help@globex.com,,Referral,10000.0,True,,1000000.0,10.0,0.2099214439738551,,,,North America,Notes_Flag
+Umbrella,,,Social Media,1000.0,True,,100000.0,,0.50133479374089,35.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,Partner,50000.0,True,001A000001,1000000.0,25.0,,4.0,,"{""type"": ""B"", ""value"": 200}",North America,
+Soylent,,2023-12-07,Referral,1000.0,True,,2500000.0,100.0,0.2462840717782752,24.0,2025-05-21,"{""type"": ""B"", ""value"": 200}",North America,
+Umbrella,,,Social Media,50000.0,True,,1000000.0,25.0,0.9231937503715212,,,,,Notes_Flag
+Globex,help@globex.com,2022-12-01,Trade Show,50000.0,True,,1000000.0,25.0,,20.0,,,North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,Email Campaign,10000.0,True,,1000000.0,25.0,0.5614030226207668,34.0,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Umbrella,,,Email Campaign,50000.0,False,001C000003,1000000.0,75.0,0.713411651330895,8.0,,"{""type"": ""A"", ""value"": 100}",,
+Acme Corp,contact@acme.com,2025-05-19,Email Campaign,,True,,2500000.0,10.0,,,,,,Notes_Flag
+Umbrella,,2025-01-08,,50000.0,False,001C000003,999999.0,,0.5641953865264113,50.0,,,North America,
+Acme Corp,contact@acme.com,2022-12-01,,50000.0,True,001A000001,1000000.0,50.0,0.2804778423095091,7.0,,,,Notes_Flag
+Soylent,,2022-12-01,Social Media,50000.0,True,001A000001,1000000.0,100.0,,4.0,,,North America,
+Globex,help@globex.com,2025-01-05,Phone Inquiry,50000.0,False,001C000003,,75.0,0.358143409324825,,,"{""type"": ""A"", ""value"": 100}",North America,
+Initech,,2025-07-02,Email Campaign,,True,,2500000.0,10.0,0.4210457248676953,21.0,2025-02-20,,,
+Soylent,,,,50000.0,True,,1000000.0,75.0,,20.0,,,North America,
+Umbrella,,,Phone Inquiry,50000.0,True,,2500000.0,50.0,0.5711796178220322,1.0,2025-02-05,,,Notes_Flag
+Umbrella,,,Email Campaign,25000.0,True,001B000002,1000000.0,75.0,0.021044601058954,,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Umbrella,,,Referral,,False,,1000000.0,,,43.0,2024-11-21,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Globex,help@globex.com,2022-12-01,Trade Show,,True,,1000000.0,75.0,0.6384995600219755,40.0,,,North America,
+Acme Corp,contact@acme.com,,Partner,1000.0,True,001A000001,2500000.0,100.0,0.169637348347822,3.0,,,North America,
+Umbrella,,,Trade Show,1000.0,True,,5000000.0,50.0,,,2025-07-18,"{""type"": ""A"", ""value"": 100}",North America,
+Soylent,,2020-01-01,Trade Show,25000.0,False,,1000000.0,10.0,0.2342062025657594,36.0,2025-01-09,,North America,
+Acme Corp,contact@acme.com,,Trade Show,50000.0,False,001B000002,2500000.0,75.0,0.2362286894236027,14.0,2025-03-23,,,
+Globex,help@globex.com,,Social Media,1000.0,False,001C000003,1000000.0,50.0,,39.0,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Globex,help@globex.com,2020-01-01,Social Media,50000.0,False,001C000003,1000000.0,25.0,0.9419493588779504,,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Wonka,,,Trade Show,1000.0,False,,1000000.0,25.0,0.6485837738359789,42.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Umbrella,,2022-12-01,Phone Inquiry,25000.0,False,,2500000.0,100.0,,27.0,,,North America,
+Globex,help@globex.com,,Phone Inquiry,,True,,1000000.0,25.0,0.417723807442046,42.0,,,North America,Notes_Flag
+Soylent,,2022-12-01,,1000.0,False,001A000001,2500000.0,50.0,0.0429304504530186,,,"{""type"": ""B"", ""value"": 200}",,
+Umbrella,,,Email Campaign,1000.0,True,,5000000.0,50.0,,1.0,,,North America,
+Wonka,,2025-07-19,Social Media,10000.0,False,,1000000.0,50.0,0.5843476197839779,32.0,2024-05-05,,North America,
+Umbrella,,,Trade Show,0.0,False,,999999.0,25.0,0.3181807381936983,24.0,2025-02-28,,North America,
+Soylent,,2023-12-22,Social Media,10000.0,False,001B000002,1000000.0,75.0,,,2024-05-05,,,
+Umbrella,,2024-05-12,Email Campaign,10000.0,True,001C000003,1000000.0,10.0,0.2164572931999743,28.0,,,,
+Umbrella,,2020-01-01,Email Campaign,1000.0,False,001A000001,1000000.0,75.0,0.1185344399642032,15.0,,"{""type"": ""A"", ""value"": 100}",,
+Globex,help@globex.com,2022-12-01,Email Campaign,1000.0,True,,2500000.0,,,13.0,,,North America,
+Soylent,,2022-12-19,,1000.0,False,,1000000.0,,0.1697072970853527,,2024-05-05,,North America,
+Acme Corp,contact@acme.com,2022-12-01,Trade Show,50000.0,True,001C000003,1000000.0,75.0,0.5804159771828885,38.0,2025-06-30,,,
+Globex,help@globex.com,,,,False,,999999.0,75.0,,28.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,
+Soylent,,2022-12-01,Email Campaign,10000.0,False,001B000002,1000000.0,75.0,0.4672434946276593,35.0,,,North America,
+Umbrella,,2022-12-01,Phone Inquiry,,True,,5000000.0,50.0,0.0326202493272631,,,"{""type"": ""A"", ""value"": 100}",,
+Acme Corp,contact@acme.com,,Trade Show,1000.0,False,001A000001,1000000.0,75.0,,44.0,,,,
+Globex,help@globex.com,2022-12-01,Web,50000.0,False,,1000000.0,100.0,0.4352926711473451,35.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,
+Globex,help@globex.com,2025-02-23,Email Campaign,,False,,5000000.0,50.0,0.3817941865635529,40.0,2025-03-13,,,Notes_Flag
+Globex,help@globex.com,2025-02-14,Social Media,1000.0,False,001A000001,1000000.0,10.0,,,,"{""type"": ""B"", ""value"": 200}",North America,
+Soylent,,2022-12-01,Social Media,25000.0,False,,2500000.0,50.0,0.2060199662637677,20.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Soylent,,2022-12-01,Referral,,True,,5000000.0,,0.3443643255133364,31.0,2024-05-05,,North America,
+Globex,help@globex.com,,Email Campaign,50000.0,True,001A000001,1000000.0,100.0,,7.0,,,,
+Umbrella,,2022-12-01,Social Media,10000.0,False,001C000003,1000000.0,25.0,0.4828852826098327,,,"{""type"": ""B"", ""value"": 200}",North America,
+Umbrella,,2023-03-12,Social Media,50000.0,False,001A000001,5000000.0,,0.6901702648352936,16.0,,,North America,
+Soylent,,,Trade Show,10000.0,False,001B000002,2500000.0,,,7.0,,,North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,Referral,25000.0,True,001C000003,5000000.0,,0.3412812001177966,39.0,,,,Notes_Flag
+Soylent,,2023-06-11,,50000.0,False,,2500000.0,100.0,0.5794410067870446,,2025-07-13,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Umbrella,,2020-01-01,Referral,1000.0,True,001C000003,1000000.0,50.0,,36.0,,"{""type"": ""B"", ""value"": 200}",,
+Umbrella,,2022-12-01,Email Campaign,50000.0,True,,1000000.0,100.0,0.7016457721363119,1.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,
+Soylent,,2025-05-17,Social Media,,True,001C000003,1000000.0,25.0,0.404979409179953,8.0,2024-09-28,,North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,Email Campaign,10000.0,True,,999999.0,25.0,,,2024-05-05,,,
+Globex,help@globex.com,2024-04-28,Trade Show,1000.0,True,,1000000.0,25.0,0.2444662648641912,11.0,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Umbrella,,2020-01-01,Trade Show,1000.0,True,001B000002,999999.0,10.0,0.0724727845598435,44.0,,,,Notes_Flag
+Acme Corp,contact@acme.com,,Trade Show,50000.0,False,001B000002,1000000.0,25.0,,6.0,2024-05-05,,North America,
+Globex,help@globex.com,2020-01-01,Social Media,10000.0,True,,1000000.0,100.0,0.3867576623906928,,2024-05-05,,,
+,,2022-12-01,Email Campaign,1000.0,False,,1000000.0,25.0,0.4310579229628741,50.0,,,,
+Acme Corp,contact@acme.com,,Social Media,10000.0,True,001C000003,1000000.0,,,8.0,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Umbrella,,2023-04-19,Email Campaign,10000.0,True,001A000001,1000000.0,50.0,0.0896514113284588,48.0,2024-05-05,,,
+Globex,help@globex.com,2020-01-01,Referral,50000.0,False,001B000002,1000000.0,75.0,0.9271146152876432,,2025-06-15,,,Notes_Flag
+,,2022-12-19,Referral,10000.0,False,001B000002,1000000.0,50.0,,22.0,2024-08-22,"{""type"": ""B"", ""value"": 200}",North America,
+Globex,help@globex.com,2020-01-01,Referral,1000.0,True,001C000003,1000000.0,,0.7771632171589296,13.0,,,,
+Umbrella,,2024-09-05,Social Media,0.0,False,,2500000.0,,0.8007161876753686,37.0,2024-12-18,,North America,
+Soylent,,2022-12-01,Email Campaign,10000.0,False,001A000001,1000000.0,50.0,,,2025-07-19,"{""type"": ""A"", ""value"": 100}",North America,
+Acme Corp,contact@acme.com,2024-10-16,Social Media,1000.0,True,,999999.0,25.0,0.0400544834045311,6.0,2024-05-05,,,
+Soylent,,2023-07-11,Referral,10000.0,False,001A000001,1000000.0,75.0,0.9131132533065242,13.0,2024-05-05,,North America,
+Initech,,2022-12-01,Trade Show,10000.0,False,001B000002,2500000.0,75.0,,20.0,,,North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-22,Referral,10000.0,False,001A000001,1000000.0,,0.2199385095209515,,2024-10-02,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Acme Corp,contact@acme.com,2025-03-23,Trade Show,10000.0,True,,999999.0,10.0,0.7093306419288286,6.0,,,North America,Notes_Flag
+Soylent,,2023-11-07,Email Campaign,1000.0,True,001B000002,1000000.0,75.0,,13.0,2024-11-13,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Acme Corp,contact@acme.com,2024-03-02,Trade Show,1000.0,True,,2500000.0,25.0,0.5522487293181682,3.0,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Umbrella,,2022-12-01,Trade Show,10000.0,True,001C000003,1000000.0,,0.1491526030993406,,,,North America,
+Umbrella,,2024-10-01,Email Campaign,50000.0,True,,100000.0,50.0,,21.0,2025-07-20,,,Notes_Flag
+Globex,help@globex.com,,Trade Show,10000.0,True,001B000002,1000000.0,,0.5335386588082759,39.0,2024-12-08,,North America,Notes_Flag
+Acme Corp,contact@acme.com,2024-06-20,Social Media,1000.0,False,001B000002,5000000.0,10.0,0.2479005551823698,29.0,2024-10-20,,North America,
+Initech,,,Email Campaign,1000.0,True,,1000000.0,10.0,,,,,,Notes_Flag
+Umbrella,,,Email Campaign,50000.0,False,001C000003,1000000.0,25.0,0.937053755232717,16.0,,,North America,
+Globex,help@globex.com,,Social Media,10000.0,False,,1000000.0,100.0,0.970750052141086,1.0,,"{""type"": ""B"", ""value"": 200}",,
+Soylent,,2025-01-14,Referral,10000.0,False,,999999.0,10.0,,8.0,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Umbrella,,,Trade Show,50000.0,True,001A000001,5000000.0,75.0,0.3430192522370795,,,,North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,Email Campaign,1000.0,False,,,50.0,0.1324388697707335,22.0,2024-05-05,,North America,
+Globex,help@globex.com,2022-12-01,Trade Show,0.0,True,001C000003,1000000.0,10.0,,1.0,,,North America,
+Umbrella,,2025-03-13,Referral,50000.0,True,001C000003,1000000.0,10.0,0.5460004752253665,1.0,,,North America,Notes_Flag
+Acme Corp,contact@acme.com,2024-04-20,Social Media,,True,001A000001,1000000.0,100.0,0.2851133876662384,,,,North America,
+Umbrella,,2022-12-01,Trade Show,10000.0,False,001C000003,2500000.0,100.0,,18.0,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Globex,help@globex.com,2020-01-01,Trade Show,1000.0,True,001C000003,5000000.0,75.0,0.0893959078818745,36.0,2024-11-04,,North America,
+Initech,,2022-12-01,Email Campaign,10000.0,False,,5000000.0,100.0,0.2115351103504787,19.0,,,North America,Notes_Flag
+Globex,help@globex.com,,Social Media,1000.0,True,001A000001,5000000.0,50.0,,,2024-05-05,,North America,
+Acme Corp,contact@acme.com,2024-07-11,Email Campaign,,True,001A000001,1000000.0,75.0,0.426158719556719,37.0,,,North America,
+Wonka,,,Partner,50000.0,False,001B000002,999999.0,100.0,0.5220225250336502,22.0,,,,Notes_Flag
+Initech,,2025-05-09,Email Campaign,25000.0,False,001A000001,1000000.0,10.0,,10.0,,,North America,
+Globex,help@globex.com,2022-12-01,Email Campaign,50000.0,True,001B000002,5000000.0,,0.8118141608643462,,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Acme Corp,contact@acme.com,2020-01-01,Social Media,,True,001B000002,2500000.0,10.0,0.0068906452639815,49.0,,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Globex,help@globex.com,,Social Media,25000.0,,001A000001,1000000.0,50.0,,6.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Umbrella,,2023-03-01,Social Media,10000.0,False,001C000003,999999.0,100.0,0.9642403223949946,17.0,2025-02-18,,North America,
+Globex,help@globex.com,2025-05-22,,50000.0,True,,1000000.0,50.0,0.8291238018897151,,,,North America,
+Acme Corp,contact@acme.com,2020-01-01,Referral,,False,001C000003,,10.0,,8.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,
+Umbrella,,2020-01-01,Partner,10000.0,False,,1000000.0,100.0,0.4723633480534781,14.0,,,,Notes_Flag
+Umbrella,,2025-02-08,Referral,50000.0,False,,,50.0,0.1731670435358689,36.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Globex,help@globex.com,2022-12-01,Email Campaign,1000.0,True,,1000000.0,100.0,,,2025-04-28,"{""type"": ""A"", ""value"": 100}",,
+Wonka,,2025-04-10,Partner,,True,,1000000.0,,0.7028623483869577,7.0,2024-05-05,,,
+Acme Corp,contact@acme.com,,Referral,10000.0,False,001B000002,1000000.0,75.0,0.2147424227157526,33.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Globex,help@globex.com,,Referral,,True,,1000000.0,50.0,,16.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Wonka,,2022-12-01,Email Campaign,1000.0,False,,1000000.0,25.0,0.991515761894694,,2025-05-31,,North America,Notes_Flag
+Globex,help@globex.com,,,,True,,1000000.0,25.0,0.9394817025081263,16.0,,"{""type"": ""A"", ""value"": 100}",,Notes_Flag
+Initech,,2022-12-01,Referral,50000.0,True,001C000003,1000000.0,100.0,,5.0,2025-05-07,,North America,
+Soylent,,2024-11-08,,0.0,False,,1000000.0,75.0,0.2799250253655962,0.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,
+Wonka,,2024-04-04,Email Campaign,50000.0,True,001C000003,,100.0,0.4222265457975278,,,"{""type"": ""A"", ""value"": 100}",North America,
+Umbrella,,2020-01-01,Email Campaign,1000.0,False,,1000000.0,75.0,,16.0,,"{""type"": ""B"", ""value"": 200}",North America,
+Acme Corp,contact@acme.com,2022-12-01,,25000.0,False,001B000002,2500000.0,,0.8537015843428312,36.0,,"{""type"": ""B"", ""value"": 200}",North America,
+,,2022-12-01,Partner,10000.0,False,001A000001,1000000.0,100.0,0.5324640629263605,18.0,2025-03-13,"{""type"": ""B"", ""value"": 200}",,
+Acme Corp,contact@acme.com,,Trade Show,10000.0,False,,1000000.0,10.0,,,,"{""type"": ""B"", ""value"": 200}",North America,
+Acme Corp,contact@acme.com,2022-12-01,Social Media,50000.0,True,001A000001,1000000.0,10.0,0.3481739849803508,40.0,,,,
+Acme Corp,contact@acme.com,2020-01-01,Social Media,0.0,False,,1000000.0,10.0,0.639347830926053,23.0,,,North America,
+Soylent,,2024-10-28,Referral,50000.0,False,001A000001,1000000.0,10.0,,7.0,2024-05-05,,North America,
+Acme Corp,contact@acme.com,,Phone Inquiry,,True,001A000001,1000000.0,25.0,0.3243255878354106,,,"{""type"": ""A"", ""value"": 100}",,
+Acme Corp,contact@acme.com,2024-05-26,Trade Show,50000.0,False,001C000003,1000000.0,,0.697954326528135,11.0,2024-11-15,"{""type"": ""A"", ""value"": 100}",North America,
+Umbrella,,2022-12-01,Trade Show,50000.0,False,001C000003,100000.0,50.0,,49.0,2024-05-05,,North America,Notes_Flag
+Soylent,,,Email Campaign,10000.0,False,001C000003,999999.0,,0.7940206614643988,33.0,,,North America,
+Globex,help@globex.com,2025-06-01,,10000.0,False,,2500000.0,75.0,0.7418209796851146,,2024-05-05,,,
+Initech,,2020-01-01,Referral,1000.0,False,001B000002,1000000.0,100.0,,24.0,,,,
+Soylent,,,Phone Inquiry,50000.0,False,,1000000.0,10.0,0.9289004734210564,29.0,,"{""type"": ""B"", ""value"": 200}",North America,
+Acme Corp,contact@acme.com,2020-01-01,Referral,10000.0,True,,1000000.0,50.0,0.9569854894036286,12.0,,,North America,Notes_Flag
+Umbrella,,2020-01-01,Trade Show,10000.0,False,001C000003,1000000.0,75.0,,,,"{""type"": ""B"", ""value"": 200}",North America,
+Soylent,,2022-12-01,Email Campaign,25000.0,True,,5000000.0,100.0,0.0796035027896596,22.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",,
+Initech,,,Trade Show,25000.0,True,,999999.0,,0.2300287443920536,12.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Globex,help@globex.com,,Trade Show,10000.0,False,001B000002,1000000.0,100.0,,8.0,2025-05-17,"{""type"": ""A"", ""value"": 100}",,
+Acme Corp,contact@acme.com,2022-12-01,Referral,1000.0,True,001B000002,5000000.0,10.0,0.4919707135681562,,,"{""type"": ""B"", ""value"": 200}",North America,
+Umbrella,,2024-10-18,Email Campaign,50000.0,False,001C000003,100000.0,50.0,0.2692885015643684,12.0,2024-08-28,,North America,
+Acme Corp,contact@acme.com,,Social Media,,True,001B000002,5000000.0,50.0,,5.0,2024-10-30,"{""type"": ""B"", ""value"": 200}",,
+Globex,help@globex.com,,,10000.0,False,001B000002,1000000.0,50.0,0.203853669097516,40.0,,"{""type"": ""A"", ""value"": 100}",North America,
+Globex,help@globex.com,2023-08-24,,1000.0,False,,1000000.0,100.0,0.014404208482367,,,,North America,
+Soylent,,2025-03-07,Referral,50000.0,True,,1000000.0,50.0,,24.0,,,,
+Initech,,2022-12-01,Referral,10000.0,True,001B000002,2500000.0,25.0,0.4820550263817179,35.0,,,,
+Umbrella,,,Email Campaign,50000.0,False,001B000002,100000.0,75.0,0.913610325101546,34.0,2024-09-05,,North America,Notes_Flag
+Globex,help@globex.com,2022-12-01,Phone Inquiry,,True,001B000002,1000000.0,10.0,,,,"{""type"": ""B"", ""value"": 200}",North America,
+Umbrella,,2022-11-08,Trade Show,25000.0,False,001A000001,999999.0,75.0,0.8107625006540591,30.0,,,North America,
+Acme Corp,contact@acme.com,,Referral,0.0,False,001A000001,2500000.0,50.0,0.3188753167585612,47.0,2024-05-05,,North America,Notes_Flag
+Globex,help@globex.com,,Email Campaign,,False,001B000002,,,,5.0,2024-05-05,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+,,2020-01-01,Referral,10000.0,False,,1000000.0,100.0,0.8900276625209904,,,"{""type"": ""B"", ""value"": 200}",,
+Acme Corp,contact@acme.com,,Trade Show,1000.0,False,,1000000.0,100.0,0.0849210286858656,22.0,,"{""type"": ""B"", ""value"": 200}",,Notes_Flag
+Umbrella,,2025-07-04,Referral,0.0,False,,,10.0,,46.0,2025-04-10,"{""type"": ""B"", ""value"": 200}",North America,
+Globex,help@globex.com,2022-11-10,Social Media,10000.0,True,,2500000.0,10.0,0.4214279593226747,7.0,2024-12-18,,North America,
+Umbrella,,2025-03-10,Referral,10000.0,True,001C000003,,100.0,0.7561896568882888,,2024-05-05,,North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,Social Media,,False,001A000001,5000000.0,25.0,,7.0,,,North America,
+Globex,help@globex.com,,Social Media,,True,001A000001,1000000.0,25.0,0.3336542098319405,26.0,2025-05-27,,North America,
+Wonka,,2024-09-19,Social Media,50000.0,True,001A000001,2500000.0,50.0,0.831307098971977,37.0,,,North America,Notes_Flag
+Acme Corp,contact@acme.com,,Email Campaign,50000.0,False,001A000001,1000000.0,100.0,,,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,Notes_Flag
+Umbrella,,2024-10-15,Social Media,25000.0,True,,5000000.0,100.0,0.1713557345766418,33.0,,,,Notes_Flag
+Globex,help@globex.com,,Email Campaign,50000.0,False,001B000002,,25.0,0.4202606568118948,21.0,,"{""type"": ""B"", ""value"": 200}",North America,
+Acme Corp,contact@acme.com,2022-12-01,Social Media,50000.0,True,,1000000.0,,,44.0,,,North America,Notes_Flag
+Globex,help@globex.com,2022-12-01,Email Campaign,1000.0,False,001B000002,1000000.0,,0.5243438763538185,,,,North America,Notes_Flag
+Soylent,,2020-01-01,Trade Show,50000.0,False,001B000002,100000.0,,0.9846286293846398,50.0,,,North America,
+Soylent,,2022-12-01,Trade Show,10000.0,False,001B000002,5000000.0,75.0,,21.0,,,North America,
+Acme Corp,contact@acme.com,2023-11-18,Referral,25000.0,True,001B000002,5000000.0,75.0,0.9749232363763684,13.0,2024-05-05,"{""type"": ""B"", ""value"": 200}",North America,
+Soylent,,,Email Campaign,10000.0,False,001B000002,2500000.0,100.0,0.871012738990196,,,,North America,
+Globex,help@globex.com,2022-12-01,Trade Show,50000.0,True,001B000002,100000.0,75.0,,3.0,,,North America,
+Acme Corp,contact@acme.com,2023-04-18,Social Media,1000.0,True,001B000002,1000000.0,,0.543196583074212,50.0,,"{""type"": ""A"", ""value"": 100}",North America,Notes_Flag
+Acme Corp,contact@acme.com,2022-12-01,Trade Show,50000.0,True,001A000001,1000000.0,10.0,0.928004163737191,12.0,,,North America,Notes_Flag
+Globex,help@globex.com,2020-01-01,Phone Inquiry,10000.0,False,,1000000.0,,,,,"{""type"": ""B"", ""value"": 200}",North America,
+Acme Corp,contact@acme.com,2024-01-28,Email Campaign,10000.0,False,001A000001,1000000.0,75.0,0.5726609206570191,32.0,,,,
+Acme Corp,contact@acme.com,,Web,10000.0,False,,999999.0,10.0,0.5537502871022155,36.0,,,North America,
+Globex,help@globex.com,2020-01-01,Social Media,0.0,False,001A000001,5000000.0,75.0,,18.0,,,North America,
+Acme Corp,contact@acme.com,2022-12-01,Referral,25000.0,False,001B000002,1000000.0,50.0,0.9550924621352528,,2025-04-29,,North America,
+Initech,,2022-12-01,Phone Inquiry,1000.0,True,,1000000.0,,0.2629513049519324,37.0,,"{""type"": ""B"", ""value"": 200}",,
+Globex,help@globex.com,2022-12-01,Social Media,50000.0,False,001C000003,,50.0,,3.0,,,North America,
+Umbrella,,,Social Media,10000.0,True,001B000002,100000.0,75.0,0.3443362715434562,20.0,,"{""type"": ""B"", ""value"": 200}",,
